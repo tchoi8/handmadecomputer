@@ -13,7 +13,7 @@ This posting is for Sam and Paul who I'm working with for a piece to be publishe
 - General feeling of the piece is playful and friendly and yet critical in core points.
 - It will be an online introduction to the conceptual art project of Handmade computer. Installation view at the National Museum of Contemporary Art, South Korea.
 
-![](https://farm1.staticflickr.com/544/18468672656_c7fd8faa88_z.jpg)
+![](https://farm1.staticflickr.com/287/18308896019_6fb000a78b_z.jpg)
 
 The diagram installation.
 
