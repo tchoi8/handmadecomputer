@@ -33,16 +33,18 @@ The piece will take inspiration from an interactive storytelling projects such a
 
 Media objects appear and disappear in response to vertical scroll. The images appear in foreground and background, some of which are video 
 Text bubble shows up, disappear (text bubble includes my handwriting) on top of the static image. This can be very helpful for dense images like this one)
+![](https://farm4.staticflickr.com/3885/14442989638_19b14f5bc3_z.jpg)
+
 In total, I think there will be about 7~10 images which react to the vertical scroll, and more images that are embedded between the text. 
 
 ###Binary logic demonstration
  
-**Basic version**: An animation of binary logic and how it can be used to manipulate NAND gates and construct digital clock (oscillator), half adder and memory (flip-flop). The animaiton will go through various steps of logic, each part will be sequenced like a sprite animation. The animation will be based on hand drawings of the circuit. It may also involved having a static image on the background and having a small part of the drawing animate. 
+**Basic version**: An animation of binary logic and how it can be used to manipulate NAND gates and construct digital clock (oscillator), half adder and memory (flip-flop). The animaiton will go through various steps of logic, each part will be sequenced like a sprite animation. The animation will be based on hand drawings of the circuit. It may also involved having a static image on the background and having a small part of the drawing animate. If we don't have the time to make this with JS or anything that makes it native for the web, I can make an animated gifs, but it will be less awesome. 
 
 **Full version**:
 
 
-This maybe the piece for Rhizome.org main page. The hardware 1 bit computer demonstration starts around 1 minute into [this video](https://vimeo.com/122206226).  
+This maybe the piece for Rhizome.org main page. It's the visual explanation of the hardware 1 bit computer demonstration starts around 1 minute into [this video](https://vimeo.com/122206226).  
 
 The demonstration is an interactive object which react to the users mouse click. The animation will be composed of four scenes, first three scenes demonstrate three elements of the computer and the final scene connects three components to make the primitive form of computer. 
 
@@ -50,7 +52,12 @@ Mouse Interaction: Viewer's mouse over the resistor sign and dragging to the lef
 ![](https://farm1.staticflickr.com/268/18309860140_11f0769a0b.jpg)
 
 For Memory, flip flop, the viewers may lock the data on the latch. This means that when they click S or R, the corresponding output will be turned on and off. If they lock the gate by clicking on the other input (R for S, S for R), and click on S or R, the data will remain stored until the gate is unlocked.
+![](https://cdn.sparkfun.com/assets/learn_tutorials/2/1/6/34-sr-latch-nand.png)
 
+And it will complete with Half adder. 
+![](http://elm.eeng.dcu.ie/~molloyd/EE223Files/lab2_files/halfadderlogic.gif)
+These images will be presented as a one complex schematic in the final scene. 
+The viewers will be able to add two numbers and remember it by holding the bit on the latch, and delete it based on clock cycle. Thus we have an elementary state machine. 
 
 
 ###Embedded video 
