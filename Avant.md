@@ -2,6 +2,11 @@
 
 This posting is for Sam and Paul who I'm working with for a piece to be published at Avant.org soon.
 
+
+![](https://farm1.staticflickr.com/544/18468672656_c7fd8faa88_z.jpg)
+![](https://farm1.staticflickr.com/332/17874452043_5cb122542c_z.jpg)
+![](https://farm1.staticflickr.com/267/18490762662_db92c689e1_z.jpg)
+
 #Overview 
 
 - Multimedia introduction to Handmade computer piece on Avant.org.
