@@ -39,7 +39,7 @@ In total, I think there will be about 7~10 images which react to the vertical sc
 
 ###Binary logic demonstration
  
-**Basic version**: An animation of binary logic and how it can be used to manipulate NAND gates and construct digital clock (oscillator), half adder and memory (flip-flop). The animaiton will go through various steps of logic, each part will be sequenced like a sprite animation. The animation will be based on hand drawings of the circuit. It may also involved having a static image on the background and having a small part of the drawing animate. If we don't have the time to make this with JS or anything that makes it native for the web, I can make an animated gifs, but it will be less awesome. 
+**Basic version**: An animation of binary logic and how it can be used to manipulate NAND gates and construct digital clock (oscillator), half adder and memory (flip-flop). The animaiton will go through various steps of logic, each part will be sequenced like a sprite animation. The animation will be based on hand drawings of the circuit. It may also involved having a static image on the background and having a small part of the drawing animate.  
 
 **Full version**:
 
@@ -55,7 +55,9 @@ For Memory, flip flop, the viewers may lock the data on the latch. This means th
 ![](https://cdn.sparkfun.com/assets/learn_tutorials/2/1/6/34-sr-latch-nand.png)
 
 And it will complete with Half adder. 
+
 ![](http://elm.eeng.dcu.ie/~molloyd/EE223Files/lab2_files/halfadderlogic.gif)
+
 These images will be presented as a one complex schematic in the final scene. 
 The viewers will be able to add two numbers and remember it by holding the bit on the latch, and delete it based on clock cycle. Thus we have an elementary state machine. 
 
@@ -66,4 +68,4 @@ Short clips of the video documentations of the making process and demonstraion w
 
 
 ### Dev
-JavaScript: I will be stoked if we can use [p5.js](http://p5js.org) to make the interactive parts, because the open source community around p5 is great, and I can see the right kind of readers coming in from there. Also the piece can be featured in p5 gallery. However, I understand the library is still limited and might not be the most efficient ways of doing things. 
+JavaScript: I will be stoked if we can use [p5.js](http://p5js.org) to make the interactive parts, because the open source community around p5 is great. Also if the piece is featured in p5 gallery, I can see the right kind of readers coming in from there. However, I understand the library is still limited and there might be more efficient ways of doing things. 
