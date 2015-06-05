@@ -14,7 +14,7 @@ This posting is for Sam and Paul who I'm working with for a piece to be publishe
 
 Material that already exist online
 
-- The project [landing page](http://taeyoonchoi.com/handmade-computer/)
+- The project [documentation page](http://taeyoonchoi.com/handmade-computer/)
 - Photo gallery [process](https://www.flickr.com/photos/80913365@N04/sets/72157642581138505)
 - Mock up with images selections on [medium](https://medium.com/@tchoi8/29dec535074a) 
 - Inspiration for layout, [Korean webtoons](http://webtoon.daum.net/webtoon/viewer/27963) 
