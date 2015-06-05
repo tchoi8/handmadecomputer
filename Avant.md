@@ -3,6 +3,16 @@
 This posting is for Sam and Paul who I'm working with for a piece to be published at Avant.org soon.
 
 
+
+#Overview 
+
+- Multimedia introduction to Handmade computer piece on Avant.org.
+- Readers scroll down to view the piece, few elements react to mouse click, mouse drag and etc. 
+- Media contents include plain text, drawing (jpg, gif), video (quicktime file or vimeo link), photograph (jpg). 
+- Viewing/reading time- 10 minutes or less, although they may connect to other resources with more material.     
+- General feeling of the piece is playful and friendly and yet critical in core points.
+- It will be an online introduction to the conceptual art project of Handmade computer. Installation view at the National Museum of Contemporary Art, South Korea.
+
 ![](https://farm1.staticflickr.com/544/18468672656_c7fd8faa88_z.jpg)
 
 The diagram installation.
@@ -13,15 +23,7 @@ Lab bench installation.
 
 ![](https://farm1.staticflickr.com/267/18490762662_db92c689e1_z.jpg)
 
-Circuit details.
-
-#Overview 
-
-- Multimedia introduction to Handmade computer piece on Avant.org.
-- Readers scroll down to view the piece, few elements react to mouse click, mouse drag and etc. 
-- Media contents include plain text, drawing (jpg, gif), video (quicktime file or vimeo link), photograph (jpg). 
-- Viewing/reading time- 10 minutes or less, although they may connect to other resources with more material.     
-- General feeling of the piece is playful and friendly and yet critical in core points. 
+Circuit details. 
 
 #Material 
 
