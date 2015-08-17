@@ -8,3 +8,11 @@ I'm planning to create a dedicated website for the project with all technical an
 This repo will also contain material for interviews, collaboration and etc.
 
 ![Install shot](https://farm1.staticflickr.com/344/18308862959_f0d2f5c598_z.jpg)
+
+
+Table of contents: 
+
+Entry:
+
+
+Exit: 
