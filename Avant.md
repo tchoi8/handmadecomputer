@@ -52,6 +52,9 @@ Text bubble shows up, disappear (text bubble includes my handwriting) on top of 
 
 In total, I think there will be about 7~10 images which react to the vertical scroll, and more images that are embedded between the text. 
 
+### Image gallery 
+I wonder, and I wish we can implement an image gallery where photos (drawings mostly) will swipe horizontally. So if the reader reach that point, he/she need to click, or some interaction, through all images to continue reading. It's like a pause in the vertical scroll and a chance to show many images without adding the length of the piece. 
+
 ###Binary logic demonstration
  
 **Basic version**: An animation of binary logic and how it can be used to manipulate NAND gates and construct digital clock (oscillator), half adder and memory (flip-flop). The animaiton will go through various steps of logic, each part will be sequenced like a sprite animation. The animation will be based on hand drawings of the circuit. It may also involved having a static image on the background and having a small part of the drawing animate.  
