@@ -12,7 +12,13 @@ This repo will also contain material for interviews, collaboration and etc.
 
 Table of contents: 
 
-Entry:
-
-
-Exit: 
+1. Entry: [Enter the maze](https://github.com/tchoi8/handmadecomputer/tree/master/Entry)
+2. The world in Black and White: [Binary numbers and logic](https://github.com/tchoi8/handmadecomputer/tree/master/Entry)
+3. The dumpling shop as a CPU  
+4. Highway and the dark desert   
+5. The Interface paintings 
+6. Random Access City 
+7. Everything is made of NAND  
+8. Shift register 
+9. Finite State Machine 
+10. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
