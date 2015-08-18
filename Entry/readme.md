@@ -1,3 +1,8 @@
+![](https://farm1.staticflickr.com/653/20500115939_3f1e4d4611_o.jpg =600x)
+
+Enter the maze!  
+
+
 ![](https://farm1.staticflickr.com/640/20691382671_665072b822_z.jpg)
 
 

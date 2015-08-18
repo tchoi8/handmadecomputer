@@ -7,16 +7,15 @@ Table of contents:
 1. [Enter the maze](https://github.com/tchoi8/handmadecomputer/tree/master/Entry)
 2. Interface [paintings](https://github.com/tchoi8/handmadecomputer/tree/master/Interface)  
 3. The World in Black and White: [Binary numbers and logic](https://github.com/tchoi8/handmadecomputer/tree/master/Binary)
-3. Everything is made of [NAND]() //Nand Cat   
-4. Shift register 
-5. Finite State Machine 
-6. JNZJNZJNJ
-7. Turi
-4. [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) as a CPU   
-5. Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
-6. Random Access City 
- 
-10. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
+4. Everything is made of [NAND]() //Nand Cat   
+5.  Shift register 
+6.  Finite State Machine 
+7.  JNZ
+8.  Turing what? 
+9.  [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) as a CPU   
+10.  Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
+11. Random Access City 
+12. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
 
 Extra
 
