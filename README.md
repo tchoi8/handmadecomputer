@@ -8,13 +8,12 @@ Table of contents:
 2. Interface [paintings](https://github.com/tchoi8/handmadecomputer/tree/master/Interface)  
 3. The World in Black and White: [Binary numbers and logic](https://github.com/tchoi8/handmadecomputer/tree/master/Binary)
 4. Everything is made of [NAND]() //Nand Cat   
-5.  Shift register 
-6.  Finite State Machine 
-7.  JNZ
-8.  [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) what? 
+5.  [Shift register]((https://github.com/tchoi8/handmadecomputer/tree/master/ShiftRegister)) 
+6.  Man in an elevator, [Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM) 
+8.  [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine and JNZ 
 9.  [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) as a CPU   
 10.  Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
-11. Random Access City 
+11. [RAM](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity) City 
 12. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
 
 Extra
