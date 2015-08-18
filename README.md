@@ -11,7 +11,7 @@ Table of contents:
 5.  Shift register 
 6.  Finite State Machine 
 7.  JNZ
-8.  Turing what? 
+8.  [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) what? 
 9.  [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) as a CPU   
 10.  Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
 11. Random Access City 

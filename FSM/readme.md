@@ -1,8 +1,8 @@
 Finite State Machine 
 
-Man in an elevator.
-
+ 
 ![](https://farm1.staticflickr.com/666/20677709442_6f380d215d_k.jpg =600x) 
+ 
 
 Elevator man video or interactive snip bits.
 
