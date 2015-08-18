@@ -1,13 +1,12 @@
 # handmade computer
-Handmade Computer: Conceptual art project by Taeyoon Choi about the poetics and politics of computation. This repository is a collection of conceptual and technical writings about making of the Handmade computer. It also contains related materials including interviews, collaboration, exhibition information and etc.
- 
+Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com) about the poetics and politics of computation. This repository is a collection of technical and fictional writings and drawings related to the Handmade computer. 
 
 Table of contents: 
 
 1. [Enter the maze](https://github.com/tchoi8/handmadecomputer/tree/master/Entry)
 2. Interface [paintings](https://github.com/tchoi8/handmadecomputer/tree/master/Interface)  
-3. The World in Black and White: [Binary numbers and logic](https://github.com/tchoi8/handmadecomputer/tree/master/Binary)
-4. Everything is made of [NAND]() //Nand Cat   
+3. The World in Black and White: [Binary numbers and logic](https://github.com/tchoi8/handmadecomputer/tree/master/Binary) Everything is made of NAND
+4. Encounter with [Mr. Transistor]((https://github.com/tchoi8/handmadecomputer/tree/master/TTL) 
 5.  [Shift register]((https://github.com/tchoi8/handmadecomputer/tree/master/ShiftRegister)) 
 6.  Man in an elevator, [Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM) 
 8.  [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine and JNZ 
@@ -16,9 +15,11 @@ Table of contents:
 11. [RAM](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity) City 
 12. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
 
-Extra
+##Extra
 
-a. Interview with Thomas Twaites
-b. Userful resources 
-c. Workshop and teaching with this material 
+Here, there are also related materials including interviews, collaboration, exhibition information and etc of the Handmade Computer.  
+
+1. [Interview](https://github.com/tchoi8/handmadecomputer/tree/master/Interview_Thomas) with Thomas Twaites
+2. Userful resources 
+3. Workshop and teaching with this material 
 ![Install shot](https://farm1.staticflickr.com/344/18308862959_f0d2f5c598_z.jpg)
