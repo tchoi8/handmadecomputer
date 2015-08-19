@@ -38,6 +38,8 @@ Transistor - "Ok, let's try another analogy"
 ![](https://farm4.staticflickr.com/3882/14629137692_c29f415a21_o.jpg =600x)
 ![](https://farm4.staticflickr.com/3885/14442989638_2a42bd8375_k.jpg =600x)
 
+The [video demonstration](https://vimeo.com/113169467) of 8 bit RAM. 
+
 ## Random Access City 
 
 ![](https://farm1.staticflickr.com/574/20686739566_020d45b7e2_o.jpg)
@@ -47,3 +49,5 @@ Transistor - "Ok, let's try another analogy"
 ![](https://farm3.staticflickr.com/2905/14656651133_3fb2fb2a36_k.jpg =600x)
 ![](https://farm8.staticflickr.com/7471/15750679268_d0c73f9a5f_o.jpg =600x)
 ![](https://farm3.staticflickr.com/2925/14444232477_45bef3c378_o.jpg =600x)
+
+![](https://farm1.staticflickr.com/379/18607218102_f45e6d9b0c_o.jpg =600x)
