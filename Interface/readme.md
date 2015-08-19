@@ -1,4 +1,5 @@
 There are some aspects of computation that's similar to visual and literary art. 
+![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
 
 ##Abstraction 
 
