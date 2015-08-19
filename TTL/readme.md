@@ -4,7 +4,8 @@ Transistor to Transistor Logic
 ![](https://farm9.staticflickr.com/8681/16175163746_4353f95d75_b.jpg =600x)
 ![](https://farm9.staticflickr.com/8651/16014920329_84c17e7326_b.jpg =600x)
 
-
+![](https://farm6.staticflickr.com/5834/20688497726_7254678148_b.jpg =600x)
+![](https://farm1.staticflickr.com/735/20526762038_0ffffa868a_b.jpg =600x)
 - Concept
 - Examples
 - [XOR Gate](https://vimeo.com/130374006) 
