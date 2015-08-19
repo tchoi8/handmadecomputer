@@ -1,5 +1,5 @@
 # handmade computer
-Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com) about the poetics and politics of computation. This repository is a collection of technical and fictional writings and drawings related to the Handmade computer. 
+Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com) about the poetics and politics of computation. This repository is a collection of technical and fictional writings and drawings related to the Handmade computer. The piece will be made accessible through copublishing between [Avant.org](http://avant.org/) and [Rhizome.org](Rhizome.org) in near future. 
 
 Table of contents: 
 
@@ -13,7 +13,9 @@ Table of contents:
 9.  [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) as a CPU   
 10.  Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
 11. [RAM](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity) City 
-12. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
+12. ALU
+13. Signal, feedback, entropy (Against Digital)
+14. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
 
 ##Extra
 
