@@ -1,5 +1,5 @@
 # handmade computer
-Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com) about the poetics and politics of computation. This repository is a collection of technical and fictional writings and drawings related to the Handmade computer. The piece will be made accessible through copublishing between [Avant.org](http://avant.org/) and [Rhizome.org](Rhizome.org) in near future. 
+Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com) about the poetics and politics of computation. This repository is a collection of technical and fictional writings and drawings related to the Handmade computer.  
 
 Table of contents: 
 
@@ -14,15 +14,20 @@ Table of contents:
 10.  Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
 11. [RAM](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity) City 
 12. ALU
+13. Flip flops 
+14. Signals 
+13. Counter 
 13. Signal, feedback, entropy (Against Digital)
+14. Open Machine, Open City (FPGA, Parallel & Functional programming, Poetic computation, Occupy Movement )
 14. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
 
-##Extra
+##extra
 
-Here, there are also related materials including interviews, collaboration, exhibition information and etc of the Handmade Computer.  
+The Handmade computer will be made accessible through copublishing between [Avant.org](http://avant.org/) and [Rhizome.org](http://Rhizome.org) in near future (August~Septermber, 2015). 
+  
 
 1. [Interview](https://github.com/tchoi8/handmadecomputer/tree/master/Interview_Thomas) with Thomas Twaites
-2. Userful resources 
+2. Userful resources for making your own computer from scratch 
 3. Workshop and teaching with this material 
 4. Exhibition at The National Museum of Modern and Contemporary Art, Korea [Obejctology II: City of Makers](https://www.flickr.com/photos/80913365@N04/sets/72157654066625211)
 ![Install shot](https://farm1.staticflickr.com/344/18308862959_f0d2f5c598_z.jpg)
