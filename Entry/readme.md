@@ -50,5 +50,11 @@ It's possible through abstraction and repetition.
 ![](https://farm1.staticflickr.com/597/20664269176_2df4c0ed80_o.jpg =600x)
 ![](https://farm6.staticflickr.com/5799/20690521125_afe3bd6528_o.jpg =600x)
 
-The first computers were human, as in it was humans doing computation- like mathematics. The word computer actually is based on the etymology of 'someone doing the computation'. In the 
+The first computers were human, as in it was humans doing computation- like mathematics. The word computer actually is based on the etymology of 'someone doing the computation'. 
 
+## Reference
+
+- War in the age of Intelligent Machines, Manuel de Landa (1991) [wiki](https://en.wikipedia.org/wiki/War_in_the_Age_of_Intelligent_Machines)
+- The Information: A History, a Theory, a Flood, James Gleick (2001) [wiki](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
+- Code: The Hidden Language of Computer Hardware and Software,  Charles Petzold (1999) [wiki](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
+- Interface Effect,  Alexander R. Galloway (2012) [Book info](http://www.polity.co.uk/book.asp?ref=9780745662527)
