@@ -26,9 +26,4 @@ Here is Resistor!
 - [XOR Gate](https://vimeo.com/130374006) 
 
 For later, Transistor [Flip flop](https://sfpc.hackpad.com/Flip-flop-Pkk1ringGIB)
-
-Yolo
-YOlo
-YOLO
-TOLO
-YOOOLOOO
+ 
