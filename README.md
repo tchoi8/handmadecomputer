@@ -24,7 +24,8 @@ Table of contents:
 ##extra
 
 The Handmade computer will be made accessible through copublishing between [Avant.org](http://avant.org/) and [Rhizome.org](http://Rhizome.org) in near future (August~Septermber, 2015). 
-  
+
+[Handmade Computer Manifesto](https://github.com/tchoi8/handmadecomputer/blob/master/Manifesto.md)  
 
 1. [Interview](https://github.com/tchoi8/handmadecomputer/tree/master/Interview_Thomas) with Thomas Twaites
 2. Userful resources for making your own computer from scratch 
