@@ -1,3 +1,5 @@
+![](https://farm6.staticflickr.com/5668/20147158353_0904c4dd3a_o.jpg =600x)
+
 ![](https://farm1.staticflickr.com/749/20471659970_3608371450_z.jpg)
 
 Dumpling store can be seen as a CPU
