@@ -1,5 +1,8 @@
 #Handmade Computer Manifesto
 
+
+![](https://farm1.staticflickr.com/759/20574025150_79af8d7530_b.jpg =600x)
+ 
 1: Sometime near future, we will be making our own computers, out of desire as well as necessity.
 
 Evolution of the next generation technologies will happen in parallel with reflection and reconsideration of the obsolete technologies, craft and value and the vision. 
@@ -11,6 +14,8 @@ The tool, the human alter-ego will become aware of its autonomy and its ability 
 *FUTURE* 
 
 as an abstract concept is a pure form of commodity. In the world where fiction feels more real than the lived experience, I’m concerned with the Technological-Futuristic tendencies associated with the commodity products. Can we create work for the future without providing more ideas and language to be capitalized by the incumbent system?
+
+![](https://farm1.staticflickr.com/652/20139415594_b9bf8ddbf2_o.jpg =600x)
 
 3: The technological products that promise ‘personalization’ are often misleading the users into believing the customization means ownership. The user experience is designed to deliver gratifying sense of ‘Coming into one’ with the device. The One is the reflection on the black mirror, our, the users’ alter-ego. We own the reflection on the surface, not the device and the content. The mystery of personalization remains within the device.
 
