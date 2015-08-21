@@ -27,3 +27,5 @@ Here is Resistor!
 
 For later, Transistor [Flip flop](https://sfpc.hackpad.com/Flip-flop-Pkk1ringGIB)
 >>>>>>> 87418ed88ff157781b3eb65c9a88d76225dfc498
+
+HALO!
