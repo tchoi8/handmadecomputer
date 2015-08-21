@@ -3,4 +3,4 @@
 ![](https://farm8.staticflickr.com/7251/14007688534_adb24c48f8_k.jpg =600x)
 
 And out of NAND logic gates, you can make a 1 bit computer! 
-[Video](https://vimeo.com/136769465)
+[Here](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
