@@ -31,4 +31,8 @@ The Handmade computer will be made accessible through copublishing between [Avan
 2. Userful resources for making your own computer from scratch 
 3. Workshop and teaching with this material 
 4. Exhibition at The National Museum of Modern and Contemporary Art, Korea [Obejctology II: City of Makers](https://www.flickr.com/photos/80913365@N04/sets/72157654066625211)
-![Install shot](https://farm1.staticflickr.com/344/18308862959_f0d2f5c598_z.jpg)
+5. F.A.Q 
+
+
+!
+[Install shot](https://farm1.staticflickr.com/344/18308862959_f0d2f5c598_z.jpg)
