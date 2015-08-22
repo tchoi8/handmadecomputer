@@ -5,6 +5,7 @@
 ![](https://farm1.staticflickr.com/698/20582983309_a29db5cd2d_o.jpg =600x)
 
 There are many ways of defining a computer other than the desktop, laptop, or smartphone. "Computer," on the fundamental level is a tool that can do mathematical operations like add and multiply, remember information and follow an instruction. 
+
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm1.staticflickr.com/677/20743564316_cd05a6a605_o.jpg =600x)
 
