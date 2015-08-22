@@ -8,7 +8,7 @@ There are many ways of defining a computer other than the desktop, laptop, or sm
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm1.staticflickr.com/677/20743564316_cd05a6a605_o.jpg =600x)
 
-There is a silicon valley folklore that centers around protagonists like Jobs, Wozniak, a mythology of innovation. But what's left out of this glossy narrative are stories about militarization, state power, and mass production which provided the right political conditions and then financed the computer's invention. Before computers became personal, they were simply large analytics machines and tools for automating the growing electronic communications system.  
+There is a silicon valley folklore that centers around protagonists like Jobs, Wozniak, a mythology of innovation. But what's left out of this glossy narrative are stories about militarization, state power, and mass production which provided the right political conditions and then financed the computer's invention. Before computers became personal, they were simply large analytics machines and tools for automating the growing electronic communications system. [1] 
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 
 ![](https://farm6.staticflickr.com/5798/20744010546_aab45b8d87_b.jpg =600x)
@@ -33,8 +33,6 @@ These dawn and dusk states can be found in computation as well. Computing that's
 ![](https://farm1.staticflickr.com/597/20664269176_2df4c0ed80_o.jpg =600x)
 ![](https://farm6.staticflickr.com/5799/20690521125_afe3bd6528_o.jpg =600x)
 
-The first computers were human. In fact, we get the term "computer" from the outmoded practice of human computation, peoples whose profession was the performance of arithmetic for scientific, logistical, or military production.
-
  
 
 
@@ -50,7 +48,7 @@ Let's begin our journey of zeros and ones, transistors and clocks.
 
 
 ## Reference
-
+[1] The first computers were human. In fact, we get the term "computer" from the outmoded practice of human computation, peoples whose profession was the performance of arithmetic for scientific, logistical, or military production.
 - If you are interested in making a functional modern computer, open source, look at Bunnie Hung's [Open source laptop](http://www.bunniestudios.com/blog/?p=3265) project.  
 -   War in the age of Intelligent Machines, Manuel de Landa (1991) [wiki](https://en.wikipedia.org/wiki/War_in_the_Age_of_Intelligent_Machines)
 - The Information: A History, a Theory, a Flood, James Gleick (2001) [wiki](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
