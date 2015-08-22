@@ -4,16 +4,16 @@
 
 ![](https://farm1.staticflickr.com/698/20582983309_a29db5cd2d_o.jpg =600x)
 
-There are many ways of defining a computer other than a desktop, laptop, or any machine with a operating system that we use daily. Computer, on the fundamental level is a tool that can do mathematical operations like adding and multiplying, and also to remember information and follow an instruction. 
+There are many ways of defining a computer other than the desktop, laptop, or smartphone. "Computer," on the fundamental level is a tool that can do mathematical operations like add and multiply, remember information and follow an instruction. 
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm1.staticflickr.com/677/20743564316_cd05a6a605_o.jpg =600x)
 
-The silicon valley folklore center around protagonists like Job, Wozniak and Gates around the myth of innovation. What is often left untold behind the glossy narrative of innovation is the militarization and mass production which is the context for computer's invention. Before the computers became personal, it was first a large machine for analytics and then a tool that's controlled through feedback for the governance of communication.  
+There is a silicon valley folklore that centers around protagonists like Jobs, Wozniak, a mythology of innovation. But what's left out of this glossy narrative are stories about militarization, state power, and mass production which provided the right political conditions and then financed the computer's invention. Before computers became personal, they were simply large analytics machines and tools for automating the growing electronic communications system.  
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 
 ![](https://farm6.staticflickr.com/5798/20744010546_aab45b8d87_b.jpg =600x)
 
-Manuel DeLanda in "War in the Age of Intelligent Machines" chronicles the development of computational technology and theory from the perspective of the military operations.
+Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the development of computational technology and theory from the perspective of military operations.
 
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm6.staticflickr.com/5737/20583607739_e9852d2cd1_b.jpg =600x)
@@ -24,7 +24,7 @@ Manuel DeLanda in "War in the Age of Intelligent Machines" chronicles the develo
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
  
 ![](https://farm6.staticflickr.com/5621/20581998488_95d2982f66_b.jpg =600x)
-There are all beautiful states like dawn and dusk in computation as well. It's not Digital, but rather Analog. There were attempts at making Analog computers in the early stage of computer development. However, Digital computers became dominant standard quickly. Nowadays, the most interesting work in Analog computers are done in music through modular synthesizes.  Musicians like [Keith Fullerton Whitman](http://www.keithfullertonwhitman.com/)'s modular synth performances and recordings are similar to how I imagine Analog computers talk to each other. 
+These dawn and dusk states can be found in computation as well. Computing that's not digital, but analog. There were attempts at making analog computers during early computer development, however, digital computers quickly became the dominant standard. Nowadays, some of the most interesting work in analog computing happens in music, through construction and performance of modular synthesizers. Musicians like [Keith Fullerton Whitman](http://www.keithfullertonwhitman.com/), whose compositions are similar to how I imagine analog computers might talk to each other. 
  
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
  
@@ -33,7 +33,7 @@ There are all beautiful states like dawn and dusk in computation as well. It's n
 ![](https://farm1.staticflickr.com/597/20664269176_2df4c0ed80_o.jpg =600x)
 ![](https://farm6.staticflickr.com/5799/20690521125_afe3bd6528_o.jpg =600x)
 
-The first computers were human, as in it was humans doing computation some numbers and keeping track of the information. 
+The first computers were human. In fact, we get the term "computer" from the outmoded practice of human computation, peoples whose profession was the performance of arithmetic for scientific, logistical, or military production.
 
  
 
@@ -45,8 +45,7 @@ The first computers were human, as in it was humans doing computation some numbe
 </br>
 
 ![](https://farm1.staticflickr.com/653/20500115939_3f1e4d4611_o.jpg =600x)
-Let's begin our journey with Zeros and Ones with  Clocks and Transistors. 
-There is a map for the treausre. 
+Let's begin our journey of zeros and ones, transistors and clocks.
 
 
 
