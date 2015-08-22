@@ -1,3 +1,8 @@
+![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg)
+
+I liked dumplings so much!
+At the School for poetic computation, we like to have dumplings for lunch. Prosperity dumpling is right around the corner from our space in the Lower East Side. 
+
 ![](https://farm6.staticflickr.com/5668/20147158353_0904c4dd3a_o.jpg =600x)
 
 How to understand CPU through a dumpling shop operations.
