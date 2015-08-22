@@ -25,7 +25,6 @@ Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the develo
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
  
 ![](https://farm6.staticflickr.com/5621/20581998488_95d2982f66_b.jpg =600x)
-These dawn and dusk states can be found in computation as well. Computing that's not digital, but analog. There were attempts at making analog computers during early computer development, however, digital computers quickly became the dominant standard. Nowadays, some of the most interesting work in analog computing happens in music, through construction and performance of modular synthesizers. Musicians like [Keith Fullerton Whitman](http://www.keithfullertonwhitman.com/), whose compositions are similar to how I imagine analog computers might talk to each other. 
  
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
  
@@ -37,11 +36,8 @@ These dawn and dusk states can be found in computation as well. Computing that's
  
 
 
-</br>
-</br>
-</br>
-</br>
-</br>
+
+
 
 ![](https://farm1.staticflickr.com/653/20500115939_3f1e4d4611_o.jpg =600x)
 Let's begin our journey of zeros and ones, transistors and clocks.
