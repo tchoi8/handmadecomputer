@@ -1,11 +1,23 @@
-There are some aspects of computation that's similar to visual and literary art. 
-![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
+![](https://farm4.staticflickr.com/3786/12623364165_4fc3315269_o.jpg =600x)
+
+We look at computer screens for a very long time. 
+<Insert a story about the interface and abstraction> 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+![](https://farm9.staticflickr.com/8244/8664387048_eba69b22e3_b.jpg =600x)
+</br>
+</br>
 
 ##Abstraction 
 
 ![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
 
- 
+
 
 
 The Minimalists were interested in many things, not just the color and aesthetics. But also the systems in which the work creates itself. Their work, in a sesne, was about making *programs* which execute series of instructions that result in an action. 
@@ -17,6 +29,15 @@ One of the reason that the Minimalists' works are tricky to "Understand" is beca
 
  
 And some painters's work look like the Integrated Circuits inside. This image is a painting by [Peter Halley](http://www.peterhalley.com/). There are other artists in the Minimalists and Abstraction movement, or those inspired by such ideas. Their Abstract and geometric paintings remind me of inside of the computers.
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
  
 
 ##Repetition
@@ -46,3 +67,9 @@ It was like dreaming that you drive back home unburdened, enter your house with 
 It was like waking suddenly from the dream, seeing your house key on its hook, and luxuriating in the freedom from keys to model cities — in the deep ease of the haphazard and the habitual, the half-assed.
 
 *From Model City [7] by Donna Stonecipher*   
+
+
+There are some aspects of computation that's similar to visual and literary art. 
+
+<Bring back the story to the Computer Interface. 
+![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)

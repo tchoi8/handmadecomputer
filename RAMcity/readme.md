@@ -14,7 +14,19 @@ it's made of D-Type flip flops. From the Wikipedia "The D flip-flop captures the
 The magic behind the working of RAM is the Multiplexer and De-multiplexer, which is conveniently called MUX and DeMUX. 
 
 
+![](https://farm3.staticflickr.com/2914/14560630894_0921e6d5b2_b.jpg =600x)
+
 ![](https://farm3.staticflickr.com/2933/14630595245_7ea41be283_o.jpg =600x)
+
+"Ok this is too confusing. What is MUX and DeMUX again?" "
+
+![](https://farm6.staticflickr.com/5532/14560631144_30ef4dddc6_b.jpg =600x)
+Demux is like you have one Smily face, which is the input, and four binary switches, that is the thumbs up or down. The combination of thumbs change the logic withi the demux and route that one input to 16 outputs. 
+
+
+![](https://farm4.staticflickr.com/3883/14375838297_c42dab45a7_b.jpg =600x)
+
+This is 16 to one Mux. Read about it on the [wiki article](https://en.wikipedia.org/wiki/Multiplexer).
 
 Person - "Well, that's still pretty cryptic. I still don't understand much of this. 
 
@@ -28,10 +40,10 @@ Transistor - "Ok, let's try another analogy"
 ![](https://farm4.staticflickr.com/3848/14630132802_a985b76ff8_o.jpg =600x)
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)
  
+ ![](https://farm4.staticflickr.com/3911/14622643245_165131f532_b.jpg =600x)
 
 ##Wiring the 8 Bit RAM
-
-![](https://farm6.staticflickr.com/5033/14450128929_8053c5d7a3_o.jpg =600x)
+ 
 ![](https://farm3.staticflickr.com/2900/14626353221_caae6df4e2_o.jpg =600x)
 ![](https://farm4.staticflickr.com/3923/14443190747_86c8f2d880_o.jpg =600x) 
 ![](https://farm3.staticflickr.com/2905/14656651133_1da46a0884_o.jpg =600x)
@@ -51,3 +63,9 @@ The [video demonstration](https://vimeo.com/113169467) of 8 bit RAM.
 ![](https://farm3.staticflickr.com/2925/14444232477_45bef3c378_o.jpg =600x)
 
 ![](https://farm1.staticflickr.com/379/18607218102_f45e6d9b0c_o.jpg =600x)
+
+
+##Extra
+
+
+![](https://farm6.staticflickr.com/5033/14450128929_8053c5d7a3_o.jpg =600x)

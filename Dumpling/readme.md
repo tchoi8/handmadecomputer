@@ -21,7 +21,10 @@ CPU based on the Von Neumann Architecture
 More technical description.
 
 
- ##[Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM) and 
+##[Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM) and 
+
+
+Oh that thing! 
  
- ##[Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine. 
+##[Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine. 
 
