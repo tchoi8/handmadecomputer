@@ -21,8 +21,9 @@ Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com
 -   Open Machine(FPGA, Parallel & Functional programming, Open space and Occupy Movement)
 14. Endnotes: [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
 
-![](https://farm6.staticflickr.com/5760/20723067121_e16fc089d5_h.jpg =600x)
-![](https://farm9.staticflickr.com/8828/17872346314_da8ac8ca13_b.jpg =600x)
+![](https://farm6.staticflickr.com/5760/20723067121_e16fc089d5_h.jpg =400x)
+</br>
+![](https://farm9.staticflickr.com/8828/17872346314_da8ac8ca13_b.jpg =400x)
 
 ##extra
 

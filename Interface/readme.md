@@ -13,6 +13,12 @@ We look at computer screens for a very long time.
 </br>
 </br>
 
+There are some aspects of computation that's similar to visual and literary art. 
+
+![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
+<Bring back the story to the Computer Interface.> 
+
+
 ##Abstraction 
 
 ![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
@@ -69,7 +75,15 @@ It was like waking suddenly from the dream, seeing your house key on its hook, a
 *From Model City [7] by Donna Stonecipher*   
 
 
-There are some aspects of computation that's similar to visual and literary art. 
+##City 
 
-<Bring back the story to the Computer Interface. 
-![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
+Making a computer, and building an electronic circuit feels like building a tiny city. The Circuit board is the physical city and the electronic signal that travells in the wires are like the busy traffics in the city. The memories that are made and remembered in the buildings and the roads that connect them all. 
+ 
+
+![](https://farm8.staticflickr.com/7317/12623430973_1090c37a6e_b.jpg =600x)
+![](https://farm6.staticflickr.com/5540/12623818474_daf5f431a8_b.jpg =600x)
+ It's layered with many walls of buildings that repeat after each other. 
+![](https://farm4.staticflickr.com/3940/15752018125_41037ef0c6_b.jpg =600x)
+Also, the city from far away are abstracted into a box of mass. 
+![](https://farm8.staticflickr.com/7541/15566849007_edcf431bec_b.jpg =600x)
+In this piece, we are going to cut a small hole in the box and jump into the box to the world of zero and one. 

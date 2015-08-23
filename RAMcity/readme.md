@@ -52,6 +52,8 @@ Transistor - "Ok, let's try another analogy"
 
 The [video demonstration](https://vimeo.com/113169467) of 8 bit RAM. 
 
+
+
 ## Random Access City 
 
 ![](https://farm1.staticflickr.com/574/20686739566_020d45b7e2_o.jpg)
