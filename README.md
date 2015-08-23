@@ -1,25 +1,25 @@
 # Handmade Computer
 Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com) about the poetics and politics of computation. This repository is a collection of technical and fictional writings and drawings related to the Handmade computer.  
 
-Table of contents: 
+###Table of contents: 
 
-1. [Enter the maze](https://github.com/tchoi8/handmadecomputer/tree/master/Entry)
+1. [Introduction](https://github.com/tchoi8/handmadecomputer/tree/master/Entry)
 2. Interface [paintings](https://github.com/tchoi8/handmadecomputer/tree/master/Interface)  
-3. The World in Black and White: [Binary numbers and logic](https://github.com/tchoi8/handmadecomputer/tree/master/Binary) Everything is made of NAND
-4. Encounter with [Mr. Transistor](https://github.com/tchoi8/handmadecomputer/tree/master/TTL) 
-5.  Skating on the [Shift register](https://github.com/tchoi8/handmadecomputer/tree/master/ShiftRegister) 
-6.  Man in an elevator, [Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM) 
-8.  [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine 
-9.  [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) as a CPU   
-10.  Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
-11. [RAM](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity) City 
-12. ALU
-13. Flip flops 
-14. Signals 
-13. Counter 
-13. Signal, feedback, entropy (Against Digital)
-14. Open Machine, Open City (FPGA, Parallel & Functional programming, Poetic computation, Occupy Movement )
-14. Exit : [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
+3. [Zero and One](https://github.com/tchoi8/handmadecomputer/tree/master/Binary) Binary numbers and Boolean logic and [1-Bit Computer](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
+4.  CPU [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) 
+5. [RAM](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity) City 
+
+1~5 will be ready for Avant/ Rhizome publication in August 2015.  
+
+###Work in progress 
+
+-  Meet [Mr. Transistor](https://github.com/tchoi8/handmadecomputer/tree/master/TTL) 
+-  Skating the [Shift register](https://github.com/tchoi8/handmadecomputer/tree/master/ShiftRegister) 
+-  Highway and the [Dark Desert](https://github.com/tchoi8/handmadecomputer/tree/master/DarkDesert)   
+-  Memory. Flip flops 
+-   Signal, feedback, entropy 
+-   Open Machine(FPGA, Parallel & Functional programming, Open space and Occupy Movement)
+14. Endnotes: [To our friends](https://github.com/tchoi8/handmadecomputer/tree/master/Exit)
 
 ##extra
 

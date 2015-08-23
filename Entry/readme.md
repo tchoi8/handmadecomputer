@@ -55,12 +55,5 @@ Let's begin our journey of zeros and ones, transistors and clocks.
 <<<<<<< HEAD
 -   War in the age of Intelligent Machines, Manuel de Landa (1991) [wiki](https://en.wikipedia.org/wiki/War_in_the_Age_of_Intelligent_Machines)
 - The Information: A History, a Theory, a Flood, James Gleick (2001) [wiki](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)  
-  
-=======
-  
-  
-<<<<<<< HEAD
->>>>>>> f94c76eb767a33cb74e3e0d5f80d4a6673ff72dd
-=======
-  
->>>>>>> origin/master
+ 
+   
