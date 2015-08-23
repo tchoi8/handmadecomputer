@@ -59,4 +59,8 @@ Let's begin our journey of zeros and ones, transistors and clocks.
 =======
   
   
+<<<<<<< HEAD
 >>>>>>> f94c76eb767a33cb74e3e0d5f80d4a6673ff72dd
+=======
+  
+>>>>>>> origin/master
