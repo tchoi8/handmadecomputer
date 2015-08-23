@@ -5,38 +5,31 @@ There are some aspects of computation that's similar to visual and literary art.
 
 ![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
 
-And some painters's work look like the Integrated Circuits inside. This image is a painting by [Peter Halley](http://www.peterhalley.com/).
+ 
+
+
+The Minimalists were interested in many things, not just the color and aesthetics. But also the systems in which the work creates itself. Their work, in a sesne, was about making *programs* which execute series of instructions that result in an action. 
+
+One of the reason that the Minimalists' works are tricky to "Understand" is because it has been abstracted and the output of the work itself do not immediately correlate with the input, the process in which the artist made the piece. 
+  
 
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg)
 
-There are other artists in the Minimalists and Abstraction movement, or those inspired by such work, whose Abstract paintings remind me of the computers.
  
-![](https://farm1.staticflickr.com/565/20498976559_48cb404a62_o.jpg =600x)
-
-
-
--
-
--
-
--
-
-
-
+And some painters's work look like the Integrated Circuits inside. This image is a painting by [Peter Halley](http://www.peterhalley.com/). There are other artists in the Minimalists and Abstraction movement, or those inspired by such ideas. Their Abstract and geometric paintings remind me of inside of the computers.
+ 
 
 ##Repetition
 
 
+ ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
 
+ 
+This phrase "Each one comes to be a whole one to me" is from "The Making of Americans" by Gertrude Stein. I opened a random page in the book and picked this line, so it could have been any other phrase. In this book, a very long stroy is told and retold in many ways. The result is a fragmented narrative with multiple perspectives. 
 
-![](https://farm6.staticflickr.com/5824/20676702352_2e3fb339e3_o.jpg =600x)
+![](https://farm1.staticflickr.com/679/20823369765_30e3a61dd6_b.jpg =600x)
 
-![](https://farm1.staticflickr.com/614/20063368354_b5f7b4e363_b.jpg =600x)
-
-
-![](https://farm6.staticflickr.com/5761/20692702341_3f62250d9a_b.jpg =600x)
-
-*From Model City [7] by Donna Stonecipher* 
+It's a really long book, so maybe it's a good idea to look for another example that you can read quickly. *Model City* is a book of poems about cities by Donna Stonecipher. 
 
 It was like dreaming that you are given the keys to a model city and instantly feeling the burden of ownership, the keys weighing down your coat pocket so severely you start dreaming of giving them back.
 
@@ -52,6 +45,4 @@ It was like dreaming that you drive back home unburdened, enter your house with 
 
 It was like waking suddenly from the dream, seeing your house key on its hook, and luxuriating in the freedom from keys to model cities — in the deep ease of the haphazard and the habitual, the half-assed.
 
--- [Model City](http://www.amazon.com/Model-City-Donna-Stonecipher/dp/1848613881) 
-
-![](https://farm6.staticflickr.com/5774/20499197099_04825183fb_b.jpg =600x)
+*From Model City [7] by Donna Stonecipher*   
