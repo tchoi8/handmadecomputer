@@ -4,10 +4,10 @@ Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com
 ###Table of contents: 
 
 1. [Introduction](https://github.com/tchoi8/handmadecomputer/tree/master/Entry)
-2. Interface [paintings](https://github.com/tchoi8/handmadecomputer/tree/master/Interface)  
-3. [Zero and One](https://github.com/tchoi8/handmadecomputer/tree/master/Binary) Binary numbers and Boolean logic and [1-Bit Computer](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
-4.  CPU [Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) 
-5. [RAM](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity) City 
+2. [Interface](https://github.com/tchoi8/handmadecomputer/tree/master/Interface)  
+3. [Zero and One](https://github.com/tchoi8/handmadecomputer/tree/master/Binary)  
+4. [CPU Dumpling shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) 
+5. [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity)  
 
 1~5 will be ready for Avant/ Rhizome publication in August 2015.  
 

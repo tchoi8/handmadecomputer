@@ -38,12 +38,6 @@ Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the develo
 
 
 
-
-![](https://farm1.staticflickr.com/653/20500115939_3f1e4d4611_o.jpg =600x)
-Let's begin our journey of zeros and ones, transistors and clocks.
-
-
-
 ## Reference
 [1] The first computers were human. In fact, we get the term "computer" from the outmoded practice of human computation, peoples whose profession was the performance of arithmetic for scientific, logistical, or military production.
 - If you are interested in making a functional modern computer, open source, look at Bunnie Hung's [Open source laptop](http://www.bunniestudios.com/blog/?p=3265) project.  
