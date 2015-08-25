@@ -36,6 +36,13 @@ Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the develo
  
 
 
+Let's begin our journey of Zeros and Ones, Transistors and Clocks.
+
+
+![](https://farm1.staticflickr.com/704/20609043158_6237cd258f_o.jpg =600x)
+
+ 
+
 
 
 ## Reference
