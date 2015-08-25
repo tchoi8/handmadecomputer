@@ -1,7 +1,4 @@
-Everyday, we look at computer screens for a very long time.  
-
-</br>
-
+	
 ![](https://farm4.staticflickr.com/3786/12623364165_4fc3315269_o.jpg =600x)
 
 
@@ -33,13 +30,13 @@ The Minimalists painters were interested in more than just the formal qualities 
  </br>
  </br>
  
- ![](http://smithsonianchips.si.edu/augarten/images/augarten-1963-image.jpg =400x)
+ ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
 
 This is a microscopic image of a chip (Resistor - Transistor Logic) from 1963. 
  flip flop [1]. Images like these, the inside of chips, reveal the visual patterns, designed for engineering purpose but nonetheless appealing and interesting geometric forms. It reminds of works of Frank Stella, Sol Lewitt 
 
 
-![](http://smithsonianchips.si.edu/augarten/images/augarten-distantfuture-jj-image.jpg =400x)
+![](https://farm1.staticflickr.com/703/20884034731_b40b344d58_o.jpg =400x)
 
 Josephson Junctions Chip from IBM. 
 </br>
@@ -111,6 +108,6 @@ It was like waking suddenly from the dream, seeing your house key on its hook, a
 
 
 ##References 
-- [1] http://smithsonianchips.si.edu/augarten/index.htm 
+- [1] Stan Augarten, State of the Art, http://smithsonianchips.si.edu/augarten/index.htm 
 - [2] Peter Halley, Instant City, 1996, Acrylic, Day-Glo acrylic, Metallic acrylic &
 Roll-a-Tex on canvas 58 x 93 inches  
