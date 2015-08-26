@@ -8,7 +8,7 @@ Eversince Laptop computers became more powerful and popular, it's becoming incre
 
 The most important part in the computer is the Central Processing Unit, also known as CPU, the brain of computers. There are few popular designs of CPUs but most common design is called 'Von Neumann architecture' named after John von Neumann, a scientist who engineered the concept in 1945. 
 
-
+</br>
 
  
 I liked dumplings so much!
@@ -21,9 +21,35 @@ You walk in to the shop, super hungry and ready for some sizzling dumplings. You
  
 ![](https://farm1.staticflickr.com/749/20471659970_3608371450_z.jpg)
 
-What just happened can be broken up to few steps. If we think of the dumpling shop as the CPU, you ordering the dumplings was an Input of data. The chef knows all the menu and where the ingredients are stored in. Also he knows recipe for making more dumplings as well as what other customers have ordered before you arrived. All of this information is stored in his memory. The ingredients, frozen and prepared dumplings are farther away in the kitchen but it can be called back anytime he needs it. This is where the data is stored in the Storage, the difference between Memory and Storage is that Memory is more temporary and used constantly while it's needed, and the Storage is only called when there's a need for it. When he cooks the dumplings, he's performing operations like ALU, which stands to Arithmetic Logic Unit. ALU does all mathematics and logical operations, like comparing two informations, multiplying and subtracting. When the chef grills dumplings on the pan, or packs up the cooked food, he's acting like the Control Unit is the in charge of signalling the hardware devies to to execute instructions. ALU, Control Unit and other functionalities like Memories make up the Central Processing Unit. When he hands you the hot and tasty dumplings, this is the Output of the CPU Dumpling Shop. 
+
+What just happened can be broken up to few steps. If we think of the dumpling shop as the CPU, you ordering the dumplings was an Input of data. The chef knows all the menu and where the ingredients are stored in. Also he knows recipe for making more dumplings as well as what other customers have ordered before you arrived. All of this information is stored in his memory. The ingredients, frozen and prepared dumplings are farther away in the kitchen but it can be called back anytime he needs it. This is where the data is stored in the Storage, the difference between Memory and Storage is that Memory is more temporary and used constantly while it's needed, and the Storage is only called when there's a need for it. When he cooks the dumplings, he's performing operations like ALU, which stands to Arithmetic Logic Unit. 
+
+![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
+
+ALU does all mathematics and logical operations, like comparing two informations, multiplying and subtracting. When the chef grills dumplings on the pan, or packs up the cooked food, he's acting like the Control Unit is the in charge of signalling the hardware devies to to execute instructions. ALU, Control Unit and other functionalities like Memories make up the Central Processing Unit. When he hands you the hot and tasty dumplings, this is the Output of the CPU Dumpling Shop. 
+
+[Video of ALU construction and demonstration](https://vimeo.com/136831074)
+  
+  
+And then there are elements in the CPU. We can look at this device called "Finite State machine" to understand other elements. It's a nifty little machine that has many important components of the CPU. 
 
 
+  ![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
+  
+  
+  The four buttons in the front are Inputs. It's where you can input four bits of Information. If the button is pressed, an LED right infront of it lights up immediately and signals that the digit is 1. 
+  
+  The small red switch on the left is a enable selecting from Reading and Writing of the Data in to the RAM. 
+  
+  The small yellow switch on the right controls the counter which counts from Zero to 9, ten steps 
+  
+  The blue button is for Memory: It's function is to 
+  
+  The blue button next to the Counter control is a Load. If this switch is enabled, you can load the information that's stored in the RAM. 
+  
+  Four LEDs on the back are the Outputs. 
+  
+  
   
 ![](https://farm6.staticflickr.com/5636/20666499401_13440b1738_z.jpg)
 
