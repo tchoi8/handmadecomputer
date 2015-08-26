@@ -11,12 +11,9 @@ There are many ways of defining a computer other than the desktop, laptop, or sm
 
 There is a silicon valley folklore that centers around protagonists like Jobs, Wozniak, a mythology of innovation. But what's left out of this glossy narrative are parallel stories about militarization, state power, and mass production, which provided the right political conditions and financed the computer's invention. [1]
 
-![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
-
-Before computers became personal, they were simply large analytics machines and tools for automating the growing electronic communications system.
-
 ![](https://farm6.staticflickr.com/5798/20744010546_aab45b8d87_b.jpg =600x)
 
+Before computers became personal, they were simply large analytics machines and tools for automating the growing electronic communications system.
 
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm6.staticflickr.com/5737/20583607739_e9852d2cd1_b.jpg =600x)
