@@ -1,5 +1,5 @@
  
-Everyday, we look at computer screens for a very long time.  
+Everyday we look at computer screens for a very long time.  
 
 </br> 
 ![](https://farm4.staticflickr.com/3786/12623364165_4fc3315269_o.jpg =600x)
@@ -8,26 +8,27 @@ Everyday, we look at computer screens for a very long time.
 </br>
 </br>
 </br>
-We touch it, carry it and sleep next to it.
+We touch them, carry them, and sleep next to them.
 </br>
 </br>
 
 </br>
 </br>
 
-Information is stored in bits, our messages are communicated over the network and our living spaces are  pixels. l surface we live in is build by pixels.  
+And our lives are stored in bits, our messages turned to network packets, our living spaces are pixels.
 
 ![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
 
-Most of us have some knowledge about how to use computers. However, we have a limited understanding of the inner workings of computers behind the glossy screen and colorful User Interfaces. Computers operate complex tasks and operations through a series of abstraction and repeptition.   
- 
+Most of us have some knowledge about how to use a computer. But we have a limited understanding of the inner workings, what happens behind the screen and the colorful user interface.
 
+Fortunately, computers perform all the complex tasks we're familiar with through repeptition and abstraction of only a few simple operations.
+ 
 ![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
 
 
 
 
-The Minimalists painters were interested in more than just the formal qualities of the painting such as color and shape. They were also interested in the systems in which their work is created. Their working process was about making *programs*, a series of instructions that can be executed to result in an action and production. 
+The Minimalists painters were interested in more than just the formal qualities of the painting such as color and shape. They were also interested in the systems in which their work is created. Their working process was about making *programs*, a series of instructions that can be executed resulting in an action and production. 
 
  </br>
  </br>
