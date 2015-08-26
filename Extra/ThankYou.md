@@ -7,3 +7,5 @@ Jooyoung Sohn, Curator at the National Museum of Modern and Contemporary Art, So
 
 Thomas Twaites.
 
+Kyle McDonald.
+

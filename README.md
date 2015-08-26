@@ -25,18 +25,19 @@ Handmade Computer is an ongoing project by [Taeyoon Choi](http://taeyoonchoi.com
 </br>
 ![](https://farm9.staticflickr.com/8828/17872346314_da8ac8ca13_b.jpg =400x)
 
-##extra
+##stuff
 
 The Handmade computer will be made accessible through copublishing between [Avant.org](http://avant.org/) and [Rhizome.org](http://Rhizome.org) in near future (August~Septermber, 2015). 
 
-[Handmade Computer Manifesto](https://github.com/tchoi8/handmadecomputer/blob/master/Manifesto.md)  
 
-1. [Interview](https://github.com/tchoi8/handmadecomputer/tree/master/Interview_Thomas) with Thomas Twaites
-2. Userful resources for making your own computer from scratch 
-3. Workshop and teaching with this material 
-4. Exhibition at The National Museum of Modern and Contemporary Art, Korea [Obejctology II: City of Makers](https://www.flickr.com/photos/80913365@N04/sets/72157654066625211)
-5. F.A.Q 
+1. [Manifesto](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Manifesto.md)  
+2. [Introduction](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Introduction.md)  
+3. [Interview](https://github.com/tchoi8/handmadecomputer/tree/master/Extra/Interview_Thomas) with Thomas Twaites
+4. [Technical resources](https://github.com/tchoi8/handmadecomputer/tree/master/Extra/Tech) for making your own computer from scratch 
+5. Workshop and teaching with this material 
+6. Exhibition at The National Museum of Modern and Contemporary Art, Korea [Obejctology II: City of Makers](https://www.flickr.com/photos/80913365@N04/sets/72157654066625211)
+7. [F.A.Q](https://github.com/tchoi8/handmadecomputer/tree/master/Extra/QA.md)
+8. [Notes](https://github.com/tchoi8/handmadecomputer/tree/master/Extra/Notes)
 
 
-!
-[Install shot](https://farm1.staticflickr.com/344/18308862959_f0d2f5c598_z.jpg)
+![Install shot](https://farm1.staticflickr.com/344/18308862959_f0d2f5c598_z.jpg)
