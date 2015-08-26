@@ -15,20 +15,20 @@ We touch them, carry them, and sleep next to them.
 </br>
 </br>
 
-And our lives are stored in bits, our messages turned to network packets, our living spaces are pixels.
+Our lives are stored in bits, our messages turned to network packets, our living spaces are pixels.
 
 ![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
 
 Most of us have some knowledge about how to use a computer. But we have a limited understanding of the inner workings, what happens behind the screen and the colorful user interface.
 
-Fortunately, computers perform all the complex tasks we're familiar with through repeptition and abstraction of only a few simple operations.
+Fortunately, computers perform all the complex tasks we're familiar with through a few simple operations, repeated and abstracted. 
  
 ![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
 
 
 
 
-The Minimalists painters were interested in more than just the formal qualities of the painting such as color and shape. They were also interested in the systems in which their work is created. Their working process was about making *programs*, a series of instructions that can be executed resulting in an action and production. 
+The Minimalists painters were interested in more than just the formal qualities of the painting, such as color and shape. They were also interested in the systems in which their work is created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
 
  </br>
  </br>
@@ -36,13 +36,12 @@ The Minimalists painters were interested in more than just the formal qualities 
  
  ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
 
-This is a microscopic image of a chip (Resistor - Transistor Logic) from 1963. 
- flip flop [1]. Images like these, the inside of chips, reveal the visual patterns, designed for engineering purpose but nonetheless appealing and interesting geometric forms. It reminds of works of Frank Stella, Sol Lewitt and other artists. 
+This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the visual patterns of the interior circuitry which, designed for engineering purposes, are also quite geometrically appealing. They remind me of Frank Stella, Sol Lewitt, and the work other minimalist artists. 
 
 
 ![](https://farm1.staticflickr.com/703/20884034731_b40b344d58_o.jpg =400x)
 
-Josephson Junctions Chip from IBM. 
+Josephson Junctions Chip from IBM.
 </br>
 </br>
 </br>
@@ -51,7 +50,9 @@ Josephson Junctions Chip from IBM.
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
 
  
-  This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. Halley's works not only reminds of Chips but also computer architectures  such as the Von Neumann architecture which we will get into deeper with the chapter on [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up. 
+This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. Halley's work not only reminds me of microchips, but also computer design patterns such as the Von Neumann architecture which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/510px-Von_Neumann_Architecture.svg.png)
   
   ![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
   
