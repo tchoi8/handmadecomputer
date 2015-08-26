@@ -1,19 +1,17 @@
  
 ![](https://farm8.staticflickr.com/7471/15750679268_d0c73f9a5f_o.jpg =600x)  </br>  </br>  </br>  </br>  </br>
 
-When we are getting a new computer, we hear about how much RAM the computer has quiet a lot. Roughly speaking more RAM means the computer can do more things at the same time. It's different from Harddisk space in the computer, which is where all the software and data lives. What is RAM exactly? 
+When we are getting a new computer, quiet often we hear about how much RAM is inside of the computer. You can't really fit a lamb inside of a computer, so it must be something different. We usually understand having more RAM means the computer can do more things at the same time. RAM is memory but it's different from Hard disk space in the computer, which is where all the software and data lives. Then, what is RAM exactly? 
 It stands for Random Access Memory. We can think of a parking lot with 8 parking spots. 
 
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)
  
- It's like a Parking lot where the Entrance and Exit is controlled by a binray clock that's either close - Zero, or open - One. There are eight parking spaces, which is 8-bits of RAM. The new car, with is the Data coming in to the entrance, can not go to space which already has a car on it. The giant display on the back displays if a space is full or not. The cars can get out of the parking lot, by erasing the data that's been stored. This meas that when the gate is Open, Data of Zero is signalled into the input. After the data has been erased, new cars can come in to that space. The path between the parking spot and the gate is really narrow, so that only one car can come in and out at a time, this is how the Data can be called out asynchronously. 
+The Parking lot has one gate that's both entrance and exit for the cars. The gate is controlled by a binray clock that's either closed, on Zero state, or open on One state. There are eight parking spaces because our RAM can store up to 8-bits of Information. The Input can take in  Data, like a car waiting to come in to the parking lot. However the car can not go to a parking space which already has a car on it. To prevent this, the giant display on the back displays if a parking space is occupied or vacant. The cars can get out of the parking lot, which is like erasing the data that's been stored in the specific parking space. It's achieved when the gate is open, Zero (which means no car) is signalled into the Input. The circuit assigns the value of Zero to the Parking space. Now new car can come in to that space. Also the path between the parking space and the gate is really narrow and only one car can come in and out at a time. The combination of clock, mux, demux and flipflops complete a 9-bit Random Access memory, where Data can be written and read asynchronously. 
  </br>
 ![](https://farm1.staticflickr.com/655/20889869441_19e63ce7cb_o.jpg)
 
-The Parking spaces are made of D-Type flip flops. 
-
+The Parking spaces are made of D-Type flip flops. D stands for Data and Delay and it's a type of digital memory like the SR latch we made earlier. However it has additional input for clock signal. This is a latch that only change the Flip-Flop when the Clock input is on the rising edge. Therefore, even when there's a change in the Data input, if the clock signal is Low, or Zero, the Flip-Flop will not accept the new data. This delay feature also enables the Flip-Flop to hold data as long as the clock signal remains High or the address input (which is routed by the DEMUX) has been changed to another Flip-Flop. 
  
-It's a Digital memory like the SR latch we made earlier, but it has additional input for D which stands for Data and Delay. This is a latch that only changes value a change of state occurs in the Clock input. This means, even if there's a change in the D input, which stands for Data, if the clock signal is Low, or Zero, the Flip-Flop will not welcome the new data. It also means that the Flip-Flop will hold data as long as the clock signal remains High. 
   </br>
  ![](https://farm1.staticflickr.com/614/20695978869_4907925e5a_o.jpg) 
   
@@ -92,6 +90,7 @@ Around that time, I found a a book of poems about cities by Donna Stonecipher. T
 From Model City [7] by Donna Stonecipher
 
 ![](https://farm1.staticflickr.com/379/18607218102_f45e6d9b0c_o.jpg =600x)
+
 I made a painting of the Random Access City on the studio wall. 
 
 </br></br></br></br></br></br></br></br></br></br></br>
