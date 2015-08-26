@@ -9,12 +9,14 @@ There are many ways of defining a computer other than the desktop, laptop, or sm
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm1.staticflickr.com/677/20743564316_cd05a6a605_o.jpg =600x)
 
-There is a silicon valley folklore that centers around protagonists like Jobs, Wozniak, a mythology of innovation. But what's left out of this glossy narrative are stories about militarization, state power, and mass production which provided the right political conditions and then financed the computer's invention. Before computers became personal, they were simply large analytics machines and tools for automating the growing electronic communications system. [1] 
+There is a silicon valley folklore that centers around protagonists like Jobs, Wozniak, a mythology of innovation. But what's left out of this glossy narrative are parallel stories about militarization, state power, and mass production, which provided the right political conditions and financed the computer's invention. [1]
+
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
+
+Before computers became personal, they were simply large analytics machines and tools for automating the growing electronic communications system.
 
 ![](https://farm6.staticflickr.com/5798/20744010546_aab45b8d87_b.jpg =600x)
 
-Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the development of computational technology and theory from the perspective of military operations.
 
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm6.staticflickr.com/5737/20583607739_e9852d2cd1_b.jpg =600x)
@@ -46,6 +48,8 @@ Let's begin our journey of Zeros and Ones, Transistors and Clocks.
 
 
 ## Reference
+- Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the development of computational technology and theory from the perspective of military operations.
+
 [1] The first computers were human. In fact, we get the term "computer" from the outmoded practice of human computation, peoples whose profession was the performance of arithmetic for scientific, logistical, or military production.
 - If you are interested in making a functional modern computer, open source, look at Bunnie Hung's [Open source laptop](http://www.bunniestudios.com/blog/?p=3265) project.  
 - For more technical introduction to making a computer on a breadboard, check out [Kyle Hovey](http://8bitspaghetti.com/)'s [How to Build an 8-Bit Computer](http://www.instructables.com/id/How-to-Build-an-8-Bit-Computer/)
