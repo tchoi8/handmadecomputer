@@ -52,7 +52,6 @@ Josephson Junctions Chip from IBM.
  
 This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. Halley's work not only reminds me of microchips, but also computer design patterns such as the Von Neumann architecture which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/510px-Von_Neumann_Architecture.svg.png)
   
   ![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
   
@@ -61,29 +60,28 @@ This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled I
 </br>
 </br>
 </br>
-</br>![](https://farm1.staticflickr.com/679/20823369765_30e3a61dd6_b.jpg =600x)
+</br>
 </br>
 </br> 
 
  ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
 
  
-This phrase "Each one comes to be a whole one to me" is from "The Making of Americans" by Gertrude Stein. I opened a random page in the book and picked this line, so it could have been any other phrase. In this book, a stroy is told and retold in many ways. The result is a fragmented narrative with multiple perspectives. 
+This phrase "Each one comes to be a whole one to me" is from *The Making of Americans* by Gertrude Stein. I opened a random page in the book and picked this line, so it could have been any other phrase. In this book, a story is told and retold in many ways. The result is a fragmented narrative with multiple perspectives. 
 
+![](https://farm1.staticflickr.com/679/20823369765_30e3a61dd6_b.jpg =600x)
 
 </br>
-The paintings, circuits and books, they all have layer of shapes, walls and pages that repeat after each other. 
+Paintings, circuits, and books all make use of repetition. Layering shapes or wires or pages, the composition and logic of which allow them to function as a whole.
+
 ![](https://farm4.staticflickr.com/3940/15752018125_41037ef0c6_b.jpg =600x)
-Also, like the city from far away, pages of stories are abstracted into a tale. 
-We are now going to cut a small hole in to the abstracted form and jump into the world of zero and one.
+ 
+We are now going to cut a small hole into the abstracted form and jump into the world of zero and one.
 
 ![](https://farm8.staticflickr.com/7541/15566849007_edcf431bec_b.jpg =600x)
   
 
- 
-  
-
-Making a computer, and building an electronic circuit feels like building a tiny city. The Circuit board is the physical city and the electronic signal that travells in the wires are like the busy traffics in the city. The memories that are made and remembered in the buildings and the roads that connect them all. 
+Making a computer and building an electronic circuit feels like building a tiny city. The circuit board is a little urban architecture and its inhabitants a busy traffic of electronic signals. And just like cities, memories are made and remembered in the buildings and roads connecting them.
  
  
  
