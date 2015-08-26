@@ -5,7 +5,7 @@
 "Well, that kind of makes sense, right?" 
 
 
-![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg =200x)
+![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg=200x)
 
 "Not really...." 
 
