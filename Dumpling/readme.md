@@ -75,7 +75,7 @@ This Dumpling Shop can be a metaphor to underatand the most important part in a 
 
  </br>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/2000px-Von_Neumann_Architecture.svg.png =600x)
+![](https://farm6.staticflickr.com/5827/20311593064_44718b69c4_b.jpg =600x)
 
  </br>
 
@@ -122,6 +122,10 @@ The blue button next to the Counter control is a Load. If this switch is enabled
 ![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
  
 ALU is responsible for all mathematics and logical operations, like comparing two informations, multiplying and subtracting. It performs all artithmetic calculations and logical decisions.  Since computers only think and speak in Binary numbers, ALU also only deals with truth or false of operations.  
+
+![](https://farm6.staticflickr.com/5626/20313162303_a0112be8ff_b.jpg =600x)
+
+What's really fascinating about the ALU and the computers in general is that they are really made for binary loigic gates. ALU, which performs complex operations are still made of basic logic gates, as you as see on the diagram above. 
 
 When the chef grills dumplings on the pan, or packs up the cooked food, he's acting like the Control Unit. Control Unit is in charge of coordination the operation of all the other components.It is the in charge of signalling the hardware devies to to execute instructions. Together with ALU, Control Unit makes up the processor in CPU. 
 
