@@ -20,6 +20,9 @@ For AND gate, if you are shaking 100 hands all at the same time, the result is a
 
 In a NAND gate, if you are declined for date by 100 people together, the result is a true connection. ```[this needs some work]```
 
+[CPU DUMPLING SHOP ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
+
+
 But the NAND logic we are using only has two inputs, so in the case when all inputs are false, or 0, the result is true, or 1. 
 
 
