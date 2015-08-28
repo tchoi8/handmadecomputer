@@ -1,4 +1,4 @@
-1-bit Computer has the fundamental functionalities that are found in all computers. **Artithmetics**, it can add two single digit numbers and return a two digits output, **Clock**, it creates a square wave oscillation that turn on and off an LED in varying speed, and **Memory**, a latch that can store 1-bit of Information. 
+A 1-bit computer has all the fundamental abilities of the traditional computing device. It can perfom **artithmetic**, add two single digit numbers and return a two digit output. It has a **clock** that creates a square wave oscillation, turning on and off an LED at varying speed. And it has **memory**, a latch that can store 1-bit of information, a zero or a one. 
 
  
 ![](https://farm6.staticflickr.com/5744/20578210488_c5016e6191_b.jpg =600x)
@@ -6,15 +6,15 @@
 [Video]([Video](https://vimeo.com/136769465)
  
 
-This version of 1 Bit Computer is made of NAND Logic gates. 
+This version of **1 Bit Computer** is made of NAND logic gates. 
 ![](https://farm6.staticflickr.com/5667/20256616333_9961ff1b9b_b.jpg =600x)
 
-NAND logic is a short name of Not AND gate. A and B are inputs which can be either Zero or One, and Y is the output of the logic. In the Van Diagram, every shape is colored except the part that's intersecting. This means that result is all true except when both inputs are true.  
+NAND logic is a short name for **not** AND gate. A and B are inputs which can be either zero or one, and Y is the logical output. In the Van Diagram, every shape is colored except the intersecting region. This means the result is true for every input configuration **except** when both inputs are true.  
 
 ![](https://farm1.staticflickr.com/768/20256748743_ee1b9d967b_b.jpg =600x)
 
 
-For AND Gate, if you are sharking 100 hands all at the same time, the result is true, or 1.
+For AND Gate, if you are shaking 100 hands all at the same time, the result is true, or 1.
 
 ![](https://farm4.staticflickr.com/3886/14560630744_fac16725f9_b.jpg =600x)
 
