@@ -18,7 +18,7 @@ For AND gate, if you are shaking 100 hands all at the same time, the result is a
 
 ![](https://farm4.staticflickr.com/3886/14560630744_fac16725f9_b.jpg =600x)
 
-In a NAND gate, if you are declined for date by 100 people together, the result is a true connection. [this needs some work]
+In a NAND gate, if you are declined for date by 100 people together, the result is a true connection. ```[this needs some work]```
 
 But the NAND logic we are using only has two inputs, so in the case when all inputs are false, or 0, the result is true, or 1. 
 
@@ -28,12 +28,12 @@ By combining NAND gates in various arrangements we are able to make every other 
  
 ![](https://farm1.staticflickr.com/620/20773146321_b0c6b10767_o.jpg =600x)
 
-This 1 Bit Computer uses two TTL NAND logic chips, which are integrated circuit chips designed to perform NAND operations. The same logic could be implemented with transistors, vacuum tubes, or few lines of code in most programming languages.
+This 1 bit computer uses two TTL NAND logic chips, which are integrated circuit chips designed to perform NAND operations. The same logic could be implemented with transistors, vacuum tubes, or few lines of code in most programming languages.
 
 ![](https://farm1.staticflickr.com/774/20812984222_590f7b06e4_b.jpg =600x)
 
 
-<span style="color:red;">[we haven't given them the symbol for XOR, we may want to have a little key for all symbols or intro them one by one with the symbol.]</span> With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition would be 10, not ten but "one, zero." 
+```[we haven't given them the symbol for XOR, we may want to have a little key for all symbols or intro them one by one with the symbol.]``` With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition would be 10, not ten but "one, zero." 
 </br>
 0+0=0</br>
 0+1=1 </br>
@@ -48,7 +48,7 @@ The second basic computing operation is data storage, remembering information in
 
 ![](https://farm6.staticflickr.com/5800/20822480345_604712427c_b.jpg =400x)
 
-The binary clock simply switches between zero and one, visible to us as 'LED not lit,' and then 'LED lit.' The period in which the LED blinks, or the clock cycle, is determined by how fast the circuit switches between zero and one. Unlike other circuits for the 1-bit computer, the clock is made possible by utilizing the electrical properties of a resistor + capacitor combination, called the *Schmitt-Trigger*. Basically, the NAND gate output is connected via a variable resistor, which can change the amount of resistance between the input and output. A capacitor between the ground and the logic input then allows enough charge to build up behind the resistor to periodically cross the potential boundary. The other input is connected to the voltage, which eliminate the second input having 0 or False as the signal, turning NAND gate. The Input and Output of this gate is designed to have different value, but it's delayed by the resistor and capacitor. The Schimitt-Trigger makes enables the logic gate to remain unaffected until is con input ???
+The binary clock simply switches between zero and one, visible to us as 'LED not lit,' and then 'LED lit.' The period in which the LED blinks, or the clock cycle, is determined by how fast the circuit switches between zero and one. Unlike other circuits for the 1-bit computer, the clock is made possible by utilizing the electrical properties of a resistor + capacitor combination, called the *Schmitt-Trigger*. The NAND gate is bridged via a variable resistor, which can change the amount of current required to make that route available to the circuit. A capacitor between the ground and the logic input allows sufficient charge to build up behind the resistor to periodically cross the potential boundary. ```[we should talk this through, starts getting difficult to parse from here]``` The other input is connected to the power source, which eliminates the second input having 0 or False as the signal, turning NAND gate. The Input and Output of this gate is designed to have different value, but it's delayed by the resistor and capacitor. The Schimitt-Trigger makes enables the logic gate to remain unaffected until it is connected to the input ```???```
 
 
 
