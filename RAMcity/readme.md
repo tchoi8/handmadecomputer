@@ -102,4 +102,6 @@ I made a painting of the Random Access City on the studio wall.
 - [1] D-Type Flip-Flops can be also made from NAND logic gates.  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-Type_Transparent_Latch.svg/300px-D-Type_Transparent_Latch.svg.png)
 
-- [2] For detailed explanation of the Mux, refer to this [wiki article](https://en.wikipedia.org/wiki/Multiplexer). 
+- [2] For detailed explanation of the Mux, refer to this [wiki article](https://en.wikipedia.org/wiki/Multiplexer).
+
+[INTRODCTION ↻](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
