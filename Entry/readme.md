@@ -58,4 +58,4 @@ Let's begin our journey of Zeros and Ones, Transistors and Clocks.
 -   War in the age of Intelligent Machines, Manuel de Landa (1991) [wiki](https://en.wikipedia.org/wiki/War_in_the_Age_of_Intelligent_Machines)
 - The Information: A History, a Theory, a Flood, James Gleick (2001) [wiki](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)  
  
-   
+[INTERFACE ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
