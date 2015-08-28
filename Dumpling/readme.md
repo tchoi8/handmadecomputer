@@ -10,84 +10,87 @@
 "Not really...." 
 
 
-Even if it made some sense, 1-bit computer doesn't fully explain how the computers actually work. After many technical breakthroughs and industry's changing needs, computer evolved into the modern computers which we use daily for all kinds of needs.
+Even if it did make sense, the 1-bit computer doesn't quite explain how your laptop or smartphone actually works. After many technical breakthroughs and changing demand for computing tools, computers have evolved into the devices which we now use on a daily basis.
 
-Eversince Laptop computers became more powerful and popular, it's becoming increasingly rare for most users to build their own Personal Computer. However, everyone can buy CPU, Graphics card, RAM and other parts and assemble their own computers.  These modern computers are very powerful and can compute many bits of information on the slice of second. 
+Ever since laptop computers became more powerful and more popular, it's also become increasingly rare for people to build their own personal computer. However, everyone can buy CPU, graphics card, RAM and other parts and assemble their own computers. These modern computers are very powerful and can compute many bits of information in a fraction of a second.
 
 
  
-"All this talk is making me hungry. I craving some dumplings so much!"
+"All this talk is making me hungry. I'm really craving some dumplings!"
 ![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
 
-At the School for poetic computation, we like to have dumplings for lunch. [C & C Prosperity Dumpling](http://www.yelp.com/biz/prosperity-dumpling-new-york-2) is right around the corner from our space in the Lower East Side.  
+At the School for Poetic Computation, we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
 </br>
  
 
-I  walk in to the shop, super hungry and ready for some sizzling dumplings. There's a nice guy who works there. 
+I  walk in to the shop super hungry, ready for some sizzling dumplings. There's a nice guy who works there. 
 
 ![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
 
-I look at the menu and decide to get pork and chives dumplings. I ask the guy at the counter for 5 boiled dumplings and pay $1. He writes down your order on a piece of paper and put it on the counter next to previous orders.  
+I look at the menu and decide to get pork and chive dumplings. I ask the guy at the counter for 5 boiled dumplings and pay $1. He writes down my order on a piece of paper and puts it on the counter next to all the the previous orders.  
  
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
  
 </br> 
 
-He turns around and packs up few vegetable dumplings and give it to a customer who came before me. He then cooks pork and chives dumplings on the pot. I wonder if it's already my order. 
+He turns around, packs up a few vegetable dumplings, and gives them to the customer who came before me. He then puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
 
 ![](https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg =300x)
 
-There are number of customers who have been already waiting for their orders.  
+There are number of customers who have been waiting for their orders.  
  
 
- While I wait impatiently for the food, he takes in more orders from other customers.  And then cooks some more dumplings. 
+While I wait impatiently for my food, he takes in more orders from other customers. And then cooks some more dumplings. 
  
  ![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
  
- On the back of the kitchen, I see other people making more dumplings from scratch. There's a person who's peeling onion, another person cutting the chives.  
+In the back kitchen, I see other people making more dumplings from scratch. There's a person peeling onions, another person cutting chives.
  
 
 ![](https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg =300x)
 
-Another person making the dumplings by folding a flour skin into a shell like shape. All of them are busy and continuing to do their job. 
+Another person is folding the dumplings with the filling inside. All of them are busy doing their part to make our orders.
 
  
 ![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
 
-There are pans and also pots that are making dumplings. 
+There are pans and pots making dumplings. 
 
  
  
  ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
  
-  He says your food is ready.  And he packs up my order into a container and hand it to me. 
-  
-  
+He says your food is ready, packs up my order into a container, and hands it to me. 
+
+
  ![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
  
-  Oh yeah! Dumpling Time! 
+ Oh yeah! Dumpling time! 
  
  
 
- </br>
 
-This Dumpling Shop can be a metaphor to underatand the most important part in a computer, the Central Processing Unit, also known as CPU. The most common design of a CPU is called 'Von Neumann architecture' named after John von Neumann, a scientist who engineered the concept in 1945. Although computer technology has advanced dramatically since then, the conceptual framework of the CPU has remained largely similar to this concept. 
 
- </br>
+This dumpling shop can be a metaphor to underatand the most important part of the computer, the central processing unit, also known as CPU. The most common CPU design is called the 'Von Neumann architecture' named after John von Neumann, the mathematician who invented the design in 1945. Although computer technology has advanced dramatically since then, the conceptual framework of the CPU has remained largely unchanged.
+
+
 
 ![](https://farm6.staticflickr.com/5827/20311593064_44718b69c4_b.jpg =600x)
 
- </br>
-
-The Von Neumann architecture is based on a CPU that has Control Unit and Arithmetic Logic Unit. These two units communicate with Memory Unit when it's instructed by an Input. The output of its operation is communicated through Output device. This architecture makes it possible to store programs in the computer, where programs and data in memory can be treated interchangeably. In other words, this functionality to store information and call it as an instruction distinguishes the computers from electronic calculators, which can perform mathematic operations but has limited ability to store and recall programs. 
 
 
 
- </br>
+The Von Neumann architecture is based on a CPU that has *control unit* and an *arithmetic logic unit*. These two units communicate with the *memory unit* when it's instructed by an input. The output of this operation is communicated through output device. This architecture makes it possible to store programs in the computer, where programs and data in memory can be treated interchangeably. In other words, this functionality to store information and call it as an instruction distinguishes the computers from electronic calculators, which can perform mathematic operations but has limited ability to store and recall programs. 
+
+
+
+
+
 
 ![](https://farm6.staticflickr.com/5773/20825301555_0ecf439c0a_b.jpg =600x)
 
- </br>
+
+
 
 At the CPU Dumpling Shop, whenever a customer orders food, the information about their order is considered as a set of data entered into the input.  
 
@@ -143,3 +146,4 @@ More technical description.
   
 [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine. 
  
+[RAM CITY ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
