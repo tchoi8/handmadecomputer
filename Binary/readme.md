@@ -1,4 +1,4 @@
-A 1-bit computer has all the fundamental abilities of the traditional computing device. It can perfom **artithmetic**, add two single digit numbers and return a two digit output. It has a **clock** that creates a square wave oscillation, turning on and off an LED at varying speed. And it has **memory**, a latch that can store 1-bit of information, a zero or a one. 
+A 1-bit computer has all the fundamental abilities of the traditional computing device. It can perfom *artithmetic*, add two single digit numbers and return a two digit output. It has a *clock* that creates a square wave oscillation, turning on and off an LED at varying speed. And it has *memory*, a latch that can store 1-bit of information, a zero or a one. 
 
  
 ![](https://farm6.staticflickr.com/5744/20578210488_c5016e6191_b.jpg =600x)
@@ -6,41 +6,41 @@ A 1-bit computer has all the fundamental abilities of the traditional computing 
 [Video]([Video](https://vimeo.com/136769465)
  
 
-This version of **1 Bit Computer** is made of NAND logic gates. 
+This version of *1 Bit Computer* is made of NAND logic gates. 
 ![](https://farm6.staticflickr.com/5667/20256616333_9961ff1b9b_b.jpg =600x)
 
-NAND logic is a short name for **not** AND gate. A and B are inputs which can be either zero or one, and Y is the logical output. In the Van Diagram, every shape is colored except the intersecting region. This means the result is true for every input configuration **except** when both inputs are true.  
+NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
 
 ![](https://farm1.staticflickr.com/768/20256748743_ee1b9d967b_b.jpg =600x)
 
 
-For AND Gate, if you are shaking 100 hands all at the same time, the result is true, or 1.
+For AND gate, if you are shaking 100 hands all at the same time, the result is a true 100-person handshake, or 1.
 
 ![](https://farm4.staticflickr.com/3886/14560630744_fac16725f9_b.jpg =600x)
 
-In NAND Gate, if you are declined for date by 100 person at the same time, the result is true. 
+In a NAND gate, if you are declined for date by 100 people together, the result is a true connection. [this needs some work]
 
-NAND logic we are using only two inputs and and only when all of the inputs are false, or 0, the result is true, or 1. 
+But the NAND logic we are using only has two inputs, so in the case when all inputs are false, or 0, the result is true, or 1. 
 
 
-By combining NAND gate, we can make every other logic gates. This is called Universal Gate, because along with NOR gate, NAND can be combined to make every kind of logic. 
+By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
 
  
 ![](https://farm1.staticflickr.com/620/20773146321_b0c6b10767_o.jpg =600x)
 
-It uses two TTL NAND Logic Chips, which are Integrated Circuit Chip that's designed to perform logical operations of NAND logic gate. The same concept can be made with Transistor, Vacuum tubes as well as with few lines of code in most programming languages. 
+This 1 Bit Computer uses two TTL NAND logic chips, which are integrated circuit chips designed to perform NAND operations. The same logic could be implemented with transistors, vacuum tubes, or few lines of code in most programming languages.
 
 ![](https://farm1.staticflickr.com/774/20812984222_590f7b06e4_b.jpg =600x)
 
 
-With XOR and AND gate combined, we can make an Adder. Adder adds numbers. So in the world of Binary numbers, where every number is made of Zero and One, the output of the addition would be 10, not ten but One Zero. 
+With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zero and one, the output of the addition would be 10, not ten but one zero. 
 </br>
 0+0=0</br>
 0+1-1 </br>
 1+0=1 </br>
 1+1=10 </br>
 
-The last condition where 1+1 carries over the number to the next digit is the case of AND gate, and the first digit acts like XOR gate. By combining both logic gates, we can make an adding machine which is called Half Adder.  
+The last condition where 1+1 carries over the number to the next digit is the case of the AND gate, and the first digit acts like XOR gate. By combining both logic gates, we can make an adding machine which is called half adder.  
 
 ![](https://farm6.staticflickr.com/5795/20812986422_ee5529c19d_b.jpg =400x)
 
