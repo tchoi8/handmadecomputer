@@ -91,3 +91,5 @@ Making a computer and building electronic circuits feels like building a tiny ci
 - [1] Stan Augarten, State of the Art, http://smithsonianchips.si.edu/augarten/index.htm 
 - [2] Peter Halley, Instant City, 1996, Acrylic, Day-Glo acrylic, Metallic acrylic &
 Roll-a-Tex on canvas 58 x 93 inches  
+
+[ZERO & ONE / BINARY ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
