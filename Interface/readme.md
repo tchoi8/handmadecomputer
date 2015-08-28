@@ -81,7 +81,7 @@ We are now going to cut a small hole into the abstracted form and jump into the 
 ![](https://farm8.staticflickr.com/7541/15566849007_edcf431bec_b.jpg =600x)
   
 
-Making a computer and building an electronic circuit feels like building a tiny city. The circuit board is a little urban architecture and its inhabitants a busy traffic of electronic signals. And just like cities, memories are made and remembered in the buildings and roads connecting them.
+Making a computer and building electronic circuits feels like building a tiny city. The circuit board is a little urban architecture and its inhabitants a busy traffic of electronic signals. Just like cities, memories are made and remembered in the buildings and roads connecting them.
  
  
  
