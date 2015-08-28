@@ -69,4 +69,4 @@ Making process
 And out of NAND logic gates, you can make a 1 bit computer! 
 [Here](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
 
- 
+[CPU DUMPLING SHOP ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
