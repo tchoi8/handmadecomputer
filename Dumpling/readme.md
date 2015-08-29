@@ -9,11 +9,11 @@
 
 "Not really...." 
 
+Even if it did make sense, the 1-bit computer doesn't quite explain how your laptop or smartphone actually works.  
 
-Even if it did make sense, the 1-bit computer doesn't quite explain how your laptop or smartphone actually works. After many technical breakthroughs and changing demand for computing tools, computers have evolved into the devices which we now use on a daily basis.
+*1 Bit Computer* demontrates that Binary numbers and Boolean Logic can be configured to create the fundamental building blocks of computer. However, it's not capable of computing in anything significantly useful.  
 
-Ever since laptop computers became more powerful and more popular, it's also become increasingly rare for people to build their own personal computer. However, everyone can buy CPU, graphics card, RAM and other parts and assemble their own computers. These modern computers are very powerful and can compute many bits of information in a fraction of a second.
-
+On the other hand, everyone can buy CPU, graphics card, RAM and other parts and assemble their own computers. It's becoming increasingly rare for people to build their own personal computer because laptop, desktop and mobile computers that are completely ready for the end users are common and accesible. These modern computers are very powerful and can compute many bits of information in a fraction of a second, way more bits than our *1 Bit Computer*. 
 
  
 "All this talk is making me hungry. I'm really craving some dumplings!"
