@@ -33,12 +33,10 @@ I look at the menu and decide to get pork and chive dumplings. I ask the man at 
  
 
 
-He turns around, packs up a few vegetable dumplings, and gives them to the customer who came before me. He then puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
+He turns around, packs up a few vegetable dumplings, and gives them to the customer who came before me. Then he puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
 
 ![](https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg =300x)
 
-There are number of customers who have been waiting for their orders.  
- 
 
 While I wait impatiently for my food, he takes in more orders from other customers. And then cooks some more dumplings. 
  
@@ -54,7 +52,7 @@ Another person is folding the dumplings with the filling inside. All of them are
  
 ![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
 
-There are pans and pots making dumplings. 
+There are pots and pans full of dumplings. 
 
  
  
