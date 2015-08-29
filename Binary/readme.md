@@ -11,23 +11,14 @@ This version of *1 Bit Computer* is made of NAND logic gates.
 
 NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
 
-![](https://farm1.staticflickr.com/768/20256748743_ee1b9d967b_b.jpg =600x)
+Before we get into the details of *1 Bit Computer*, Let's return to the idea of Zero and One, Binary numbers and Boolean Logic. 
 
-
-For AND gate, if you are shaking 100 hands all at the same time, the result is a true 100-person handshake, or 1.
-
-![](https://farm4.staticflickr.com/3886/14560630744_fac16725f9_b.jpg =600x)
-
-In a NAND gate, if you are declined for date by 100 people together, the result is a true connection. ```[this needs some work]```
-
-[CPU DUMPLING SHOP ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
-
-
-But the NAND logic we are using only has two inputs, so in the case when all inputs are false, or 0, the result is true, or 1. 
+ ![](https://farm6.staticflickr.com/5761/20794424050_7d5864e2dc_o.jpg =600x)
 
 
 By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
 
+![](https://farm6.staticflickr.com/5820/20361778943_2ee62221a9_b.jpg =600x)
  
 ![](https://farm1.staticflickr.com/620/20773146321_b0c6b10767_o.jpg =600x)
 
@@ -35,8 +26,11 @@ This 1 bit computer uses two TTL NAND logic chips, which are integrated circuit 
 
 ![](https://farm1.staticflickr.com/774/20812984222_590f7b06e4_b.jpg =600x)
 
+ You can click on the switches to see the Half Adder working, it adds one digits of number.  
+ 
+![](https://farm6.staticflickr.com/5717/20990175911_2ceb98c8c6_b.jpg =400x)
 
-```[we haven't given them the symbol for XOR, we may want to have a little key for all symbols or intro them one by one with the symbol.]``` With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition would be 10, not ten but "one, zero." 
+With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition would be 10, not ten but "one, zero." 
 </br>
 0+0=0</br>
 0+1=1 </br>
