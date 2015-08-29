@@ -9,11 +9,9 @@
 
 "Not really...." 
 
-Even if it did make sense, the 1-bit computer doesn't quite explain how your laptop or smartphone actually works.  
+Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually works.  Instead, *1 Bit Computer* demontrates that Binary numbers and Boolean Logic can be configured to create the fundamental building blocks of computer. However, it's not capable of computing in anything significantly useful.  
 
-*1 Bit Computer* demontrates that Binary numbers and Boolean Logic can be configured to create the fundamental building blocks of computer. However, it's not capable of computing in anything significantly useful.  
-
-On the other hand, everyone can buy CPU, graphics card, RAM and other parts and assemble their own computers. It's becoming increasingly rare for people to build their own personal computer because laptop, desktop and mobile computers that are completely ready for the end users are common and accesible. These modern computers are very powerful and can compute many bits of information in a fraction of a second, way more bits than our *1 Bit Computer*. 
+With some help from the Internet or friend with experience, everyone can buy CPU, graphics card, RAM and other parts and assemble their own computer. However, it's becoming increasingly rare for people to build their own personal computer because laptop, desktop and mobile computers that are completely ready for the end users are common and accesible. These modern computers are very powerful and can compute many bits of information in a fraction of a second, way more bits than our *1 Bit Computer*. 
 
  
 "All this talk is making me hungry. I'm really craving some dumplings!"
@@ -58,7 +56,7 @@ There are pots and pans full of dumplings.
  
  ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
  
-He says your food is ready, packs up my order into a container, and hands it to me. 
+He says my food is ready, packs up my order into a container, and hands it to me. 
 
 
  ![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
