@@ -27,11 +27,11 @@ I  walk in to the shop super hungry, ready for some sizzling dumplings. There's 
 
 ![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
 
-I look at the menu and decide to get pork and chive dumplings. I ask the guy at the counter for 5 boiled dumplings and pay $1. He writes down my order on a piece of paper and puts it on the counter next to all the the previous orders.  
+I look at the menu and decide to get pork and chive dumplings. I ask the man at the counter for 5 boiled dumplings and pay $1. He writes down my order on a piece of paper and puts it on the counter next to all the previous orders.  
  
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
  
-</br> 
+
 
 He turns around, packs up a few vegetable dumplings, and gives them to the customer who came before me. He then puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
 
