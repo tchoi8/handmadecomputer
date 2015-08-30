@@ -1,50 +1,51 @@
  
 ![](https://farm8.staticflickr.com/7471/15750679268_d0c73f9a5f_o.jpg =600x)  </br>  </br>  </br>  </br>  </br>
 
-When we are getting a new computer, quiet often we hear about how much RAM is inside of the computer. You can't really fit a sheep inside of a computer, so it must be something different. We usually understand having more RAM means the computer can do more things at the same time. RAM is memory but it's different from Hard disk space in the computer, which is where all the software and data lives. Then, what is RAM exactly? 
-It stands for Random Access Memory. We can think of a parking lot with 8 parking spots. 
+Today, when we purchase a new computer one of the specifications we often hear about is the amount of RAM inside. We usually understand more RAM as allowing the computer to do more things at once. But it's different from hard disk space, which is where all the software and data lives.
+
+What is RAM exactly then? RAM stands for random access memory. To help us understand how it works we can think of a parking lot with 8 parking spots. 
 
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)
  
-The Parking lot has one gate that's both entrance and exit for the cars. The gate is controlled by a binray clock that's either closed on Zero state, or open on One state. There are eight parking spaces because our RAM can store up to 8-bits of Information. The Input can take in  Data, like a car waiting to come in to the parking lot. However the car can not go to a parking space which already has a car on it. To prevent this, the giant display on the back displays if a parking space is occupied or vacant. The cars can get out of the parking lot, which is like erasing the data that's been stored in the specific parking space. It's achieved when the gate is open, Zero (which means no car) is signalled into the Input. The circuit assigns the value of Zero to the Parking space. Now new car can come in to that space. Also the path between the parking space and the gate is really narrow and only one car can come in and out at a time. The combination of clock, mux, demux and flipflops complete a 9-bit Random Access memory, where Data can be written and read asynchronously. 
- </br>
+The parking lot has a single 1-lane gate that acts as both entrance and exit for the cars. The gate is controlled by a binray clock that's either closed, in the zero state, or open in the one state. There are eight parking spaces because our RAM can store up to 8-bits of information. The input can accept  data, like an empty space accepts cars waiting to enter the parking lot.
+
+However cars can't park in spaces which have already been filled and empty spaces must often be reserved. To prevent cars from attempting to park in a  space that has been filled or reserved, a big display tells incoming cars which spaces are in use.
+
+Once the cars need to leave they can exit the parking lot, erasing the data that's been stored in their parking space. This is achieved by opening the gate and letting the car leave, thus setting the state of the parking space and the display to zero. Now that space is free again to be filled or reserved.
+
+By combining the clock, mux, demux and flipflop we can construct a complete a 8-bit random access memory, where data can be written and read asynchronously. [we may need to clarify this asynchronous statement]
+
 ![](https://farm1.staticflickr.com/655/20889869441_19e63ce7cb_o.jpg)
 
-The Parking spaces are made of D-Type flip flops. D stands for Data and Delay and it's a type of digital memory like the SR latch we made earlier for the *1 Bit Computer*. However it has additional input for clock signal. This is a latch that only change the Flip-Flop when the Clock input is on the rising edge. Therefore, even when there's a change in the Data input, if the clock signal is Low, or Zero, the Flip-Flop will not accept the new data. This delay feature also enables the Flip-Flop to hold data as long as the clock signal remains High or the address input (which is routed by the DEMUX) has been changed to another Flip-Flop. 
+The parking spaces are made of D-type flip-flops. D stands for data and delay which is a type of digital memory like the SR latch we made earlier. This component, however, has an additional input for the clock signal. This is a latch that only changes the flip-flop when the clock input sees the rising edge. Therefore, even when there's a change in the data input, if the clock signal is low, or zero, the flip-flop will not accept the new data. This delay feature also enables the flip-flop to hold data as long as the clock signal remains high, or the address input (which is routed by the DEMUX) has been changed to another flip-flop. [this paragraph gets very technical and it took me a little while to parse the logic. I'm not sure this entire description is necessary, we could probably cut this down and still give the reader the general idea, especially since you want to start moving into this RAM city philosophical portion soon.]
  
-  </br>
- ![](https://farm1.staticflickr.com/614/20695978869_4907925e5a_o.jpg) 
-  
+![](https://farm1.staticflickr.com/614/20695978869_4907925e5a_o.jpg) 
  
- The top line is called "Clock" which is a constant wave of High and Low, One and Zeros that control the Flip-Flop. The second line is Data, which is an Input. At the rising edge of the Clock signal A, Data is also High which results in Q becoming also High. At the end of the cycle A, Data is Low, but Q remains the same because Q only changes state on the rising edge. This factor enables us to hold the data over time and have it erase itself at the end of the clock cycle. 
+The top line is called the clock which is a persistent wave of high and low, ones and zeros that control the flip-flop. The second line is data, which is an input. At the rising edge of the clock signal A, data is also high which results in Q also being in the high state. At the end of the cycle A, data is Low, but Q remains the same because Q only changes state on the rising edge. This factor enables us to hold the data over time and have it erase at the end of the clock cycle.
  
-The gate which controls the entrance and exit of the cars in the parking lok is a lot like the Multiplexer and De-multiplexer, which is conveniently called MUX and DeMUX. 
+The gate which controls the entrance and exit of the cars in the parking lot is much like the multiplexer and de-multiplexer, conveniently called MUX and DeMUX.
+
 ![](https://farm4.staticflickr.com/3883/14375838297_c42dab45a7_b.jpg =600x)
 
-MUX has many inputs and the selector inputs. Depending on how the selector inputs (like the Thumbs Up or Down in the drawing), the output Data is assigned to different input. 
+MUX has many data inputs in addition to several selector inputs. Depending on how the selector inputs (like the thumbs up or thumbs down in the drawing), the input data will be assigned to different places.
 
 ![](https://farm6.staticflickr.com/5532/14560631144_30ef4dddc6_b.jpg =600x)
 
-Demux works exactly the opposite of Mux. It's made of one input, four binary switches and many outputs. The combination of Thumbs up and down change the logic within the demux and route that one input to 16 outputs. 
+Demux works in the inverse fashion. Demux is composed of an input, four binary switches and many outputs. The combination of thumbs up and thumbs down changes the logic within the demux and routes one input to a possible 16 outputs.
 
- 
-:(  "Ok this is too confusing. What is MUX do again?" 
-![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg =200x)
+:( "Ok this is too confusing. What does MUX do again?"
 
-</br>
 ![](https://farm6.staticflickr.com/5775/20706120532_578cac3552_b.jpg =600x)
 
-Do you remember a smart thing at a fancy grocery store or airport where the display lets you know which station you should go? It's when there are few lines of people waiting, and the display shows whichever station that's open, and assigns the person in the front of the line to that station and then jump to the next line. It's not a perfect analogy because the real multiplexer only has one input, so all the lines would be a single line. However, the part about the displays showing where to go is quiet similar.  
- 
- 
-![](https://farm3.staticflickr.com/2933/14630595245_7ea41be283_o.jpg =600x)
-  
+Do you remember the electronic displays at fancy grocery stores which let you know which station is available for check out? It's when there are few lines of people waiting, and the display shows whichever station that's open, and assigns the person in the front of the line to that station and then move to the next line. It's not a perfect analogy because the real multiplexer only has one input, so all the lines would be a single line. However, the part about the displays showing where to go is quiet similar.
 
- 
-  
+![](https://farm3.staticflickr.com/2933/14630595245_7ea41be283_o.jpg =600x)
+
+Wiring the 8 Bit RAM
+
  ![](https://farm3.staticflickr.com/2918/14642585333_028c3324d5_b.jpg =600x)
 
-For wiring the 8 Bit RAM on a breadboard, I used 2 D-type Flip-flop chips, one MUX and DEMUX and one 555 Timer to generate signal.  
+On a breadboard, I used 2 D-type Flip-flop chips, one MUX and DEMUX and one 555 Timer to generate signal. 
 
 ![](https://farm3.staticflickr.com/2900/14626353221_caae6df4e2_o.jpg =600x)
 
@@ -70,7 +71,7 @@ The [video demonstration](https://vimeo.com/113169467) of 8 bit RAM.
  
 ![](https://farm3.staticflickr.com/2925/14444232477_45bef3c378_o.jpg =600x)
 
-When you are wiring this many wires to make an electornic circuit, you are bound to find time to think about a lot of things. I kept on thinking I'm building a tiny city. Each Flip-Flop is an apartment building that's either occupied or vacant. DEMUX is like a giant terminal that all bus and cars go through, and all the connection between logic gates are like Highways. There are some roads that are used more frequently than others, some for high speed and others which are like more local roads. 
+When you are wiring this many wires to make an electornics, you are bound to find time to think about a lot of things. I kept on thinking I'm building a tiny city. Each Flip-Flop is an apartment building that's either occupied or vacant. DEMUX is like a giant terminal that all bus and cars go through, and all the connection between logic gates are like Highways. There are some roads that are used more frequently than others, some for high speed and others which are like more local roads. 
 
 Around that time, I found a a book of poems about cities by Donna Stonecipher. The whole book continues like this. 
 
@@ -94,11 +95,7 @@ From Model City [7] by Donna Stonecipher
 
 I made a painting of the Random Access City on the studio wall. 
 
-</br></br></br></br></br></br></br></br></br></br></br>
 ##Extra
-
- 
-
 
 - [1] D-Type Flip-Flops can be also made from NAND logic gates.  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-Type_Transparent_Latch.svg/300px-D-Type_Transparent_Latch.svg.png)
