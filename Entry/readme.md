@@ -1,3 +1,5 @@
+[↻ INTRODCTION](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
+
 ![](https://farm6.staticflickr.com/5836/20581702098_70441b0203_b.jpg =600x)
 ![](https://dl.dropboxusercontent.com/u/53638/phone.jpg)
 
