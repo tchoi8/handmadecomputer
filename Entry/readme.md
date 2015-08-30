@@ -11,7 +11,6 @@ There is a silicon valley folklore that centers around protagonists like Jobs, W
 Before computers became personal, they were used as tools for scientific research and engineering, as technologies to scale growing electronic communication systems and as machines for war.
 
 ![](https://farm6.staticflickr.com/5798/20744010546_aab45b8d87_b.jpg =600x)
-
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm6.staticflickr.com/5737/20583607739_e9852d2cd1_b.jpg =600x)
 ![](https://farm1.staticflickr.com/705/20502518328_93bf4e23a2_o.jpg =600x)
