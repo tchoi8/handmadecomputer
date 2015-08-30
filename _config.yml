@@ -1,8 +1,8 @@
 # Site settings
 title: Handmade Computer
 email: taeyoon@sfpc.io
-description: > # Project by Taeyoon Choi 
-baseurl: "/blog " # the subpath of your site, e.g. /blog/
+description: > # Project by Taeyoon Choi
+baseurl: "/handmadecomputer/blog " # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: tchoi8
 github_username:  tchoi8
