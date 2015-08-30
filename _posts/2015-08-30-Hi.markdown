@@ -6,9 +6,17 @@ categories: blog
 ---
 
 This is a draft for an online piece about Handmade Computer. It will be copublished between [Avant.org](http://avant.org) and [Rhizome.org](http://rhizome.org) in early September with few interactive components and design updates. 
-
-Feel free to give me feedback via email <taeyoon at sfpc dot io>. You are invited to correct any error or clarify by forking or commenting on this [repo](https://github.com/tchoi8/handmadecomputer/). To keep the latest version of edits up to date, I ask all edits to be made on the markdown document in github, instead of this draft. Thank you :) 
 &nbsp;
+
+Since few years ago, I’ve been making primitive computers with discrete components and digital logic Integrated Circuits. I also made comics and teaching tools to help myself and students understand the fundamentals of computation. Big part of this project was developed for the School for poetic computation. 
+&nbsp;
+
+It's also important to note I had a very little understanding of computers and electronics when I started this and the project was possible only because of great help of many friends. Before I publish this piece to a wider audience, I'd like to ask my friends one more time for their advise and expertise. 
+&nbsp;
+
+Feel free to give me feedback via email [taeyoon at sfpc dot io] for technical clarifiaction, grammars and general flow from the readers' perspective. You are invited to correct any error or clarify by forking or commenting on these repo.  To keep the latest version of edits up to date, I ask all edits to be made on the markdown document in github, instead of this draft. Thank you :)  
+&nbsp;
+
 
 - [Introduction ↻](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
 - [Interface ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md) 
@@ -18,7 +26,11 @@ Feel free to give me feedback via email <taeyoon at sfpc dot io>. You are invite
 - [End note ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Manifesto.md)
 
 &nbsp;
- 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+  
  
 
 
@@ -60,11 +72,9 @@ Before computers became personal, they were used as tools for scientific researc
 ![](https://farm1.staticflickr.com/597/20664269176_2df4c0ed80_o.jpg =600x)
 ![](https://farm6.staticflickr.com/5799/20690521125_afe3bd6528_o.jpg =600x)
 
- 
- 
-&nbsp;
 
-## Reference
+ 
+**Reference**
 
 - Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the development of computational technology and theory from the perspective of military operations.
 - [1] The first computers were human. In fact, we get the term "computer" from the outmoded practice of human computation, peoples whose profession was the performance of arithmetic for scientific, logistical, or military production.
@@ -79,8 +89,11 @@ Before computers became personal, they were used as tools for scientific researc
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford is an excellent introduction to computer and programming. 
 
  
+ &nbsp;
 &nbsp;
- 
+&nbsp;
+&nbsp;
+&nbsp; 
 
 
 #Chapter 2 Interface
@@ -161,22 +174,24 @@ Making a computer and building electronic circuits feels like building a tiny ci
  
  
  
-##References 
-- [1] Stan Augarten, State of the Art, http://smithsonianchips.si.edu/augarten/index.htm 
+
+**Reference**
+
+- [1] Stan Augarten, [State of the Art](http://smithsonianchips.si.edu/augarten/index.htm 
+)
 - [2] Peter Halley, Instant City, 1996, Acrylic, Day-Glo acrylic, Metallic acrylic &
 Roll-a-Tex on canvas 58 x 93 inches  
-
+ 
+ &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 #Chapter 3 Zero and One
 
 [ZERO & ONE ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
 
-
-Let's begin our journey of Zeros and Ones! 
-
-<img src="https://farm1.staticflickr.com/704/20609043158_6237cd258f_o.jpg" alt="Drawing" style="width: 300px;"/> 
 
 
 A *1 Bit Computer* has the fundamental abilities of the traditional computer. It can perfom *artithmetic*, add two single digit numbers and return a two digit output. It has a *clock* that creates a square wave oscillation, turning on and off an LED at varying speed. And it has *memory*, a latch that can store 1-bit of information, a zero or a one. 
@@ -185,9 +200,7 @@ A *1 Bit Computer* has the fundamental abilities of the traditional computer. It
 ![](https://farm6.staticflickr.com/5744/20578210488_c5016e6191_b.jpg =600x)
  
  <iframe src="https://player.vimeo.com/video/136769465?title=0&byline=0&portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
- 
-[Video]([Video](https://vimeo.com/136769465)
- 
+  
 
 This version of *1 Bit Computer* is made of NAND logic gates. 
 ![](https://farm6.staticflickr.com/5667/20256616333_9961ff1b9b_b.jpg =600x)
@@ -231,22 +244,27 @@ The second basic computing operation is data storage, remembering information in
 
 ![](https://farm6.staticflickr.com/5800/20822480345_604712427c_b.jpg =400x)
 
-```[You can turn the knob to change the frequency.]``` 
+```[Interactive part: You can turn the knob by dragging the mouse to change the frequency.]``` 
+
 The binary clock simply switches between zero and one, visible to us as 'LED not lit,' and then 'LED lit.' The period in which the LED blinks, or the clock cycle, is determined by how fast the circuit switches between zero and one. The clock is made possible by utilizing the electrical properties of the specific kinds of NAND logic gate chips (CD4093 or 74132) called the *Schmitt-Trigger* which delays the response time of the logic based on a threshold. By creating a network of variable resistor and capacitor between the input and output of the logic, NAND gate oscillates between Zero and One to produce constant frequency, also know as a clock signal.  
 
 
 
 
-### Extras
 
-Making process 
-
+**Reference**
+ 
 - [Pictures](https://www.flickr.com/photos/80913365@N04/20093606613)
 - [Teaching](https://www.flickr.com/photos/80913365@N04/20526747300)
--  Binary Logic Worksheet ![](https://farm8.staticflickr.com/7230/13984125176_91ccb45b3a_o.jpg =600x)
+-  [Binary Logic Worksheet](https://farm8.staticflickr.com/7230/13984125176_91ccb45b3a_o.jpg)
 -  Also [how to make Adder, Memory](https://farm8.staticflickr.com/7251/14007688534_adb24c48f8_k.jpg) with the logic gates. 
 -  And out of NAND logic gates, you can make a 1 bit computer! [Here](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
 
+ &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 #Chapter 4 CPU Dumpling Shop
@@ -397,13 +415,18 @@ When the chef grills dumplings on the pan, or packs up the cooked food, he's act
  
 
 ![](https://farm6.staticflickr.com/5636/20666499401_13440b1738_z.jpg)
-
-More technical description. 
-
-###Extra 
-   
-[Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine. 
  
+
+
+**Reference**
+   
+- [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine. 
+
+ &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 #Chapter 5 RAM City
 
@@ -505,21 +528,25 @@ From Model City [7] by Donna Stonecipher
 I made a painting of the Random Access City on the studio wall. 
 
                       
-##Extra
 
+**Reference**
  
 
 
 - [1] D-Type Flip-Flops can be also made from NAND logic gates.  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-Type_Transparent_Latch.svg/300px-D-Type_Transparent_Latch.svg.png)
-
 - [2] For detailed explanation of the Mux, refer to this [wiki article](https://en.wikipedia.org/wiki/Multiplexer). 
 
+ &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 # End note 
 
-[Handamde Computer Manifesto ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Manifesto.md
+[Handamde Computer Manifesto ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Manifesto.md)
 
 1: Sometime near future, we will be making our own computers, out of desire as well as necessity.
 
