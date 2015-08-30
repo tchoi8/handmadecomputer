@@ -9,9 +9,14 @@ This is a draft for an online piece about Handmade Computer. It will be copublis
 
 Also, you are invited to correct any error or clarify by forking or commenting on this [repo](https://github.com/tchoi8/handmadecomputer/). To keep the latest version of edits up to date, I ask all edits to be made on the markdown document in github, instead of this draft. Thank you. 
 
+&nbsp;
+ 
  
 
+
 #Chapter 1 Introduction
+
+[INTRODCTION ↻](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
 
  ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm6.staticflickr.com/5836/20581702098_70441b0203_b.jpg =600x)
@@ -48,50 +53,57 @@ Before computers became personal, they were used as tools for scientific researc
 ![](https://farm6.staticflickr.com/5799/20690521125_afe3bd6528_o.jpg =600x)
 
  
-
-
-Let's begin our journey of Zeros and Ones, Transistors and Clocks.
-
-<img src="https://farm1.staticflickr.com/704/20609043158_6237cd258f_o.jpg" alt="Drawing" style="width: 300px;"/> 
-
-
+ 
+&nbsp;
 ## Reference
 - Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the development of computational technology and theory from the perspective of military operations.
 - [1] The first computers were human. In fact, we get the term "computer" from the outmoded practice of human computation, peoples whose profession was the performance of arithmetic for scientific, logistical, or military production.
 - If you are interested in making a functional modern computer, open source, look at Bunnie Hung's [Open source laptop](http://www.bunniestudios.com/blog/?p=3265) project.  
 - For more technical introduction to making a computer on a breadboard, check out [Kyle Hovey](http://8bitspaghetti.com/)'s [How to Build an 8-Bit Computer](http://www.instructables.com/id/How-to-Build-an-8-Bit-Computer/)
-- Also http://www.homebrewcpu.com/ [NANDputer](http://blog.kevtris.org/?p=62) Homebuilt CPUs WebRing 
+- Also [http://www.homebrewcpu.com/](http://www.homebrewcpu.com/) as well as the Homebuilt CPUs WebRing linked in the site. Also[NANDputer](http://blog.kevtris.org/?p=62).
 - [Digital Computer Electronics](http://www.amazon.com/Digital-Computer-Electronics-Albert-Malvino/dp/0028005945) by Malvino and Brown is a really helpful resource as well. Especially the Simple As Possible architecture is what I based the computer design. 
 - Code: The Hidden Language of Computer Hardware and Software,  Charles Petzold (1999) [wiki](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software)
 - Interface Effect,  Alexander R. Galloway (2012) [Book info](http://www.polity.co.uk/book.asp?ref=9780745662527)
-<<<<<<< HEAD
 -   War in the age of Intelligent Machines, Manuel de Landa (1991) [wiki](https://en.wikipedia.org/wiki/War_in_the_Age_of_Intelligent_Machines)
 - The Information: A History, a Theory, a Flood, James Gleick (2001) [wiki](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)  
+- [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) by Paul Ford is an excellent introduction to computer and programming. 
+
  
-- [INTERFACE ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
+&nbsp;
+ 
+
 
 #Chapter 2 Interface
 
+- [INTERFACE ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
  
 Everyday we look at computer screens for a very long time.  
+&nbsp;
+&nbsp;
 
 ![](https://farm4.staticflickr.com/3786/12623364165_4fc3315269_o.jpg =600x)
+&nbsp;
+&nbsp;
 
   
 We touch them, carry them, and sleep next to them.
+&nbsp;
+&nbsp;
  
 
 Our lives are stored in bits, our messages turned to network packets, our living spaces are pixels.
+&nbsp;
+&nbsp;
 
 ![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
+&nbsp;
+&nbsp;
 
 Most of us have some knowledge about how to use a computer. But we have a limited understanding of the inner workings, what happens behind the screen and the colorful user interface.
 
 Fortunately, computers perform all the complex tasks we're familiar with through a few simple operations, repeated and abstracted. 
  
 ![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
-
-
 
 
 The Minimalists painters were interested in more than just the formal qualities of the painting, such as color and shape. They were also interested in the systems in which their work is created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
@@ -115,11 +127,11 @@ Josephson Junctions Chip from IBM.
 This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. Halley's work not only reminds me of microchips, but also computer design patterns such as the Von Neumann architecture which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
 
   
-  ![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
+![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
   
 [Von Neumann architecture](http://history-computer.com/ModernComputer/thinkers/Neumann.html) 
  
- ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
+![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
 
  
 This phrase "Each one comes to be a whole one to me" is from *The Making of Americans* by Gertrude Stein. I opened a random page in the book and picked this line, so it could have been any other phrase. In this book, a story is told and retold in many ways. The result is a fragmented narrative with multiple perspectives. 
@@ -139,17 +151,23 @@ Making a computer and building electronic circuits feels like building a tiny ci
  
  
  
-
-
 ##References 
 - [1] Stan Augarten, State of the Art, http://smithsonianchips.si.edu/augarten/index.htm 
 - [2] Peter Halley, Instant City, 1996, Acrylic, Day-Glo acrylic, Metallic acrylic &
 Roll-a-Tex on canvas 58 x 93 inches  
 
-[ZERO & ONE / BINARY ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
+&nbsp;
 
 
 #Chapter 3 Zero and One
+
+[ZERO & ONE ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
+
+
+Let's begin our journey of Zeros and Ones! 
+
+<img src="https://farm1.staticflickr.com/704/20609043158_6237cd258f_o.jpg" alt="Drawing" style="width: 300px;"/> 
+
 
 A *1 Bit Computer* has the fundamental abilities of the traditional computer. It can perfom *artithmetic*, add two single digit numbers and return a two digit output. It has a *clock* that creates a square wave oscillation, turning on and off an LED at varying speed. And it has *memory*, a latch that can store 1-bit of information, a zero or a one. 
 
@@ -207,8 +225,7 @@ The second basic computing operation is data storage, remembering information in
 The binary clock simply switches between zero and one, visible to us as 'LED not lit,' and then 'LED lit.' The period in which the LED blinks, or the clock cycle, is determined by how fast the circuit switches between zero and one. The clock is made possible by utilizing the electrical properties of the specific kinds of NAND logic gate chips (CD4093 or 74132) called the *Schmitt-Trigger* which delays the response time of the logic based on a threshold. By creating a network of variable resistor and capacitor between the input and output of the logic, NAND gate oscillates between Zero and One to produce constant frequency, also know as a clock signal.  
 
 
-Also [how to make Adder, Memory](https://farm8.staticflickr.com/7251/14007688534_adb24c48f8_k.jpg) with the logic gates. 
- 
+
 
 ### Extras
 
@@ -217,15 +234,14 @@ Making process
 - [Pictures](https://www.flickr.com/photos/80913365@N04/20093606613)
 - [Teaching](https://www.flickr.com/photos/80913365@N04/20526747300)
 -  Binary Logic Worksheet ![](https://farm8.staticflickr.com/7230/13984125176_91ccb45b3a_o.jpg =600x)
+-  Also [how to make Adder, Memory](https://farm8.staticflickr.com/7251/14007688534_adb24c48f8_k.jpg) with the logic gates. 
+-  And out of NAND logic gates, you can make a 1 bit computer! [Here](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
 
 
-And out of NAND logic gates, you can make a 1 bit computer! 
-[Here](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
+
+#Chapter 4 CPU Dumpling Shop
 
 [CPU DUMPLING SHOP ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
-
-
-#Chapter 4 
 
 
 <img src="https://farm1.staticflickr.com/586/20286266173_8bfb8c0128_b.jpg" alt="Drawing" style="width: 300px;"/>   
@@ -375,16 +391,13 @@ When the chef grills dumplings on the pan, or packs up the cooked food, he's act
 More technical description. 
 
 ###Extra 
-
-[Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM)   
-  
+   
 [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine. 
  
-[RAM CITY ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
-
 
 #Chapter 5 RAM City
 
+[RAM CITY ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
  
 ![](https://farm8.staticflickr.com/7471/15750679268_d0c73f9a5f_o.jpg =600x)                    
 
@@ -490,6 +503,32 @@ I made a painting of the Random Access City on the studio wall.
 - [1] D-Type Flip-Flops can be also made from NAND logic gates.  
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-Type_Transparent_Latch.svg/300px-D-Type_Transparent_Latch.svg.png)
 
-- [2] For detailed explanation of the Mux, refer to this [wiki article](https://en.wikipedia.org/wiki/Multiplexer).
+- [2] For detailed explanation of the Mux, refer to this [wiki article](https://en.wikipedia.org/wiki/Multiplexer). 
 
-[INTRODCTION ↻](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
+# Handamde Computer Manifesto
+
+
+![](https://farm1.staticflickr.com/759/20574025150_79af8d7530_b.jpg =600x)
+ 
+1: Sometime near future, we will be making our own computers, out of desire as well as necessity.
+
+Evolution of the next generation technologies will happen in parallel with reflection and reconsideration of the obsolete technologies, craft and value and the vision. 
+Human, the tool-bearers will claim ownership of the tools by all means. 
+The tool, the human alter-ego will become aware of its autonomy and its ability to shape its future as well as the past.
+
+2: I avoid making speculative work on the shiny ‘Technological Future’  because so much of the contemporary culture already reproduces the future. Speculation can be a dirty word, especially when it’s used around the malicious practices in finance and technological enterprises.  
+
+*FUTURE* 
+
+as an abstract concept is a pure form of commodity. In the world where fiction feels more real than the lived experience, I’m concerned with the Technological-Futuristic tendencies associated with the commodity products. Can we create work for the future without providing more ideas and language to be capitalized by the incumbent system?
+
+![](https://farm1.staticflickr.com/652/20139415594_b9bf8ddbf2_o.jpg =600x)
+
+3: The technological products that promise ‘personalization’ are often misleading the users into believing the customization means ownership. The user experience is designed to deliver gratifying sense of ‘Coming into one’ with the device. The One is the reflection on the black mirror, our, the users’ alter-ego. We own the reflection on the surface, not the device and the content. The mystery of personalization remains within the device.
+
+4: Becoming a computer. 
+By making a computer, we are connecting with a computer as in becoming ONE entity with it. By becoming one with the computer, it becomes more similar to us.  
+The question quickly shifted from “Can I build a computer” to “What kind of computer do I want to build?” 
+
+5: Opening the Black box.
+Also, this is less of a question about what happened in the 1920s - 30s - 60s - 70s… but more a question of what do I (we) want to happen in the future? The future I am presenting here is absolutely not the market driven speculation, but a I envision a Future where we coexist with technology.  
