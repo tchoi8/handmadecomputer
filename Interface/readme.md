@@ -1,4 +1,5 @@
- 
+[⇐ INTRODUCTION](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
+
 Everyday we look at computer screens for a very long time.  
 
 ![](https://farm4.staticflickr.com/3786/12623364165_4fc3315269_o.jpg =600x)
