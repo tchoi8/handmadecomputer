@@ -1,4 +1,4 @@
- 
+[⇐ ZERO & ONE / BINARY](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
 
 ![](https://farm1.staticflickr.com/586/20286266173_8bfb8c0128_b.jpg =200x)
 
