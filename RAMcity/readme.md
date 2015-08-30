@@ -95,6 +95,11 @@ From Model City [7] by Donna Stonecipher
 
 I made a painting of the Random Access City on the studio wall. 
 
+Hand making circuits is an act of love, love for the ideas that the computer has come to embody. It is a practice devoted to the history and craft of computation, one that's taught me a great respect for the material and form. There is an elegance in the abstraction and repetition of computational logic that I can only describe as 'beautiful.'
+
+Nam June Paik wrote “… Karma is samsara. Relationship is metempsychosis. We are in open circuits" (Manifestos, Great Bear Pamphlets, Something Else Press, 1966). I wonder what he meant by "We are in open circuits?" Did he mean a circuit of information? And if so, do we try to close these circuits by mastering the technologies of our time? Or can we become part of the circuit? Our memories dispursed across the people places we touch.
+
+
 ##Extra
 
 - [1] D-Type Flip-Flops can be also made from NAND logic gates.  
