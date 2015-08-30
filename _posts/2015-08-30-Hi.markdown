@@ -11,7 +11,7 @@ Also, you are invited to correct any error or clarify by forking or commenting o
 
  
 
-#Chapter 1 Intrdocution
+#Chapter 1 Introduction
 
  ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
 ![](https://farm6.staticflickr.com/5836/20581702098_70441b0203_b.jpg =600x)
@@ -52,11 +52,7 @@ Before computers became personal, they were used as tools for scientific researc
 
 Let's begin our journey of Zeros and Ones, Transistors and Clocks.
 
-
-![](https://farm1.staticflickr.com/704/20609043158_6237cd258f_o.jpg =600x)
-
- 
-
+<img src="https://farm1.staticflickr.com/704/20609043158_6237cd258f_o.jpg" alt="Drawing" style="width: 300px;"/> 
 
 
 ## Reference
@@ -231,13 +227,13 @@ And out of NAND logic gates, you can make a 1 bit computer!
 
 #Chapter 4 
 
-![](https://farm1.staticflickr.com/586/20286266173_8bfb8c0128_b.jpg =200x)
+
+<img src="https://farm1.staticflickr.com/586/20286266173_8bfb8c0128_b.jpg" alt="Drawing" style="width: 300px;"/>   
 
 "Well, that kind of makes sense, right?" 
 
-
-![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg =200x)
-
+<img src="https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg" style="width: 300px;"/>
+ 
 "Not really...." 
 
 Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually works.  Instead, *1 Bit Computer* demontrates that Binary numbers and Boolean Logic can be configured to create the fundamental building blocks of computer. However, it's not capable of computing in anything significantly useful.  
@@ -246,50 +242,51 @@ With some help from the Internet or friend with experience, everyone can buy CPU
 
  
 "All this talk is making me hungry. I'm really craving some dumplings!"
-![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
+
+<img src ="https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg" style="width: 300px;"/> 
 
 At the School for Poetic Computation, we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
  
 
 I  walk in to the shop super hungry, ready for some sizzling dumplings. There's a nice guy who works there. 
 
-![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
+<img src ="https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg" style="width: 300px;"/> 
+ 
 
 I look at the menu and decide to get pork and chive dumplings. I ask the man at the counter for 5 boiled dumplings and pay $1. He writes down my order on a piece of paper and puts it on the counter next to all the previous orders.  
  
-![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
- 
+<img src="https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg" style="width: 300px;"/> 
 
 
 He turns around, packs up a few vegetable dumplings, and gives them to the customer who came before me. Then he puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
 
-![](https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg =300x)
+<img src ="https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg"  style="width: 300px;"/> 
 
 
 While I wait impatiently for my food, he takes in more orders from other customers. And then cooks some more dumplings. 
  
- ![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
+<img src ="https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg"  style="width: 300px;"/> 
  
 In the back kitchen, I see other people making more dumplings from scratch. There's a person peeling onions, another person cutting chives.
  
 
-![](https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg =300x)
+<img src="https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg"  style="width: 300px;"/> 
 
 Another person is folding the dumplings with the filling inside. All of them are busy doing their part to make our orders.
 
  
-![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
+<img src="https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg"  style="width: 300px;"/> 
 
 There are pots and pans full of dumplings. 
 
  
  
- ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
+<img src="https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg"  style="width: 300px;"/> 
  
 He says my food is ready, packs up my order into a container, and hands it to me. 
 
 
- ![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
+<img src="https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg"  style="width: 300px;"/> 
  
  Oh yeah! Dumpling time! 
  
