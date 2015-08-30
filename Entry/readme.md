@@ -13,7 +13,7 @@ Before computers became personal, they were used as tools for scientific researc
 ![](https://farm6.staticflickr.com/5737/20583607739_e9852d2cd1_b.jpg =600x)
 ![](https://farm1.staticflickr.com/705/20502518328_93bf4e23a2_o.jpg =600x)
 ![](https://farm6.staticflickr.com/5714/20769983945_476766792e_b.jpg =600x)
-![](https://farm6.staticflickr.com/5621/20581998488_95d2982f66_b.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/intricate.jpg)
 ![](https://farm6.staticflickr.com/5693/20697499571_35d3e2f168_o.jpg =600x) 
 ![](https://farm1.staticflickr.com/597/20664269176_2df4c0ed80_o.jpg =600x)
 ![](https://farm6.staticflickr.com/5799/20690521125_afe3bd6528_o.jpg =600x)
