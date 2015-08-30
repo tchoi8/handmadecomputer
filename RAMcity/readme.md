@@ -37,7 +37,7 @@ Demux works in the inverse fashion. Demux is composed of an input, four binary s
 
 ![](https://farm6.staticflickr.com/5775/20706120532_578cac3552_b.jpg =600x)
 
-Do you remember the electronic display at fancy grocery stores which let you know which station to check out? It's when there are few lines of people waiting, and the display shows whichever station that's open, and assigns the person in the front of the line to that station and then move to the next line. It's not a perfect analogy because the real multiplexer only has one input, so all the lines would be a single line. However, the part about the displays showing where to go is quiet similar.
+Do you remember the electronic displays at fancy grocery stores which let you know which station is available for check out? It's when there are few lines of people waiting, and the display shows whichever station that's open, and assigns the person in the front of the line to that station and then move to the next line. It's not a perfect analogy because the real multiplexer only has one input, so all the lines would be a single line. However, the part about the displays showing where to go is quiet similar.
 
 ![](https://farm3.staticflickr.com/2933/14630595245_7ea41be283_o.jpg =600x)
 
