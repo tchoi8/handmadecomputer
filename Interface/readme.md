@@ -1,19 +1,13 @@
  
 Everyday we look at computer screens for a very long time.  
 
-</br> 
 ![](https://farm4.staticflickr.com/3786/12623364165_4fc3315269_o.jpg =600x)
 
 
-</br>
-</br>
-</br>
-We touch them, carry them, and sleep next to them.
-</br>
-</br>
 
-</br>
-</br>
+We touch them, carry them, and sleep next to them.
+
+
 
 Our lives are stored in bits, our messages turned to network packets, our living spaces are pixels.
 
@@ -30,9 +24,9 @@ Fortunately, computers perform all the complex tasks we're familiar with through
 
 The Minimalists painters were interested in more than just the formal qualities of the painting, such as color and shape. They were also interested in the systems in which their work is created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
 
- </br>
- </br>
- </br>
+
+
+
  
  ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
 
@@ -42,9 +36,9 @@ This is a microscopic image of a microchip (resistor-transistor flip-flop logic 
 ![](https://farm1.staticflickr.com/703/20884034731_b40b344d58_o.jpg =400x)
 
 Josephson Junctions Chip from IBM.
-</br>
-</br>
-</br>
+
+
+
 
 
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
@@ -56,13 +50,12 @@ This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled I
   ![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
   
 [Von Neumann architecture](http://history-computer.com/ModernComputer/thinkers/Neumann.html) 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br> 
+
+
+
+
+
+
 
  ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
 
@@ -71,7 +64,8 @@ This phrase "Each one comes to be a whole one to me" is from *The Making of Amer
 
 ![](https://farm1.staticflickr.com/679/20823369765_30e3a61dd6_b.jpg =600x)
 
-</br>
+
+
 Paintings, circuits, and books all make use of repetition. Layering shapes or wires or pages, the composition and logic of which allow them to function as a whole.
 
 ![](https://farm4.staticflickr.com/3940/15752018125_41037ef0c6_b.jpg =600x)
