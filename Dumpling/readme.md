@@ -9,16 +9,16 @@
 
 "Not really...." 
 
-Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually works.  Instead, *1 Bit Computer* demontrates that Binary numbers and Boolean Logic can be configured to create the fundamental building blocks of computer. However, it's not capable of computing in anything significantly useful.  
+Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demontrates that binary numbers and boolean logic can be configured to create the fundamental building blocks of a computer. However, alone they aren't capable of computing in anything particularly useful.```[need one more sentance here. "For that we will need..."]```
 
-With some help from the Internet or friend with experience, everyone can buy CPU, graphics card, RAM and other parts and assemble their own computer. However, it's becoming increasingly rare for people to build their own personal computer because laptop, desktop and mobile computers that are completely ready for the end users are common and accesible. These modern computers are very powerful and can compute many bits of information in a fraction of a second, way more bits than our *1 Bit Computer*. 
+With some help from the internet, or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. However, it's becoming increasingly rare for people to do so because laptop, desktop and mobile computers assembled ready for use are common and accesible. These modern computers are very powerful and can compute many bits of information in a fraction of a second, far more than our *1 Bit Computer*. 
 
  
 "All this talk is making me hungry. I'm really craving some dumplings!"
 ![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
 
 At the School for Poetic Computation, we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
-</br>
+
  
 
 I  walk in to the shop super hungry, ready for some sizzling dumplings. There's a nice guy who works there. 
@@ -29,7 +29,6 @@ I look at the menu and decide to get pork and chive dumplings. I ask the man at 
  
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
  
-
 
 He turns around, packs up a few vegetable dumplings, and gives them to the customer who came before me. Then he puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
 
