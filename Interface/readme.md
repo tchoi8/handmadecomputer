@@ -13,9 +13,9 @@ Our lives are stored in bits, our messages turned to network packets, our living
 
 ![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
 
-Most of us have some knowledge about how to use a computer. But we have a limited understanding of the inner workings, what happens behind the screen and the colorful user interface.
+Most of us have some knowledge about how to use a computer. But we have a limited understanding of the inner workings, what happens behind the screen and the colorful user interface. Miniaturization and mass-production have lead to the mystification of the computer, complicating and obscuring it's production and operation.
 
-Fortunately, computers perform all the complex tasks we're familiar with through a few simple operations, repeated and abstracted. 
+Fortunately, computers perform all the complex tasks we're familiar with through a few simple operations, repeated and abstracted. So opening up the computer may be easier than you think.
  
 ![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
 
