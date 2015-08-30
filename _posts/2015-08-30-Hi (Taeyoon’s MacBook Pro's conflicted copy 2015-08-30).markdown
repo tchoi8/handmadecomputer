@@ -5,19 +5,18 @@ date:   2015-08-30 09:30:42
 categories: blog
 ---
 
-This is a draft for an online piece about Handmade Computer. It will be copublished between [Avant.org](http://avant.org) and [Rhizome.org](http://rhizome.org) in early September with few interactive components and design updates. 
+This is a draft for an online piece about Handmade Computer. It will be copublished between Avant.org and Rhizome.org in near future (August~Septermber, 2015). Feel free to give me feedbackvia email <taeyoon at sfpc dot io>.
 
-Feel free to give me feedback via email <taeyoon at sfpc dot io>. You are invited to correct any error or clarify by forking or commenting on this [repo](https://github.com/tchoi8/handmadecomputer/). To keep the latest version of edits up to date, I ask all edits to be made on the markdown document in github, instead of this draft. Thank you :) 
+Also, you are invited to correct any error or clarify by forking or commenting on this [repo](https://github.com/tchoi8/handmadecomputer/). To keep the latest version of edits up to date, I ask all edits to be made on the markdown document in github, instead of this draft. Thank you. 
+
 &nbsp;
 
-- [Introduction ↻](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
-- [Interface ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md) 
+- [INTRODCTION ↻](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
+- [INTERFACE ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md) 
 - [ZERO & ONE ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
-- [CPU Dumpling Shop ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
-- [RAM City ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
-- [End note ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Manifesto.md)
+- [CPU DUMPLING SHOP ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
+- [RAM CITY ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
 
-&nbsp;
  
  
 
@@ -519,7 +518,7 @@ I made a painting of the Random Access City on the studio wall.
 
 # End note 
 
-[Handamde Computer Manifesto ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Manifesto.md
+[Handamde Computer Manifesto⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Extra/Manifesto.md
 
 1: Sometime near future, we will be making our own computers, out of desire as well as necessity.
 
