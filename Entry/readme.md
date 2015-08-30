@@ -1,6 +1,5 @@
 ![](https://farm1.staticflickr.com/745/20582176698_da51529e9a_o.jpg)
-![](https://farm6.staticflickr.com/5836/20581702098_70441b0203_b.jpg =600x)
-![](https://farm1.staticflickr.com/696/20743896756_0757ce5d09_b.jpg)
+
 
 ![](https://farm1.staticflickr.com/698/20582983309_a29db5cd2d_o.jpg =600x)
 
