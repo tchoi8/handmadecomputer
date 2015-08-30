@@ -61,7 +61,7 @@ The third step is to connect the Outputs of all individual Flip-Flops to the MUX
 
 ![](https://farm4.staticflickr.com/3885/14442989638_2a42bd8375_k.jpg =600x)
 
-The fourth step is to create an oscillator with 555 Chip. It's using capacitor and resistor similar to the Schimitt-Trigger oscillator we made earlier. We connect the output of the clock to a switch that alternate between Clock signal and READ mode. On Read mode, the switch is connected to the ground, which means the DEMUX is in passive mode (there might be a more correct way to say this!) and this is how we know if the parking spaces are occupied or not. 
+The fourth step is to create an oscillator with 555 Chip. It uses a capacitor and resistor similar to the Schimitt-Trigger oscillator we made earlier. We connect the output of the clock to a switch that alternates between a clock signal and READ mode. While on Read mode, the switch is connected to the ground, which means the DEMUX is in passive mode (there might be a more correct way to say this!) and this is how we know if the parking spaces are occupied or not.
 
 And most importantly, we need to connect the output of the MUX into an LED. 
 
@@ -71,9 +71,9 @@ The [video demonstration](https://vimeo.com/113169467) of 8 bit RAM.
  
 ![](https://farm3.staticflickr.com/2925/14444232477_45bef3c378_o.jpg =600x)
 
-When you are wiring this many wires to make an electornics, you are bound to find time to think about a lot of things. I kept on thinking I'm building a tiny city. Each Flip-Flop is an apartment building that's either occupied or vacant. DEMUX is like a giant terminal that all bus and cars go through, and all the connection between logic gates are like Highways. There are some roads that are used more frequently than others, some for high speed and others which are like more local roads. 
+When you are wiring this many wires to make an electornics, you are bound to find time to think about a lot of things. I kept on thinking I'm building a tiny city. Each Flip-Flop is an apartment building that's either occupied or vacant. The DEMUX is like a giant terminal that all buses and cars travel through, the connections between logic gates are like tiny roads. Some of these roads are used more frequently like highways, others are local streets that see only occasional traffic.
 
-Around that time, I found a a book of poems about cities by Donna Stonecipher. The whole book continues like this. 
+Around the time I began building my computer, I found a a book of poems about cities by Donna Stonecipher. Here are a few passages, but the whole book continues like this:
 
 **It was like dreaming that you are given the keys to a model city and instantly feeling the burden of ownership, the keys weighing down your coat pocket so severely you start dreaming of giving them back.**
 
