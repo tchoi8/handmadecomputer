@@ -1,4 +1,5 @@
- 
+[⇐ DUMPLING SHOP](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
+
 ![](https://farm8.staticflickr.com/7471/15750679268_d0c73f9a5f_o.jpg =600x)  </br>  </br>  </br>  </br>  </br>
 
 Today, when we purchase a new computer one of the specifications we often hear about is the amount of RAM inside. We usually understand more RAM as allowing the computer to do more things at once. But it's different from hard disk space, which is where all the software and data lives.
