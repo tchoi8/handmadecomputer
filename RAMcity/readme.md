@@ -33,10 +33,73 @@ MUX has many data inputs in addition to several selector inputs. Depending on ho
 
 Demux works in the inverse fashion. Demux is composed of an input, four binary switches and many outputs. The combination of thumbs up and thumbs down changes the logic within the demux and routes one input to a possible 16 outputs.
 
- 
 :( "Ok this is too confusing. What does MUX do again?"
-
 
 ![](https://farm6.staticflickr.com/5775/20706120532_578cac3552_b.jpg =600x)
 
 Do you remember the electronic display at fancy grocery stores which let you know which station to check out? It's when there are few lines of people waiting, and the display shows whichever station that's open, and assigns the person in the front of the line to that station and then move to the next line. It's not a perfect analogy because the real multiplexer only has one input, so all the lines would be a single line. However, the part about the displays showing where to go is quiet similar.
+
+![](https://farm3.staticflickr.com/2933/14630595245_7ea41be283_o.jpg =600x)
+
+Wiring the 8 Bit RAM
+
+ ![](https://farm3.staticflickr.com/2918/14642585333_028c3324d5_b.jpg =600x)
+
+On a breadboard, I used 2 D-type Flip-flop chips, one MUX and DEMUX and one 555 Timer to generate signal. 
+
+![](https://farm3.staticflickr.com/2900/14626353221_caae6df4e2_o.jpg =600x)
+
+ First thing to do is connect DEMUX with three input swithces A, B and C. Also it needs to be connected to the Clock signal. Data input needs to be connected to all the Data inputs of D type flip flops. It's imporatant that the Data line is connected to all of the inputs of the Flip-Flops. 
+ 
+![](https://farm4.staticflickr.com/3923/14443190747_86c8f2d880_o.jpg =600x) 
+
+Second step is to connect DEMUX outputs to all of the clock inputs of the Flip-Flops. Now we know that the DEMUX is really assigning the clock's signal to all of the D Type Flip-Flops individually. 
+ 
+![](https://farm4.staticflickr.com/3882/14629137692_c29f415a21_o.jpg =600x)
+
+The third step is to connect the Outputs of all individual Flip-Flops to the MUX. The Ouputs are called Q on the Flip Flops and it's connected to from D0to D7 in the MUX, 8 bits of information.
+
+![](https://farm4.staticflickr.com/3885/14442989638_2a42bd8375_k.jpg =600x)
+
+The fourth step is to create an oscillator with 555 Chip. It's using capacitor and resistor similar to the Schimitt-Trigger oscillator we made earlier. We connect the output of the clock to a switch that alternate between Clock signal and READ mode. On Read mode, the switch is connected to the ground, which means the DEMUX is in passive mode (there might be a more correct way to say this!) and this is how we know if the parking spaces are occupied or not. 
+
+And most importantly, we need to connect the output of the MUX into an LED. 
+
+![](https://farm1.staticflickr.com/709/20695472168_71da556ea6_b.jpg =600x)
+
+The [video demonstration](https://vimeo.com/113169467) of 8 bit RAM. 
+ 
+![](https://farm3.staticflickr.com/2925/14444232477_45bef3c378_o.jpg =600x)
+
+When you are wiring this many wires to make an electornics, you are bound to find time to think about a lot of things. I kept on thinking I'm building a tiny city. Each Flip-Flop is an apartment building that's either occupied or vacant. DEMUX is like a giant terminal that all bus and cars go through, and all the connection between logic gates are like Highways. There are some roads that are used more frequently than others, some for high speed and others which are like more local roads. 
+
+Around that time, I found a a book of poems about cities by Donna Stonecipher. The whole book continues like this. 
+
+**It was like dreaming that you are given the keys to a model city and instantly feeling the burden of ownership, the keys weighing down your coat pocket so severely you start dreaming of giving them back.**
+
+*
+
+**It was like dreaming that you are given the keys to a model city and then you get into your royal blue car and drive out to the outskirts of town to leave the keys on an unoccupied bench overlooking a lake.**
+
+*
+
+**It was like dreaming that you drive back home unburdened, enter your house with its key and sit down with a sigh on your bed, in the quiet and dark, until you notice that the keys to the model city are back in your pocket.**
+
+*
+
+**It was like waking suddenly from the dream, seeing your house key on its hook, and luxuriating in the freedom from keys to model cities — in the deep ease of the haphazard and the habitual, the half-assed.**
+
+From Model City [7] by Donna Stonecipher
+
+![](https://farm1.staticflickr.com/379/18607218102_f45e6d9b0c_o.jpg =600x)
+
+I made a painting of the Random Access City on the studio wall. 
+
+##Extra
+
+- [1] D-Type Flip-Flops can be also made from NAND logic gates.  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-Type_Transparent_Latch.svg/300px-D-Type_Transparent_Latch.svg.png)
+
+- [2] For detailed explanation of the Mux, refer to this [wiki article](https://en.wikipedia.org/wiki/Multiplexer).
+
+[INTRODCTION ↻](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
