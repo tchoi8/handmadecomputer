@@ -3,7 +3,7 @@
 
 There are many ways of defining a computer other than the desktop, laptop, or smartphone. The "computer," on a fundamental level is a tool that can do mathematical operations like add and multiply, remember information and follow instructions. 
 
-![](https://farm1.staticflickr.com/677/20743564316_cd05a6a605_o.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/present.jpg)
 
 There is a silicon valley folklore that centers around protagonists like Jobs, Wozniak, a mythology of innovation. But what's left out of this glossy narrative are parallel stories about militarization, state power, and mass production, which provided the right political conditions and financed the computer's invention. [1]
 
@@ -18,17 +18,9 @@ Before computers became personal, they were used as tools for scientific researc
 ![](https://farm1.staticflickr.com/597/20664269176_2df4c0ed80_o.jpg =600x)
 ![](https://farm6.staticflickr.com/5799/20690521125_afe3bd6528_o.jpg =600x)
 
- 
-
-
 Let's begin our journey of Zeros and Ones, Transistors and Clocks.
 
-
 ![](https://farm1.staticflickr.com/704/20609043158_6237cd258f_o.jpg =600x)
-
- 
-
-
 
 ## Reference
 - Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the development of computational technology and theory from the perspective of military operations.
