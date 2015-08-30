@@ -45,23 +45,23 @@ Wiring the 8 Bit RAM
 
  ![](https://farm3.staticflickr.com/2918/14642585333_028c3324d5_b.jpg =600x)
 
-On a breadboard, I used 2 D-type Flip-flop chips, one MUX and DEMUX and one 555 Timer to generate signal. 
+On a breadboard, I used 2 D-type Flip-flop chips, one MUX and DEMUX and one 555 timer to generate signal. 
 
 ![](https://farm3.staticflickr.com/2900/14626353221_caae6df4e2_o.jpg =600x)
 
- First thing to do is connect DEMUX with three input swithces A, B and C. Also it needs to be connected to the Clock signal. Data input needs to be connected to all the Data inputs of D type flip flops. It's imporatant that the Data line is connected to all of the inputs of the Flip-Flops. 
+First thing to do is connect the DEMUX to three input swithces A, B and C. The DEMUX also needs to be connected to the clock signal and the data input needs to be connected to all the data inputs of D type flip flops. It's imporatant that the data line is connected to ALL of the inputs of the flip-flops. 
  
 ![](https://farm4.staticflickr.com/3923/14443190747_86c8f2d880_o.jpg =600x) 
 
-Second step is to connect DEMUX outputs to all of the clock inputs of the Flip-Flops. Now we know that the DEMUX is really assigning the clock's signal to all of the D Type Flip-Flops individually. 
+The second step is to connect the DEMUX outputs to all of the clock inputs of the flip-Flops. Now we know that the DEMUX is really assigning the clock's signal to all of the D type flip-flops individually. 
  
 ![](https://farm4.staticflickr.com/3882/14629137692_c29f415a21_o.jpg =600x)
 
-The third step is to connect the Outputs of all individual Flip-Flops to the MUX. The Ouputs are called Q on the Flip Flops and it's connected to from D0to D7 in the MUX, 8 bits of information.
+The third step is to connect the outputs of all individual flip-flops to the MUX. The ouputs are called Q on the flip-flops and it's connected to D0 from D7 on the MUX, 8 bits of information.
 
 ![](https://farm4.staticflickr.com/3885/14442989638_2a42bd8375_k.jpg =600x)
 
-The fourth step is to create an oscillator with 555 Chip. It uses a capacitor and resistor similar to the Schimitt-Trigger oscillator we made earlier. We connect the output of the clock to a switch that alternates between a clock signal and READ mode. While on Read mode, the switch is connected to the ground, which means the DEMUX is in passive mode (there might be a more correct way to say this!) and this is how we know if the parking spaces are occupied or not.
+The fourth step is to create an oscillator with a 555 Chip. The 555 chip uses a capacitor and resistor similar to the Schimitt-Trigger oscillator we made earlier. We connect the output of the clock to a switch that alternates between a clock signal and READ mode. While on READ mode, the switch is connected to the ground, which means the DEMUX is in passive mode (there might be a more correct way to say this!) and this is how we know if the parking spaces are occupied or not.
 
 And most importantly, we need to connect the output of the MUX into an LED. 
 
