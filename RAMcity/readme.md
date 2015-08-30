@@ -11,7 +11,7 @@ The parking lot has a single 1-lane gate that acts as both entrance and exit for
 
 However cars can't park in spaces which have already been filled and empty spaces must often be reserved. To prevent cars from attempting to park in a  space that has been filled or reserved, a big display tells incoming cars which spaces are in use.
 
-Once the cars need to leave they can exit the parking lot, erasing the data that's been stored in their parking space. This is achieved by opening the gate and letting the car leave, thus setting the state of the parking space and the display to zero. Now that space is free again to be filled or reserved.
+Once the cars need to leave they can exit the parking lot, erasing the data that's been stored in their parking space. This is achieved by opening the gate and letting the car dive through, thus setting the state of the parking space and the display to zero. Now that parking space is free again to be filled or reserved.
 
 By combining the clock, mux, demux and flipflop we can construct a complete a 8-bit random access memory, where data can be written and read asynchronously. [we may need to clarify this asynchronous statement]
 
