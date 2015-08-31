@@ -94,12 +94,18 @@ From Model City [7] by Donna Stonecipher
 
 ![](https://farm1.staticflickr.com/379/18607218102_f45e6d9b0c_o.jpg =600x)
 
-I made a painting of the Random Access City on the studio wall. 
+Inspired by the parallel between the computer and the cities, I made a painting of the Random Access City on the studio wall. 
+
+![](https://farm1.staticflickr.com/710/20421656493_a9f3d6a5c9_b.jpg =600x)
+
 
 Hand making circuits is an act of love, love for the ideas that the computer has come to embody. It is a practice devoted to the history and craft of computation, one that's taught me a great respect for the material and form. There is an elegance in the abstraction and repetition of computational logic that I can only describe as 'beautiful.'
 
+![](https://farm1.staticflickr.com/777/21016448716_dda5517174_b.jpg =600x)
+
 Nam June Paik wrote “… Karma is samsara. Relationship is metempsychosis. We are in open circuits" (Manifestos, Great Bear Pamphlets, Something Else Press, 1966). I wonder what he meant by "We are in open circuits?" Did he mean a circuit of information? And if so, do we try to close these circuits by mastering the technologies of our time? Or can we become part of the circuit? Our memories dispursed across the people places we touch.
 
+![](https://farm1.staticflickr.com/744/21033033342_99373b5f53_b.jpg =600x)
 
 ##Extra
 
