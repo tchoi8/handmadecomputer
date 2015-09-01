@@ -219,11 +219,15 @@ This 1 bit computer uses two TTL NAND logic chips, which are integrated circuit 
 ![](https://farm6.staticflickr.com/5717/20990175911_2ceb98c8c6_b.jpg =400x)
 
 With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition would be 10, not ten but "one, zero." 
-</br>
-0+0=0</br>
-0+1=1 </br>
-1+0=1 </br>
-1+1=10 (2 in decimal notation) </br>
+
+0+0=0 		
+		
+0+1=1  		
+ 		
+1+0=1  		
+ 		
+-1+1=10 (2 in decimal notation)  		
+
 
 In the last case, where the sum of 1+1, 10 requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*.  
 
@@ -246,13 +250,9 @@ Making process
 
 - [Pictures](https://www.flickr.com/photos/80913365@N04/20093606613)
 - [Teaching](https://www.flickr.com/photos/80913365@N04/20526747300)
--  Binary Logic Worksheet ![](https://farm8.staticflickr.com/7230/13984125176_91ccb45b3a_o.jpg =600x)
-
-
-And out of NAND logic gates, you can make a 1 bit computer! 
+- And out of NAND logic gates, you can make a 1 bit computer! 
 [Here](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
-
-[CPU DUMPLING SHOP ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md) &nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
