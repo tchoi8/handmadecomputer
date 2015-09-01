@@ -9,15 +9,17 @@
 
 "Not really...." 
 
-Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demontrates that binary numbers and boolean logic can be configured to create the fundamental building blocks of a computer. However, alone they aren't capable of computing in anything particularly useful.```[need one more sentance here. "For that we will need..."]```
+Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demontrates that binary numbers and boolean logic can be configured to create the fundamental building blocks of a computer. However, alone they aren't capable of computing in anything particularly useful. For that we will need a more powerful computer which you can build by assembling hardware and installing operating system. 
+
 
 With some help from the internet, or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. However, it's becoming increasingly rare for people to do so because laptop, desktop and mobile computers assembled ready for use are common and accesible. These modern computers are very powerful and can compute many bits of information in a fraction of a second, far more than our *1 Bit Computer*. 
 
  
 "All this talk is making me hungry. I'm really craving some dumplings!"
+
 ![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
 
-At the School for Poetic Computation, we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
+At the School for Poetic Computation[1], we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
 
  
 
@@ -25,7 +27,7 @@ I  walk in to the shop super hungry, ready for some sizzling dumplings. There's 
 
 ![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
 
-I look at the menu and decide to get pork and chive dumplings. I ask the man at the counter for 5 boiled dumplings and pay $1. He writes down my order on a piece of paper and puts it on the counter next to all the previous orders.  
+I look at the menu and decide to get pork and chive dumplings. I ask the man at the counter for 5 boiled dumplings and pay $2. He writes down my order on a piece of paper and puts it on the counter next to all the previous orders.  
  
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
  
@@ -61,17 +63,15 @@ He says my food is ready, packs up my order into a container, and hands it to me
  ![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
  
  Oh yeah! Dumpling time! 
- 
- 
 
 
-
-This dumpling shop can be a metaphor to help us underatand the most important part of the computer, the central processing unit (also known as the CPU). The most common CPU design is called the 'Von Neumann architecture,' named after John von Neumann, the mathematician who invented it in 1945. Although computer technology has advanced dramatically since then, the conceptual framework for the CPU has remained largely unchanged.
+This dumpling shop can be a metaphor to help us underatand the most important part of the computer, the central processing unit (also known as the CPU). The most common CPU design is called the 'Von Neumann architecture,' named after John von Neumann, the mathematician who invented it in 1945[2]. Although computer technology has advanced dramatically since then, the conceptual framework for the CPU has remained largely unchanged.
 
 
 
 ![](https://farm6.staticflickr.com/5827/20311593064_44718b69c4_b.jpg =600x)
 
+[Image source](https://en.wikipedia.org/wiki/Von_Neumann_architecture#/media/File:Von_Neumann_Architecture.svg)
 
 
 
@@ -95,30 +95,27 @@ There's also a second kind of memory in the computer, like how the raw ingredien
 
 ![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
 
-This device is named "Finite State machine" because it has a limited amount of memory for holding information the user inputs. I designed this to better understand the important components and concepts that make up the CPU. 
+This device is named "Finite State machine"[2] because it has a limited amount of memory for holding information the user inputs. I designed this to better understand the important components and concepts that make up the CPU. 
 
-#####Input & Output
+####Input & Output
 
 The four buttons in the front are the inputs which you can use to enter four bits of information. If the button is pressed, the information is 1 or High and an LED right in front of the button lights up immediately.
 
 
 The four LEDs on the back are the outputs. This is where information stored in the the RAM (Random Access Memory) is made visible. It's the visual output for the finite state machine.  
 
-##### RAM 
+####RAM 
 The RAM is a [74189 chip](http://pdf.datasheetcatalog.com/datasheet/fairchild/74F189.pdf), 64-Bit Random Access Memory. More on the nature of RAM on the next chapter on the [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity). 
 The small red switch on the left enables you to select between reading or writing the data from the input to the RAM. When the switch is in writing mode, status of the switches (either on and off) is recorded on the RAM as four bits of information. 
 
  
   
 ####Counter
-The small yellow switch on the right controls the counter which counts from zero to nine, ten states where four bits of information can be recorded. When the switch is toggled, the number decreases from nine to zero. Imagine of an elevator that does from the ground floor to the 9th floor that can go up or down. 
-
-
-![](https://farm1.staticflickr.com/666/20677709442_6f380d215d_k.jpg =600x) 
-
+The small yellow switch on the right controls the counter which counts from zero to nine, ten states where four bits of information can be recorded. When the switch is toggled, the number decreases from nine to zero. 
+ 
 The blue button next to the Counter control is a load. If this switch is enabled, you can load the information stored in the RAM. This is possible by switching on and off the load switches behind the chip. The binary information from the switches gives you a random access to the information the R.A.M. When it's not on the load mode, the RAM can cycle through the ten steps. 
 
-![](https://farm1.staticflickr.com/695/20719117620_31be865dcf_b.jpg =400x)   
+ 
 The Finite State Machine demonstrates how the instructions and information are stored in memory. However it doesn't explain how the computer calculates information, or to continue with our dumpling metaphor, how the chef actually cooks the dumplings. The mathematical and logical operations are made possible with the ALU, which stands for Arithmetic Logic Unit. 
 
 ![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
@@ -127,7 +124,11 @@ The ALU is responsible for all mathematics and logical operations, like comparin
 
 ![](https://farm6.staticflickr.com/5626/20313162303_a0112be8ff_b.jpg =600x)
 
-What's really fascinating about the ALU and the computers in general is that they are made for binary logic gates. ALU, which performs complex operations is still made of basic logic gates, as you as see on the diagram above. 
+[Image source](https://commons.wikimedia.org/wiki/File:74181aluschematic.png) 
+
+ 
+
+What's really fascinating about the ALU and the computers in general is that they are made for binary logic gates. ALU, which performs complex operations is still made of basic logic gates, as you as see on the diagram above. It looks like a busy street in the city. 
 
 ![](https://farm6.staticflickr.com/5696/20364771063_4c0aa7f838_b.jpg =600x)
 
@@ -136,15 +137,17 @@ When the chef grills dumplings on the pan, or packs up the cooked food, he's act
 [Video of ALU construction and demonstration](https://vimeo.com/136831074)
 
 
-
 ![](https://farm6.staticflickr.com/5636/20666499401_13440b1738_z.jpg)
 
-More technical description. 
+ALU and Memory is only a part of what makes CPU. Many more machines are interconnected to make up a computer. Instruction register, memory address registers and other units make up the datapath.  The arrows connecting all of them are like highways connecting a city to another city. 
+
+In the next chapter, we will look into the Random Access Memory more closely to see the parallel between computer architecture and urban space. 
 
 ###Extra 
 
-[Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM)   
-  
-[Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing) machine. 
+- [1] [School for Poetic Computation](http://sfpc.io) is a an artist run school that I cofounded in 2013 to teach and learn code, hardware and theory.  
+- [2] [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+- [2] [Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM) is actually a conceptual term for computational architecture.    
+- Also [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing)'s Universal Machine is an important concept. 
  
 [RAM CITY ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
