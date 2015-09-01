@@ -39,6 +39,9 @@ With XOR and AND gates combined, we can make an adder. Adders add numbers. So in
 1+0=1 </br>
 1+1=10 (2 in decimal notation) </br>
 
+![](https://farm6.staticflickr.com/5826/21055702651_1ff54a87e9_b.jpg =600X)
+
+
 In the last case, where the sum of 1+1, 10 requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*.  
 
 ![](https://farm6.staticflickr.com/5795/20812986422_ee5529c19d_b.jpg =400x)
