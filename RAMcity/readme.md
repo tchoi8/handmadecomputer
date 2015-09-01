@@ -91,11 +91,13 @@ Hand making circuits is an act of love, love for the ideas that the computer has
 
 ![](https://farm1.staticflickr.com/777/21016448716_dda5517174_b.jpg =600x)
 
-Nam June Paik wrote “… Karma is samsara. Relationship is metempsychosis. We are in open circuits" (Manifestos, Great Bear Pamphlets, Something Else Press, 1966). I wonder what he meant by "We are in open circuits?" Did he mean a circuit of information? And if so, do we try to close these circuits by mastering the technologies of our time? Or can we become part of the circuit? Our memories dispursed across the people places we touch.
+Nam June Paik wrote “… Karma is samsara. Relationship is metempsychosis. We are in open circuits" [1] I wonder what he meant by "We are in open circuits?" Did he mean a circuit of information? And if so, do we try to close these circuits by mastering the technologies of our time? Or can we become part of the circuit?  Our images are sculpted on the cities we live in. Our memories dispursed across the people places we touch. We are open circuits and we are open city. 
 
 ![](https://farm1.staticflickr.com/744/21033033342_99373b5f53_b.jpg =600x)
 
-##Extra
+**Reference**
+
+- [1] Manifestos, Great Bear Pamphlets, Something Else Press, 1966).  
 
  
 
