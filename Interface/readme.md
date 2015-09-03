@@ -2,7 +2,7 @@
 
 Everyday we look at computer screens for a very long time.  
 
-![](https://farm4.staticflickr.com/3786/12623364165_4fc3315269_o.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/tablet.jpg)
 
 
 
@@ -12,7 +12,7 @@ We touch them, carry them, and sleep next to them.
 
 Our lives are stored in bits, our messages turned to network packets, our living spaces are pixels.
 
-![](https://farm1.staticflickr.com/469/18311063313_edbaf8e993_o.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/laptop.jpg)
 
 Most of us have some knowledge about how to use a computer. But we have a limited understanding of the inner workings, what happens behind the screen and the colorful user interface. Miniaturization and mass-production have lead to the mystification of the computer, complicating and obscuring it's production and operation.
 
