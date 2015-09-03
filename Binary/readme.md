@@ -29,21 +29,21 @@ This 1 bit computer uses two TTL NAND logic chips, which are integrated circuit 
 
 ![](https://farm1.staticflickr.com/774/20812984222_590f7b06e4_b.jpg =600x)
 
- You can click on the switches to see the Half Adder working, it adds one digits of number.  ```[This is where interactive component comes in.]``` 
+ You can click on the switches to see the half adder working, it can add two bits together yielding a two digit binary number.  ```[This is where interactive component comes in.]``` 
  
 ![](https://farm6.staticflickr.com/5717/20990175911_2ceb98c8c6_b.jpg =400x)
 
-With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition would be 10, not ten but "one, zero." 
-</br>
-0+0=0</br>
-0+1=1 </br>
-1+0=1 </br>
-1+1=10 (2 in decimal notation) </br>
+With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition 1 + 1 would be 10, not ten but "one, zero" or two. 
+
+0+0=0
+0+1=1
+1+0=1
+1+1=10 (2 in decimal notation)
 
 ![](https://farm6.staticflickr.com/5826/21055702651_1ff54a87e9_b.jpg =600X)
 
 
-In the last case, where the sum of 1+1, 10 requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*.  
+In the last case where we add 1+1, the sum (10) requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*.  
 
 ![](https://farm6.staticflickr.com/5795/20812986422_ee5529c19d_b.jpg =400x)
 
