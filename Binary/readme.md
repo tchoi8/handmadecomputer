@@ -16,7 +16,7 @@ NAND is short for *not* AND logic. Here A and B are inputs, either of which can 
 
 Before we get into the details of *1 Bit Computer*, let's return to the idea of zero and one, binary numbers, and their boolean logic.
 
- ![](https://farm6.staticflickr.com/5761/20794424050_7d5864e2dc_o.jpg =600x)
+ ![](https://dl.dropboxusercontent.com/u/53638/true-false.jpg)
 
 
 By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
