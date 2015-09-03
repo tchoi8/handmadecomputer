@@ -4,8 +4,9 @@ A *1 Bit Computer* has the fundamental abilities of the traditional computer. It
 
  
 ![](https://farm6.staticflickr.com/5744/20578210488_c5016e6191_b.jpg =600x)
-</br>
-[Video]([Video](https://vimeo.com/136769465)
+
+
+([Video](https://vimeo.com/136769465)
  
 
 This version of *1 Bit Computer* is made of NAND logic gates. 
