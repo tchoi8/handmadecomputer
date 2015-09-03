@@ -12,9 +12,9 @@ A *1 Bit Computer* has the fundamental abilities of the traditional computer. It
 This version of *1 Bit Computer* is made of NAND logic gates. 
 ![](https://farm6.staticflickr.com/5667/20256616333_9961ff1b9b_b.jpg =600x)
 
-NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
+NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above, depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
 
-Before we get into the details of *1 Bit Computer*, Let's return to the idea of Zero and One, Binary numbers and Boolean Logic. 
+Before we get into the details of *1 Bit Computer*, let's return to the idea of zero and one, binary numbers, and their boolean logic.
 
  ![](https://farm6.staticflickr.com/5761/20794424050_7d5864e2dc_o.jpg =600x)
 
