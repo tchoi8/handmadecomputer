@@ -91,7 +91,7 @@ At the CPU Dumpling Shop, whenever a customer orders food, the information about
 
 The chef knows the whole menu as well as which cabinets the ingredients are stored. He remembers the recipe for making dumplings in his long term memory, he doesn't think about them every second, but he can remember when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
 
-There's also a second kind of memory in the computer, like how the raw ingredients for the dumplings are stored further away in the kitchen, the chef can pick these up anytime he needs. Some data is stored in the storage, which is basically the same as memory except it contains information that's only used once in a while. The information in the computer memory is temporary and used constantly for short periods of time, and the information in storage is kept for a very long time, just like our memories.   
+There's also a second kind of memory in the computer, like how the raw ingredients for the dumplings are stored further away in the kitchen, the chef can pick these up anytime he needs. Some data is stored on the hard disk, which is basically the same as memory except it contains information that's only used once in a while. The information in the computer memory is temporary and used constantly for short periods of time, and the information in storage is kept for a very long time, just like our memories.   
 
 ![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
 
