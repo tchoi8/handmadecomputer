@@ -18,7 +18,7 @@ Most of us have some knowledge about how to use a computer. But we have a limite
 
 Fortunately, computers perform all the complex tasks we're familiar with through a few simple operations, repeated and abstracted. So opening up the computer may be easier than you think.
  
-![](https://farm6.staticflickr.com/5757/20497682388_231bd20b52_o.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/minimial.jpg)
 
 
 
