@@ -50,7 +50,9 @@ In the last case where we add 1+1, the sum (10) requires we carry the 1 over to 
 The second basic computing operation is data storage, remembering information in bits. We are going to create the most primitive form of computer memory, where an input *set* can turn on or off an LED output, *Q bar*. If the reset switch is then toggled, *switch* is assigned to 1, and next time the *set* is made 1 and the LED output will remain lit even when *set* is no longer pressed. A latch works by connecting output of the NAND logic gate to input of another NAND logic gate. This is a sequential circuit, in which the output is affected by the input that was previously made. So the two inputs are called *set* and *reset* because they can be used interchangeably. A circuit like this is called a flip-flop as well. 
 
 ![](https://farm6.staticflickr.com/5800/20822480345_604712427c_b.jpg =400x)
+
 [interactive version](http://codepen.io/hxrts/full/NGPLJV/)
+
 [codepen](http://codepen.io/hxrts/pen/NGPLJV/)
 
 ```[You can turn the knob to change the frequency.]``` 
