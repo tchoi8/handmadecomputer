@@ -69,14 +69,14 @@ This phrase "Each one comes to be a whole one to me" is from *The Making of Amer
 
 Paintings, circuits, and books all make use of repetition. Layering shapes or wires or pages, the composition and logic of which allow them to function as a whole.
 
+Making a computer and building electronic circuits feels like building a tiny city. The circuit board is a little urban architecture and its inhabitants a busy traffic of electronic signals. Just like cities, memories are made and remembered in the buildings and roads connecting them.
+
 ![](https://farm4.staticflickr.com/3940/15752018125_41037ef0c6_b.jpg =600x)
  
-We are now going to cut a small hole into the abstracted form and jump into the world of zero and one.
+We are now going to make a window into this city and peer into the world of zero and one.
 
 ![](https://farm8.staticflickr.com/7541/15566849007_edcf431bec_b.jpg =600x)
   
-
-Making a computer and building electronic circuits feels like building a tiny city. The circuit board is a little urban architecture and its inhabitants a busy traffic of electronic signals. Just like cities, memories are made and remembered in the buildings and roads connecting them.
  
  
  
