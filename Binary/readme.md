@@ -1,5 +1,7 @@
 [⇐ INTERFACE](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
 
+![](https://dl.dropboxusercontent.com/u/53638/zeroone.png)
+
 A *1 Bit Computer* has the fundamental abilities of the traditional computer. It can perfom artithmetic, add two single digit numbers and return a two digit output. It has a clock that creates a square wave oscillation that turns an LED on and off at varying speed. It also has memory, a latch that can store 1-bit of information, zero or one. 
 
  
