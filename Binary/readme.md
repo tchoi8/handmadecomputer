@@ -48,6 +48,8 @@ A latch works by connecting output of the NAND logic gate to input of another NA
 
 ![](https://farm6.staticflickr.com/5795/20812986422_ee5529c19d_b.jpg =400x)
 
+The last component, the binary clock, simply switches between zero and one, visible to us as 'LED not lit,' and then 'LED lit.' The period in which the LED blinks, or the clock cycle, is determined by how fast the circuit switches between zero and one. The clock is made possible by utilizing the electrical properties of the specific kinds of NAND logic gate chips (CD4093 or 74132) called the *Schmitt-Trigger* which delays the response time of the logic based on a threshold. By creating a network of variable resistor and capacitor between the input and output of the logic, NAND gate oscillates between Zero and One to produce constant frequency, also know as a clock signal.
+
 ![](https://farm6.staticflickr.com/5800/20822480345_604712427c_b.jpg =400x)
 
 [interactive version](http://codepen.io/hxrts/full/NGPLJV/)
@@ -55,7 +57,6 @@ A latch works by connecting output of the NAND logic gate to input of another NA
 [codepen](http://codepen.io/hxrts/pen/NGPLJV/)
 
 ```[You can turn the knob to change the frequency.]``` 
-The binary clock simply switches between zero and one, visible to us as 'LED not lit,' and then 'LED lit.' The period in which the LED blinks, or the clock cycle, is determined by how fast the circuit switches between zero and one. The clock is made possible by utilizing the electrical properties of the specific kinds of NAND logic gate chips (CD4093 or 74132) called the *Schmitt-Trigger* which delays the response time of the logic based on a threshold. By creating a network of variable resistor and capacitor between the input and output of the logic, NAND gate oscillates between Zero and One to produce constant frequency, also know as a clock signal.  
 
 ![](https://farm1.staticflickr.com/620/20773146321_b0c6b10767_o.jpg =600x)
 
