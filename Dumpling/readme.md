@@ -7,7 +7,7 @@
 
 ![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg =200x)
 
-"Not really...." 
+"Not really..." 
 
 Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demontrates that binary numbers and boolean logic can be configured to create the fundamental building blocks of a computer. However, alone they aren't capable of computing in anything particularly useful. For that we will need a more powerful computer which you can build by assembling hardware and installing operating system. 
 
