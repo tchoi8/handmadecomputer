@@ -5,11 +5,10 @@ A *1 Bit Computer* has the fundamental abilities of the traditional computer. It
  
 ![](https://farm6.staticflickr.com/5744/20578210488_c5016e6191_b.jpg =600x)
 
-
 [Video](https://vimeo.com/136769465)
  
+```This version of *1 Bit Computer* is made of NAND logic gates.```
 
-This version of *1 Bit Computer* is made of NAND logic gates. 
 ![](https://farm6.staticflickr.com/5667/20256616333_9961ff1b9b_b.jpg =600x)
 
 NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above, depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
