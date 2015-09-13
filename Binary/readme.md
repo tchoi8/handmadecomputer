@@ -21,7 +21,7 @@ Before we get into the details of *1 Bit Computer*, let's return to the idea of 
 
 By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
 
-![](https://dl.dropboxusercontent.com/u/53638/combined.jpg)
+![](https://dl.dropboxusercontent.com/u/53638/nands.jpg)
  
 ![](https://farm1.staticflickr.com/620/20773146321_b0c6b10767_o.jpg =600x)
 
