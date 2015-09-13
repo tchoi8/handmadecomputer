@@ -61,7 +61,7 @@ This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled I
  ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
 
  
-This phrase "Each one comes to be a whole one to me" is from *The Making of Americans* by Gertrude Stein. I opened a random page in the book and picked this line, so it could have been any other phrase. In this book, a story is told and retold in many ways. The result is a fragmented narrative with multiple perspectives. 
+This phrase "Each one comes to be a whole one to me" is from *The Making of Americans* by Gertrude Stein. I opened a random page in the book and picked this line, so it could just have been any other phrase. In this book, a story is told and retold in many ways. The result is a fragmented narrative with multiple perspectives. 
 
 ![](https://farm1.staticflickr.com/679/20823369765_30e3a61dd6_b.jpg =600x)
 
