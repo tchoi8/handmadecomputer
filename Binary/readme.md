@@ -25,7 +25,7 @@ By combining NAND gates in various arrangements we are able to make every other 
  
 ![](https://farm1.staticflickr.com/620/20773146321_b0c6b10767_o.jpg =600x)
 
-This 1 bit computer uses two TTL NAND logic chips, which are integrated circuit chips designed to perform NAND operations. The same logic could be implemented with transistors, vacuum tubes, or few lines of code in most programming languages.
+This 1 bit computer uses two TTL NAND logic chips, which are integrated circuits designed to perform NAND operations. The same logic could be implemented with transistors, vacuum tubes, or few lines of code in most programming languages.
 
 ![](https://farm1.staticflickr.com/774/20812984222_590f7b06e4_b.jpg =600x)
 
