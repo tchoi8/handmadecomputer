@@ -45,7 +45,7 @@ Josephson Junctions Chip from IBM.
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
 
  
-This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. Halley's work not only reminds me of microchips, but also computer design patterns such as the Von Neumann architecture which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
+This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. Halley's work not only reminds me of microchips, but also computer design patterns such as the Von Neumann architecture, which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
 
   
   ![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
