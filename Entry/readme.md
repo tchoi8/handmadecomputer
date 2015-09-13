@@ -1,6 +1,14 @@
 [↻ RAM CITY](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
 
 ![](https://farm6.staticflickr.com/5836/20581702098_70441b0203_b.jpg =600x)
+
+
+
+
+
+
+
+
 ![](https://dl.dropboxusercontent.com/u/53638/phone.jpg)
 
 There are many ways of defining a computer other than the desktop, laptop, or smartphone. The "computer," on a fundamental level is a tool that can do mathematical operations like add and multiply, remember information and follow instructions. 
