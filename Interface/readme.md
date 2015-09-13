@@ -31,7 +31,7 @@ The Minimalists painters were interested in more than just the formal qualities 
  
  ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
 
-This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the visual patterns of the interior circuitry which, designed for engineering purposes, are also quite geometrically appealing. They remind me of Frank Stella, Sol Lewitt, and the work other minimalist artists. 
+This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the visual patterns of the interior circuitry which, designed for engineering purposes, are also quite geometrically appealing. They remind me of Frank Stella, Sol Lewitt, and the work of other minimalist artists. 
 
 
 ![](https://farm1.staticflickr.com/703/20884034731_b40b344d58_o.jpg =400x)
