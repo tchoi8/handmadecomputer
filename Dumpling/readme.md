@@ -9,7 +9,7 @@
 
 "Not really..." 
 
-Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be *turing complete* if it includes *all* of them, at which point it can carry out *any* possible computation.
+Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be (*turing complete*)[https://en.wikipedia.org/wiki/Turing_completeness] if it includes *all* of them, at which point it has the extraordinary ability to carry out *any* possible computation.
 
 But how do we get from adding 2 bits together to a system you might be more familiar with? Modern computers are very powerful and can compute millions or billions of bits of information in a fraction of a second, far more than our *1 Bit Computer*. You can still build one of these by assembling hardware and installing operating system. With some help from the internet, or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. It's simply become exceedingly rare for people to do so because pre-assembled laptop, desktop, and mobile computers are common and accesible. 
 
