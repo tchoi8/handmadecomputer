@@ -9,10 +9,9 @@
 
 "Not really..." 
 
-Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demontrates that binary numbers and boolean logic can be configured to create the fundamental building blocks of a computer. But on their own they aren't capable of computing in anything particularly useful. To build a system you might be more familiar with you'll need powerful computer which you can build by assembling hardware and installing operating system. 
+Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, *1 Bit Computer* demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be *turing complete* if it includes *all* of them, at which point it can carry out *any* possible computation.
 
-
-With some help from the internet, or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. However, it's becoming increasingly rare for people to do so because laptop, desktop and mobile computers assembled ready for use are common and accesible. These modern computers are very powerful and can compute many bits of information in a fraction of a second, far more than our *1 Bit Computer*. 
+But how do we get from adding 2 bits together to a system you might be more familiar with? Modern computers are very powerful and can compute millions or billions of bits of information in a fraction of a second, far more than our *1 Bit Computer*. You can still build one of these by assembling hardware and installing operating system. With some help from the internet, or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. It's simply become exceedingly rare for people to do so because pre-assembled laptop, desktop, and mobile computers are common and accesible. 
 
  
 "All this talk is making me hungry. I'm really craving some dumplings!"
