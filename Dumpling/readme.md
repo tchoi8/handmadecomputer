@@ -18,7 +18,7 @@ But how do we get from adding 2 bits together to a system you might be more fami
 
 ![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
 
-At the School for Poetic Computation[1], we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
+At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
 
  
 
