@@ -9,7 +9,7 @@
 
 "Not really..." 
 
-Even if it did make sense, the *1 Bit Computer* doesn't quite explain how your laptop or smartphone actually work.  Instead, it demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be [*turing complete*](https://en.wikipedia.org/wiki/Turing_completeness) if it includes *all* of them, at which point it has the extraordinary ability to carry out *any* possible computation.
+Building the *1 Bit Computer* doesn't yet show us how your laptop or smartphone actually work. Instead, it demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be [*turing complete*](https://en.wikipedia.org/wiki/Turing_completeness) if it includes *all* of them, at which point it has the extraordinary ability to carry out *any* possible computation.
 
 But how do we get from adding 2 bits together to a system you might be more familiar with? Modern computers are very powerful and can compute millions or billions of bits of information in a fraction of a second, far more than our *1 Bit Computer*. You can still build one of these by assembling the proper hardware and installing the operating system. With some help from the [internet](https://pcpartpicker.com/), or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. It's simply become increasingly rare for people to do so because pre-assembled laptops, desktops, and mobile computers are now readily accessible. 
 
@@ -53,7 +53,6 @@ Another person is folding the dumplings with the filling inside. All of them are
 Pots and pans full of dumplings...
 
  
- 
  ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
  
 The man at the counter yells my number, packs everything into a container, and hands it to me. 
@@ -64,7 +63,7 @@ The man at the counter yells my number, packs everything into a container, and h
  Oh yeah! Dumpling time! 
 
 
-The dumpling shop can be seen as a metaphor to help us underatand the most important part of the computer, the central processing unit (also known as the CPU). The prevailing CPU design is called the *Von Neumann architecture*, named after [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), the mathematician and polymath who invented it in 1945[2]. Though computer technology has advanced dramatically since then, the conceptual framework for the CPU has in fact remained largely unchanged.
+This dumpling shop is a useful metaphor for understanding the most important part of the computer, the central processing unit (also known as the CPU). CPUs found in many of our devices today use the *Von Neumann architecture* design pattern, named after the mathematician and polymath [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) often credited with its invention[2]. Von Neumann, a key scientific figure in the Manhattan Project, joined the US Army Ballistic Research Laboratory's program to develop the first electronic general purpose computation device, ENIAC (Electronic Numerical Integrator And Computer), whose first computation was to test the possibility of creating a hydrogen fusion reaction for second generation nuclear weapons. The ENIAC machine was only programmable through manual switching, which could take weeks of preperation and debugging leading Von Neumann and his team to design EDVAC (Electronic Discrete Variable Automatic Computer), the first device capable of using a stored-memory program. Though computer technology has advanced dramatically since then, the conceptual framework of the modern CPU has remained largely unchanged.
 
 
 
