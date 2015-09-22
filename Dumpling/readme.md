@@ -22,7 +22,7 @@ At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dump
 
  
 
-I  walk in to the shop super hungry, ready for some sizzling dumplings. There's always a nice guy who greets me at the counter. 
+I walk in to the shop super hungry, ready for some sizzling dumplings. There's always a nice guy there to greet me at the counter. 
 
 ![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
 
@@ -31,16 +31,16 @@ I look at the menu and decide to get pork and chive dumplings. I ask the man at 
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
  
 
-He turns around, packs up a few vegetable dumplings, and gives them to the customer who came before me. Then he puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
+He turns around, packs up a few vegetable dumplings, and gives them to the customer ahead of me. Then he puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
 
 ![](https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg =300x)
 
 
-While I wait impatiently for my food, he takes in more orders from other customers. And then cooks some more dumplings. 
+While I wait impatiently for my food, he takes orders from more customers and adds a few more dumplings to the boiling water. 
  
- ![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
+![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
  
-In the back kitchen, I see other people making more dumplings from scratch. There's a person peeling onions, another person cutting chives.
+In the back kitchen, I see other people making the dumplings from scratch. There's a person peeling onions, another person cutting chives.
  
 
 ![](https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg =300x)
@@ -50,13 +50,13 @@ Another person is folding the dumplings with the filling inside. All of them are
  
 ![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
 
-There are pots and pans full of dumplings. 
+Pots and pans full of dumplings...
 
  
  
  ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
  
-He says my food is ready, packs up my order into a container, and hands it to me. 
+The man at the counter yells my number, packs everything into a container, and hands it to me. 
 
 
  ![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
