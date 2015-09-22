@@ -74,7 +74,7 @@ The dumpling shop can be seen as a metaphor to help us underatand the most impor
 
 
 
-The Von Neumann architecture is based on a CPU that has *control unit* and an *arithmetic logic unit*. These two units communicate with the *memory unit* when it's instructed by an input. The output of this operation is communicated through output device. This architecture makes it possible to store programs in the computer, where programs and data in memory can be treated interchangeably. In other words, this functionality to store information and call it as an instruction distinguishes the computers from electronic calculators, which can perform mathematical operations but have limited ability to store and recall programs. 
+The Von Neumann architecture has two major components, the *control unit* and the *arithmetic logic unit*. These two units may also communicate with the computer memory if given an instruction to do so. The result of an arithmetic operation can then be communicated through the output channel. Von Neumann's innovation with this architecture was to allow storage of arbitrary programs within the computer, in other words they allowed data and memory to be treated interchangeably. This storage functionality, recalling information as an instruction is what distinguishes the computer from electronic calculators. 
 
 
 
