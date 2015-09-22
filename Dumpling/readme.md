@@ -22,7 +22,7 @@ At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dump
 
  
 
-I  walk in to the shop super hungry, ready for some sizzling dumplings. There's a nice guy who works there. 
+I  walk in to the shop super hungry, ready for some sizzling dumplings. There's always a nice guy who greets me at the counter. 
 
 ![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
 
