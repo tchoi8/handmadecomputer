@@ -64,7 +64,7 @@ The man at the counter yells my number, packs everything into a container, and h
  Oh yeah! Dumpling time! 
 
 
-This dumpling shop can be a metaphor to help us underatand the most important part of the computer, the central processing unit (also known as the CPU). The most common CPU design is called the 'Von Neumann architecture,' named after John von Neumann, the mathematician who invented it in 1945[2]. Although computer technology has advanced dramatically since then, the conceptual framework for the CPU has remained largely unchanged.
+The dumpling shop can be seen as a metaphor to help us underatand the most important part of the computer, the central processing unit (also known as the CPU). The prevailing CPU design is called the 'Von Neumann architecture,' named after [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), the mathematician / polymath who invented it in 1945[2]. And although computer technology has advanced dramatically since then, the conceptual framework for the CPU has remained largely unchanged.
 
 
 
