@@ -11,7 +11,17 @@
 
 Building the *1 Bit Computer* doesn't yet show us how your laptop or smartphone actually work. Instead, it demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be [*turing complete*](https://en.wikipedia.org/wiki/Turing_completeness) if it includes *all* of them, at which point it has the extraordinary ability to carry out *any* possible computation.
 
-But how do we get from adding 2 bits together to a system you might be more familiar with? Modern computers are very powerful and can compute millions or billions of bits of information in a fraction of a second, far more than our *1 Bit Computer*. You can still build one of these by assembling the proper hardware and installing the operating system. With some help from the [internet](https://pcpartpicker.com/), or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. It's simply become increasingly rare for people to do so because pre-assembled laptops, desktops, and mobile computers are now readily accessible. 
+So how do we get from adding 2 bits together to a system you might be more familiar with? Modern computers are very powerful and can compute millions or billions of bits of information in a fraction of a second, far more than our *1 Bit Computer*. You can still build one of these by assembling the proper hardware and installing the operating system. With some help from the [internet](https://pcpartpicker.com/), or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. It's simply become rare for people to do so because pre-assembled laptops, desktops, and mobile computers are now so readily accessible. 
+
+There are still a few missing links between our 1-bit toys and the parts you can buy off the shelf. We now know how to perform a binary computation and store the result, but as a user we're generally more interested in the context in which we perform that computation, the computer program. This is where the most important component of the computer comes in, the CPU (or Central Processing Unit).
+
+The CPUs found in many of our devices today use what's called a *Von Neumann architecture*, named after the mathematician and polymath [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) credited with its invention[2]. A key scientific figure in the Manhattan Project, Von Neumann joined the US Army Ballistic Research Laboratory's program to develop the first electronic general purpose computation device, ENIAC (Electronic Numerical Integrator And Computer), whose initial program was a numerical simulation of the sustained hydrogen fusion reactions needed for second generation nuclear weapons. The ENIAC machine, however, was only programmable through manual switching, which could take weeks of preperation and debugging. This lead Von Neumann and his team to design a second machine, EDVAC (Electronic Discrete Variable Automatic Computer), the first device capable of using a stored-memory program. Though computer technology has advanced dramatically since then, the conceptual framework of the modern CPU has remained largely unchanged since 1945.
+
+![](https://farm6.staticflickr.com/5827/20311593064_44718b69c4_b.jpg =600x)
+
+[Image source](https://en.wikipedia.org/wiki/Von_Neumann_architecture#/media/File:Von_Neumann_Architecture.svg)
+
+The Von Neumann architecture has two major components, the *control unit* and the *arithmetic logic unit*. These may also communicate with the computer memory if given an instruction to do so. After whichm the result of an arithmetic operation can then be communicated through the output channel. Von Neumann's innovation with this architecture was to allow storage of arbitrary programs within the computer, in other words they allowed data and memory to be treated interchangeably. This storage functionality, recalling information as an instruction is what distinguishes the computer from electronic calculators and takes us from our 1-bit computer to a generalized, programmable computer. 
 
  
 "All this talk is making me hungry. I'm really craving some dumplings!"
@@ -20,7 +30,7 @@ But how do we get from adding 2 bits together to a system you might be more fami
 
 At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
 
- 
+
 
 I walk in to the shop super hungry, ready for some sizzling dumplings.
 
@@ -53,37 +63,18 @@ Another person is folding the dumplings with the filling inside. All of them are
 Pots and pans full of dumplings...
 
  
- ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
+![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
  
 The man at the counter yells my number, packs everything into a container, and hands it to me. 
 
+Oh yeah! Dumpling time! 
 
- ![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
- 
- Oh yeah! Dumpling time! 
-
-
-This dumpling shop is a useful metaphor for understanding the most important part of the computer, the central processing unit (also known as the CPU). CPUs found in many of our devices today use the *Von Neumann architecture* design pattern, named after the mathematician and polymath [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) often credited with its invention[2]. Von Neumann, a key scientific figure in the Manhattan Project, joined the US Army Ballistic Research Laboratory's program to develop the first electronic general purpose computation device, ENIAC (Electronic Numerical Integrator And Computer), whose first computation was to test the possibility of creating a hydrogen fusion reaction for second generation nuclear weapons. The ENIAC machine was only programmable through manual switching, which could take weeks of preperation and debugging leading Von Neumann and his team to design EDVAC (Electronic Discrete Variable Automatic Computer), the first device capable of using a stored-memory program. Though computer technology has advanced dramatically since then, the conceptual framework of the modern CPU has remained largely unchanged.
+![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
 
 
-
-![](https://farm6.staticflickr.com/5827/20311593064_44718b69c4_b.jpg =600x)
-
-[Image source](https://en.wikipedia.org/wiki/Von_Neumann_architecture#/media/File:Von_Neumann_Architecture.svg)
-
-
-
-The Von Neumann architecture has two major components, the *control unit* and the *arithmetic logic unit*. These two units may also communicate with the computer memory if given an instruction to do so. The result of an arithmetic operation can then be communicated through the output channel. Von Neumann's innovation with this architecture was to allow storage of arbitrary programs within the computer, in other words they allowed data and memory to be treated interchangeably. This storage functionality, recalling information as an instruction is what distinguishes the computer from electronic calculators. 
-
-
-
-
-
+While I eat, I think about how the dumpling shop is a useful metaphor for understanding the central processing unit. 
 
 ![](https://farm6.staticflickr.com/5773/20825301555_0ecf439c0a_b.jpg =600x)
-
-
-
 
 At the CPU Dumpling Shop, whenever a customer orders food, the information about their order is considered a single instruction set.  
 
