@@ -1,6 +1,6 @@
 [⇐ INTERFACE](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
 
-```[need to give little intro to transistor as what allows these logic circuits to function. ~1 Billion transistors in a current smartphone]```
+```[need to give little intro to transistor as what allows these logic circuits to function, make the link between the transistor and the gate.]```
 
 ![](https://dl.dropboxusercontent.com/u/53638/zeroone.png)
 
