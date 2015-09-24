@@ -24,7 +24,7 @@ The CPUs found in many of our devices today use what's called a *Von Neumann arc
 The Von Neumann architecture has two major components, the *arithmetic logic unit* (ALU) and a *control unit* which conducts information flow within the ALU. Depending on the program, the control unit may also communicate with the computer memory if given an instruction to do so, after which the result of an arithmetic operation can then be communicated through the output channel. Von Neumann's innovation with this architecture was to allow data and memory to be treated interchangeably, using the software to shape the operational conditions of each computation. This storage functionality, recalling information as an instruction, is what distinguishes the computer from electronic calculators and takes us from our 1-bit computer to a generalized, programmable computer. 
 
  
-"All this talk is making me hungry. I'm really craving some dumplings!"
+"But all this talk is making me hungry. I'm really craving some dumplings!"
 
 ![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
 
