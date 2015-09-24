@@ -126,7 +126,7 @@ When the chef grills dumplings on the pan, or packs up the cooked food, he's act
 [Video of ALU construction and demonstration](https://vimeo.com/136831074)
 
 
-![](https://farm6.staticflickr.com/5636/20666499401_13440b1738_z.jpg)
+![](https://dl.dropboxusercontent.com/u/53638/infoflow.jpg)
 
 ALU and Memory is only a part of what makes CPU. Many more machines are interconnected to make up a computer. Instruction register, memory address registers and other units make up the datapath.  The arrows connecting all of them are like highways connecting a city to another city. 
 
