@@ -28,57 +28,47 @@ The Von Neumann architecture has two major components, the *arithmetic logic uni
 
 ![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
 
-At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side.  
-
-
-
-I walk in to the shop super hungry, ready for some sizzling dumplings.
+At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side. I walk in to the shop super hungry, ready for some sizzling dumplings.
 
 ![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
 
-After looking at the menu, I decide to get pork and chive dumplings. I ask the man at the counter for 5 boiled dumplings and give him $2. He writes down my order on a piece of paper and puts it on the counter next to all the previous orders.  
- 
-![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
- 
-
-Turning around, he packs up a few vegetable dumplings and gives them to the customer ahead of me. ```[ cashier(s) = CPU | chefs = AU | momory = both chashier & chef's working memory ]``` He then puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
+After looking at the menu, I decide to get pork and chive. I ask the cashier at the counter for 5 boiled dumplings and give her $2. She writes down my order on a piece of paper and puts it on the counter next to all the previous orders.
 
 ![](https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg =300x)
 
+The cashier alternates between taking orders from the people in line behind me and packing up any orders coming out of the kitchen.
 
-While I wait impatiently for my food, he takes orders from more customers and adds a few more dumplings to the boiling water. 
+While I wait impatiently for my food, I peer into the back to see the chefs making all the dumplings from scratch. There's a person peeling onions, and someone cutting chives.
  
 ![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
  
-In the back kitchen, I see other people making the dumplings from scratch. There's a person peeling onions, and someone cutting chives.
- 
+Another person is folding the dumplings with the filling inside.
 
 ![](https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg =300x)
 
-Another person is folding the dumplings with the filling inside. All of them are busy doing their part to make our orders.
-
+All of them are busy doing their part to make our orders. I see a man putting dumplings into the pot. Pots and pans full of dumplings... I wonder if he's making my order already.
  
 ![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
 
-Pots and pans full of dumplings...
-
+The man at the counter yells my number, packs everything into a container, and hands it to me.
  
 ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
- 
-The man at the counter yells my number, packs everything into a container, and hands it to me. 
 
-Oh yeah! Dumpling time! 
+Oh yeah! Dumpling time!
 
 ![](https://farm1.staticflickr.com/578/20909824495_8d0b39aa90_b.jpg =300x)
-
 
 While I eat, I think about how the dumpling shop is a useful metaphor for understanding the central processing unit. 
 
 ![](https://farm6.staticflickr.com/5773/20825301555_0ecf439c0a_b.jpg =600x)
 
+```[ cashier(s) = CPU | chefs = AU | momory = both chashier & chef's working memory ]```
+
 At the CPU Dumpling Shop, whenever a customer orders food, the information about their order is considered a single instruction set or program.
 
 The program is passed from the customer to the cashier. The cashier (CU) takes the program and passes the correct instructions to the chefs (CPU). The chef knows the whole menu, as well as which cabinets the ingredients are stored. And by keeping the dumpling recipe in his long term memory, he doesn't need to think about every step and measurement continually, just recall specific information when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
+
+![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
 
 There's also a second kind of memory in the computer, like how the raw ingredients for the dumplings are stored further away in the kitchen, the chef can pick these up anytime he needs. Some data is stored on the hard disk, which is basically the same as memory except it contains information that's only used once in a while. The information in the computer memory is temporary and used constantly for short periods of time, and the information in storage is kept for a very long time, just like our memories.   
 
