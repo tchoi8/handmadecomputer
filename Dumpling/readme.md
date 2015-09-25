@@ -46,7 +46,7 @@ Another person is folding the dumplings with the filling inside.
 
 ![](https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg =300x)
 
-All of them are busy doing their part to make our orders. I see a man putting dumplings into the pot. Pots and pans full of dumplings... I wonder if he's making my order already.
+All of them are busy doing their part to make our orders. I see a man putting dumplings into the pot. I wonder if he's making my order already...
  
 ![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
 
