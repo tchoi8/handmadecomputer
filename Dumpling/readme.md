@@ -6,7 +6,7 @@
 
 
 ![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg =200x)
-an
+
 "Not really..." 
 
 Building the *1 Bit Computer* doesn't yet show us how your laptop or smartphone actually work. Instead, it demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be [*turing complete*](https://en.wikipedia.org/wiki/Turing_completeness) if it includes *all* of them, at which point it has the extraordinary ability to carry out *any* possible computation.
@@ -41,7 +41,7 @@ After looking at the menu, I decide to get pork and chive dumplings. I ask the m
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
  
 
-Turning around, he packs up a few vegetable dumplings and gives them to the customer ahead of me. He then puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
+Turning around, he packs up a few vegetable dumplings and gives them to the customer ahead of me. ```[ cashier(s) = CPU | chefs = AU | momory = both chashier & chef's working memory ]``` He then puts some pork and chive dumplings in the pot. I wonder if he's making my order already. 
 
 ![](https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg =300x)
 
@@ -76,9 +76,9 @@ While I eat, I think about how the dumpling shop is a useful metaphor for unders
 
 ![](https://farm6.staticflickr.com/5773/20825301555_0ecf439c0a_b.jpg =600x)
 
-At the CPU Dumpling Shop, whenever a customer orders food, the information about their order is considered a single instruction set.  
+At the CPU Dumpling Shop, whenever a customer orders food, the information about their order is considered a single instruction set or program.
 
-The chef knows the whole menu, as well as which cabinets the ingredients are stored. And by keeping the dumpling recipe in his long term memory, he doesn't need to think about every step and measurement continually, just recall specific information when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
+The program is passed from the customer to the cashier. The cashier (CU) takes the program and passes the correct instructions to the chefs (CPU). The chef knows the whole menu, as well as which cabinets the ingredients are stored. And by keeping the dumpling recipe in his long term memory, he doesn't need to think about every step and measurement continually, just recall specific information when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
 
 There's also a second kind of memory in the computer, like how the raw ingredients for the dumplings are stored further away in the kitchen, the chef can pick these up anytime he needs. Some data is stored on the hard disk, which is basically the same as memory except it contains information that's only used once in a while. The information in the computer memory is temporary and used constantly for short periods of time, and the information in storage is kept for a very long time, just like our memories.   
 
