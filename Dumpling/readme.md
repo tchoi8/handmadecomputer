@@ -6,7 +6,7 @@
 
 
 ![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg =200x)
-
+an
 "Not really..." 
 
 Building the *1 Bit Computer* doesn't yet show us how your laptop or smartphone actually work. Instead, it demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be [*turing complete*](https://en.wikipedia.org/wiki/Turing_completeness) if it includes *all* of them, at which point it has the extraordinary ability to carry out *any* possible computation.
@@ -50,7 +50,7 @@ While I wait impatiently for my food, he takes orders from more customers and ad
  
 ![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
  
-In the back kitchen, I see other people making the dumplings from scratch. There's a person peeling onions, another person cutting chives.
+In the back kitchen, I see other people making the dumplings from scratch. There's a person peeling onions, and someone cutting chives.
  
 
 ![](https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg =300x)
