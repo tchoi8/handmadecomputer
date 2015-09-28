@@ -32,11 +32,11 @@ At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dump
 
 ![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
 
-After looking at the menu, I decide to get pork and chive. I ask the cashier at the counter for 5 boiled dumplings and give her $2. She writes down my order on a piece of paper and puts it on the counter next to all the previous orders.
+After looking at the menu, I decide to get pork and chive. I ask the cashier at the counter for 5 boiled dumplings and give her $2. She writes down my order on a piece of paper, drops a few dumpings into the boiling pot, and puts the receipt on the counter next to all the previous orders.
 
 ![](https://farm1.staticflickr.com/710/20719118860_dc7ed0b3b2_b.jpg =300x)
 
-The cashier alternates between taking orders from the people in line behind me and packing up any orders coming out of the kitchen.
+The cashier alternates between taking orders from the people in line behind me and packing up orders as they're finished.
 
 While I wait impatiently for my food, I peer into the back to see the chefs making all the dumplings from scratch. There's a person peeling onions, and someone cutting chives.
  
@@ -46,11 +46,13 @@ Another person is folding the dumplings with the filling inside.
 
 ![](https://farm1.staticflickr.com/664/20914465181_c424e1e81a_b.jpg =300x)
 
-All of them are busy doing their part to make our orders. I see a man putting dumplings into the pot. I wonder if he's making my order already...
+As a man carries a tray of freshly wrapped dumplings from the kitchen to replace an empty sheet, the woman behind the counter informs him they're running low on vegetable dumplings.
+
+She then scoops a few milk-white packets out of the pot. I wonder if it might be my order...
  
 ![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
 
-The man at the counter yells my number, packs everything into a container, and hands it to me.
+A moment later she yells my number, packs everything into a container, and hands it to me.
  
 ![](https://farm6.staticflickr.com/5788/20720686570_9025eb3d88_b.jpg =300x)
 
@@ -62,11 +64,11 @@ While I eat, I think about how the dumpling shop is a useful metaphor for unders
 
 ![](https://farm6.staticflickr.com/5773/20825301555_0ecf439c0a_b.jpg =600x)
 
-```[ cashier(s) = CPU | chefs = AU | momory = both chashier & chef's working memory ]```
+```[ cashier(s) = CPU | chefs = AU | program = cashier's instructions to the kitchen | momory = both chashier & chef's working memory ]```
 
-At the CPU Dumpling Shop, whenever a customer orders food, the information about their order is considered a single instruction set or program.
+At the CPU Dumpling Shop, whenever a customer orders food their order is considered a single instruction set.
 
-The program is passed from the customer to the cashier. The cashier (CU) takes the program and passes the correct instructions to the chefs (CPU). The chef knows the whole menu, as well as which cabinets the ingredients are stored. And by keeping the dumpling recipe in his long term memory, he doesn't need to think about every step and measurement continually, just recall specific information when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
+The customer communicates this input the cashier (CU), who then passes each instruction to the kitchen (ALU). chefs in the kitchen then, as well as which cabinets the ingredients are stored. And by keeping the dumpling recipe in his long term memory, he doesn't need to think about every step and measurement continually, just recall specific information when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
 
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
 
