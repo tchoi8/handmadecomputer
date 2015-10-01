@@ -48,7 +48,7 @@ Another person is folding the dumplings with the filling inside.
 
 As a man carries a tray of freshly wrapped dumplings from the kitchen to replace an empty sheet, the woman behind the counter informs him they're running low on vegetable dumplings.
 
-She then scoops a few milk-white packets out of the pot. I wonder if it might be my order...
+She then scoops a few milk-white packets out of the pot. I wonder if that might be my order...
  
 ![](https://farm1.staticflickr.com/691/20286546343_58ed41741b_b.jpg =300x)
 
