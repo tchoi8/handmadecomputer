@@ -66,9 +66,11 @@ While I eat, I think about how the dumpling shop is a useful metaphor for unders
 
 ```[ cashier(s) = CPU | chefs = AU | program = cashier's instructions to the kitchen | momory = both chashier & chef's working memory ]```
 
-At the CPU Dumpling Shop, whenever a customer orders food their order is considered a single instruction set.
+At the CPU Dumpling Shop, whenever a customer orders food their order is considered a single instruction set. The customer communicates this input the cashier (CU), who organizes the instructions and passes orders to the kitchen (ALU) about what dumplings to make as needed.
 
-The customer communicates this input the cashier (CU), who then passes each instruction to the kitchen (ALU). chefs in the kitchen then, as well as which cabinets the ingredients are stored. And by keeping the dumpling recipe in his long term memory, he doesn't need to think about every step and measurement continually, just recall specific information when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
+While the employees all know how to perform a variety of tasks, the chef knows recipes for several types of dumplings and the cashier knows where to find extra takeout containers, they don't need to be continually thinking about every step of every task.
+
+--they are able to  as which cabinets the ingredients are stored. And by keeping the dumpling recipe in his long term memory, he doesn't need to think about every step and measurement continually, just recall specific information when needed. He also reads all the customers orders and keeps them in his working memory, he's likely to forget them in few minutes. The process by which the chef remembers the important bits of the dumpling orders, computers store instructions and working information in their memory.   
 
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
 
