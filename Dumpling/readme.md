@@ -72,35 +72,27 @@ While the employees all know how to perform a variety of tasks, the chef knows r
 
 ####Finite-state machine
 
-This device is named "Finite-state machine"[2] because the entirety of its possible operation is limited to a finite number of configurations or memory states. I built it to better understand all the CPU's important components.
+This device is named "Finite-state machine"[2] because the entirety of its possible operation is limited to a finite number of configurations or memory states. I built it to better understand several of the CPU's important components.
 
 ![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
 
-#####Input & Output
-
 The four buttons in the front are the inputs which you can use to enter four bits of information. Pressing a button sets that input to 1 or *high* and the corresponding LED lights up immediately. The other four LEDs on the back are outputs, where machine-state information stored in the RAM (Random Access Memory) is displayed.  
 
-#####RAM 
-The small red switch on the left enables you to select between two modes, reading mode to store the 4-bit input state to memory, and output mode to read the stored memory state. We'll go into the nature of RAM a bit more in the next chapter [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity).
+The small red switch on the left enables you to select between two modes, reading mode to store a 4-bit input state to memory, and output mode to read the stored memory state. We'll go into the nature of RAM a bit more in the next chapter [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity).
 
-#####Counter
-The small yellow switch on the right controls the counter which counts from zero to nine, ten states where four bits of information can be recorded. When the switch is toggled, the number decreases from nine to zero. 
- 
-The blue button next to the Counter control is a load. If this switch is enabled, you can load the information stored in the RAM. This is possible by switching on and off the load switches behind the chip. The binary information from the switches gives you a random access to the information the R.A.M. When it's not on the load mode, the RAM can cycle through the ten steps. 
+The counter counts up from from zero to nine: ten sequential memory blocks for recording a 4-bit state. Once recorded in reading mode, the binary information stored in memory can be accessed arbitrarily (randomly) via its address on the RAM chip.
 
-The Finite-state machine demonstrates how the instructions and information are stored in memory. However it doesn't explain how the computer calculates information, or to continue with our dumpling metaphor, how the chef actually cooks the dumplings. The mathematical and logical operations are made possible with the ALU, which stands for Arithmetic Logic Unit. 
+The finite-state machine demonstrates how information is stored in memory but we still need one thing to complete the CPU, the computation. To continue with our dumpling metaphor, we know how to make dumplings but we don't have a kitchen. The logic function is made possible with the ALU or Arithmetic Logic Unit. 
 
 ![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
  
-The ALU is responsible for all mathematics and logical operations, like comparing two bits of information, multiplying, or subtracting. It performs all artithmetic calculations and logical decisions. Since computers only think and speak in binary numbers, ALU also only deals with the truth or falsity of operations.  
+The ALU is responsible for all arithmetic operations such as addition and multiplication. However, since computers only think and speak with binary numbers, the ALU builds these arithmatic functions by computing the truth or falsity a particular state, comparing bits of information according to a particular boolean logic as we practiced in the previous section.
 
 ![](https://farm6.staticflickr.com/5626/20313162303_a0112be8ff_b.jpg =600x)
 
 [Image source](https://commons.wikimedia.org/wiki/File:74181aluschematic.png) 
 
- 
-
-What's really fascinating about the ALU and the computers in general is that they are made for binary logic gates. ALU, which performs complex operations is still made of basic logic gates, as you as see on the diagram above. It looks like a busy street in the city. 
+This is the fascinating thing about computers: despite the complex ways we can use them, everything they do still reduces to simple logic gates. As you as see above, building more sophisticated logic starts to look like a busy city street. 
 
 ![](https://farm6.staticflickr.com/5696/20364771063_4c0aa7f838_b.jpg =600x)
 
