@@ -66,34 +66,34 @@ While I eat, I think about how the dumpling shop is a useful metaphor for unders
 
 At the CPU Dumpling Shop, whenever a customer orders food their order is considered a single instruction set. The customer communicates this input the cashier (CU), who organizes the instructions and passes orders to the kitchen (ALU) about what dumplings to make as needed.
 
-While the employees all know how to perform a variety of tasks, the chef knows recipes for several types of dumplings and the cashier knows where to find extra takeout containers, they don't need to continually think about every step of each task. Instead, they concentrate on single procedure, or program, recalling the information required for new tasks only when they receive a new instruction. They remember where ingredients are stored and how to make different recipes by storing them in their long term memory whereas a single customer's order is only held in their working memory for a few minutes and then forgetten.
+While the employees all know how to perform a variety of tasks, the chef knows recipes for several types of dumplings and the cashier knows where to find extra takeout containers, they don't need to continually think about every step of each task. Instead, they concentrate on single procedure, or program, recalling the information required for other tasks only when they receive a new instruction. They remember where ingredients are stored and how to make different recipes by storing them in their long term memory whereas a single customer's order is only held in their working memory for a few minutes and then forgetten.
 
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
 
+####Finite-state machine
+
 ![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
 
-This device is named "Finite State machine"[2] because it has a limited amount of memory for holding information the user inputs. I designed this to better understand the important components and concepts that make up the CPU. 
+This device is named "Finite-state machine"[2] because the entirety of its possible operation is limited to a finite number of configurations or memory states. I built it to better understand the CPU's important components.
 
-####Input & Output
+#####Input & Output
 
 The four buttons in the front are the inputs which you can use to enter four bits of information. If the button is pressed, the information is 1 or High and an LED right in front of the button lights up immediately.
 
-
 The four LEDs on the back are the outputs. This is where information stored in the the RAM (Random Access Memory) is made visible. It's the visual output for the finite state machine.  
 
-####RAM 
+#####RAM 
 The RAM is a [74189 chip](http://pdf.datasheetcatalog.com/datasheet/fairchild/74F189.pdf), 64-Bit Random Access Memory. More on the nature of RAM on the next chapter on the [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity). 
 The small red switch on the left enables you to select between reading or writing the data from the input to the RAM. When the switch is in writing mode, status of the switches (either on and off) is recorded on the RAM as four bits of information. 
 
  
   
-####Counter
+#####Counter
 The small yellow switch on the right controls the counter which counts from zero to nine, ten states where four bits of information can be recorded. When the switch is toggled, the number decreases from nine to zero. 
  
 The blue button next to the Counter control is a load. If this switch is enabled, you can load the information stored in the RAM. This is possible by switching on and off the load switches behind the chip. The binary information from the switches gives you a random access to the information the R.A.M. When it's not on the load mode, the RAM can cycle through the ten steps. 
 
- 
-The Finite State Machine demonstrates how the instructions and information are stored in memory. However it doesn't explain how the computer calculates information, or to continue with our dumpling metaphor, how the chef actually cooks the dumplings. The mathematical and logical operations are made possible with the ALU, which stands for Arithmetic Logic Unit. 
+The Finite-state machine demonstrates how the instructions and information are stored in memory. However it doesn't explain how the computer calculates information, or to continue with our dumpling metaphor, how the chef actually cooks the dumplings. The mathematical and logical operations are made possible with the ALU, which stands for Arithmetic Logic Unit. 
 
 ![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
  
