@@ -84,6 +84,10 @@ The counter counts up from from zero to nine: ten sequential memory blocks for r
 
 The finite-state machine demonstrates how information is stored in memory but we still need one thing to complete the CPU, the computation. To continue with our dumpling metaphor, we know how to make dumplings but we don't have a kitchen. The logic function is made possible with the ALU or Arithmetic Logic Unit. 
  
+ ![](https://farm6.staticflickr.com/5696/20364771063_4c0aa7f838_b.jpg =600x)
+ 
+ [Video of ALU construction and demonstration](https://vimeo.com/136831074)
+ 
 The ALU is responsible for all arithmetic operations such as addition and multiplication. However, since computers only think and speak with binary numbers, the ALU builds these arithmatic functions by computing the truth or falsity a particular state, comparing bits of information according to a particular boolean logic as we practiced in the previous section. This is the fascinating thing about computers: despite the many sophisticated ways we use them, the entirety of their function still reduces to the interplay of simple gate-logic.
 
 ![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
@@ -94,13 +98,9 @@ Complex logic circuits look a lot like busy city streets.
 
 [Image source](https://commons.wikimedia.org/wiki/File:74181aluschematic.png)
 
-![](https://farm6.staticflickr.com/5696/20364771063_4c0aa7f838_b.jpg =600x)
-
-[Video of ALU construction and demonstration](https://vimeo.com/136831074)
+The modern computer includes many other interconnected machines: instruction registers, memory address registers, cache systems and processes scheduler units, but the CPU described above captures the general the system logic. The datapaths between these machines are like highways connecting one city to another.
 
 ![](https://dl.dropboxusercontent.com/u/53638/infoflow.jpg)
-
-The modern computer includes many other interconnected machines: instruction registers, memory address registers, cache systems and processes scheduler units, but the CPU described above captures the general the system logic. The datapaths between these machines are like highways connecting one city to another.
 
 ###Extra 
 
