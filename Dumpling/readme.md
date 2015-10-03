@@ -78,16 +78,13 @@ This device is named "Finite-state machine"[2] because the entirety of its possi
 
 #####Input & Output
 
-The four buttons in the front are the inputs which you can use to enter four bits of information. If the button is pressed, the information is 1 or High and an LED right in front of the button lights up immediately.
+The four buttons in the front are the inputs which you can use to enter four bits of information. If the button is pressed, the information is 1 or *high* and an LED right in front of the button lights up immediately.
 
-The four LEDs on the back are the outputs. This is where information stored in the the RAM (Random Access Memory) is made visible. It's the visual output for the finite state machine.  
+The four LEDs on the back are the outputs. This is where information stored in the RAM (Random Access Memory) is made visible. It's the visual output for the finite-state machine.  
 
 #####RAM 
-The RAM is a [74189 chip](http://pdf.datasheetcatalog.com/datasheet/fairchild/74F189.pdf), 64-Bit Random Access Memory. More on the nature of RAM on the next chapter on the [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity). 
-The small red switch on the left enables you to select between reading or writing the data from the input to the RAM. When the switch is in writing mode, status of the switches (either on and off) is recorded on the RAM as four bits of information. 
+The RAM I used is a [74189 chip](http://pdf.datasheetcatalog.com/datasheet/fairchild/74F189.pdf). The small red switch on the left enables you to select between reading or writing the data from the input to the RAM. When the switch is in writing mode, status of the switches (either on or off) is recorded on the RAM as four bits of information. We'll go into the nature of RAM a bit more in the next chapter [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity).
 
- 
-  
 #####Counter
 The small yellow switch on the right controls the counter which counts from zero to nine, ten states where four bits of information can be recorded. When the switch is toggled, the number decreases from nine to zero. 
  
