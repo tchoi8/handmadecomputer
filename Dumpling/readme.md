@@ -83,16 +83,16 @@ The small red switch on the left enables you to select between two modes, readin
 The counter counts up from from zero to nine: ten sequential memory blocks for recording a 4-bit state. Once recorded in reading mode, the binary information stored in memory can be accessed arbitrarily (randomly) via its address on the RAM chip.
 
 The finite-state machine demonstrates how information is stored in memory but we still need one thing to complete the CPU, the computation. To continue with our dumpling metaphor, we know how to make dumplings but we don't have a kitchen. The logic function is made possible with the ALU or Arithmetic Logic Unit. 
+ 
+The ALU is responsible for all arithmetic operations such as addition and multiplication. However, since computers only think and speak with binary numbers, the ALU builds these arithmatic functions by computing the truth or falsity a particular state, comparing bits of information according to a particular boolean logic as we practiced in the previous section. This is the fascinating thing about computers: despite the many sophisticated ways we use them, everything their entire function still reduces to the interplay of simple gate logic.
 
 ![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
- 
-The ALU is responsible for all arithmetic operations such as addition and multiplication. However, since computers only think and speak with binary numbers, the ALU builds these arithmatic functions by computing the truth or falsity a particular state, comparing bits of information according to a particular boolean logic as we practiced in the previous section.
+
+Building more these complex logic circuits starts to look like a busy city street. 
 
 ![](https://farm6.staticflickr.com/5626/20313162303_a0112be8ff_b.jpg =600x)
 
-[Image source](https://commons.wikimedia.org/wiki/File:74181aluschematic.png) 
-
-This is the fascinating thing about computers: despite the complex ways we can use them, everything they do still reduces to simple logic gates. As you as see above, building more sophisticated logic starts to look like a busy city street. 
+[Image source](https://commons.wikimedia.org/wiki/File:74181aluschematic.png)
 
 ![](https://farm6.staticflickr.com/5696/20364771063_4c0aa7f838_b.jpg =600x)
 
