@@ -84,11 +84,11 @@ The counter counts up from from zero to nine: ten sequential memory blocks for r
 
 The finite-state machine demonstrates how information is stored in memory but we still need one thing to complete the CPU, the computation. To continue with our dumpling metaphor, we know how to make dumplings but we don't have a kitchen. The logic function is made possible with the ALU or Arithmetic Logic Unit. 
  
-The ALU is responsible for all arithmetic operations such as addition and multiplication. However, since computers only think and speak with binary numbers, the ALU builds these arithmatic functions by computing the truth or falsity a particular state, comparing bits of information according to a particular boolean logic as we practiced in the previous section. This is the fascinating thing about computers: despite the many sophisticated ways we use them, everything their entire function still reduces to the interplay of simple gate logic.
+The ALU is responsible for all arithmetic operations such as addition and multiplication. However, since computers only think and speak with binary numbers, the ALU builds these arithmatic functions by computing the truth or falsity a particular state, comparing bits of information according to a particular boolean logic as we practiced in the previous section. This is the fascinating thing about computers: despite the many sophisticated ways we use them, the entirety of their function still reduces to the interplay of simple gate-logic.
 
 ![](https://farm6.staticflickr.com/5795/20876342206_4c0a7dcde4_b.jpg =600x)
 
-Building more these complex logic circuits starts to look like a busy city street. 
+Complex logic circuits look a lot like busy city streets. 
 
 ![](https://farm6.staticflickr.com/5626/20313162303_a0112be8ff_b.jpg =600x)
 
@@ -96,16 +96,11 @@ Building more these complex logic circuits starts to look like a busy city stree
 
 ![](https://farm6.staticflickr.com/5696/20364771063_4c0aa7f838_b.jpg =600x)
 
-When the chef grills dumplings on the pan, or packs up the cooked food, he's acting like the control unit. The control unit is in charge of coordination the operation of all the other components. It is the in charge of signalling the hardware devieces to to execute instructions. The ALU and the control unit together make up the CPU. 
-
 [Video of ALU construction and demonstration](https://vimeo.com/136831074)
-
 
 ![](https://dl.dropboxusercontent.com/u/53638/infoflow.jpg)
 
-ALU and Memory is only a part of what makes CPU. Many more machines are interconnected to make up a computer. Instruction register, memory address registers and other units make up the datapath.  The arrows connecting all of them are like highways connecting a city to another city. 
-
-In the next chapter, we will look into the Random Access Memory more closely to see the parallel between computer architecture and urban space. 
+The modern computer includes many other interconnected machines: instruction registers, memory address registers, cache systems and processes scheduler units, but the CPU described above captures the general the system logic. The datapaths between these machines are like highways connecting one city to another.
 
 ###Extra 
 
