@@ -72,9 +72,9 @@ While the employees all know how to perform a variety of tasks, the chef knows r
 
 ####Finite-state machine
 
-![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
-
 This device is named "Finite-state machine"[2] because the entirety of its possible operation is limited to a finite number of configurations or memory states. I built it to better understand the CPU's important components.
+
+![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
 
 #####Input & Output
 
