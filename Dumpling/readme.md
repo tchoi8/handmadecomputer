@@ -72,16 +72,16 @@ While the employees all know how to perform a variety of tasks, the chef knows r
 
 ####Finite-state machine
 
-This device is named "Finite-state machine"[2] because the entirety of its possible operation is limited to a finite number of configurations or memory states. I built it to better understand the CPU's important components.
+This device is named "Finite-state machine"[2] because the entirety of its possible operation is limited to a finite number of configurations or memory states. I built it to better understand all the CPU's important components.
 
 ![](https://farm6.staticflickr.com/5715/20893802212_7ed4646651_h.jpg =600x)
 
 #####Input & Output
 
-The four buttons in the front are the inputs which you can use to enter four bits of information. If the button is pressed, the information is 1 or *high* and an LED right in front of the button lights up immediately. The other four LEDs on the back are outputs, where machine-state information stored in the RAM (Random Access Memory) is displayed.  
+The four buttons in the front are the inputs which you can use to enter four bits of information. Pressing a button sets that input to 1 or *high* and the corresponding LED lights up immediately. The other four LEDs on the back are outputs, where machine-state information stored in the RAM (Random Access Memory) is displayed.  
 
 #####RAM 
-The RAM I used is a [74189 chip](http://pdf.datasheetcatalog.com/datasheet/fairchild/74F189.pdf). The small red switch on the left enables you to select between reading or writing the data from the input to the RAM. When the switch is in writing mode, status of the switches (either on or off) is recorded on the RAM as four bits of information. We'll go into the nature of RAM a bit more in the next chapter [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity).
+The small red switch on the left enables you to select between two modes, reading mode to store the 4-bit input state to memory, and output mode to read the stored memory state. We'll go into the nature of RAM a bit more in the next chapter [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity).
 
 #####Counter
 The small yellow switch on the right controls the counter which counts from zero to nine, ten states where four bits of information can be recorded. When the switch is toggled, the number decreases from nine to zero. 
