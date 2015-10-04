@@ -1,16 +1,13 @@
 [⇐ DUMPLING SHOP](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
 
- 
 
-Today, when we purchase a new computer one of the specifications we often hear about is the amount of RAM inside. We usually understand more RAM as allowing the computer to do more things at once. But it's different from hard disk space, which is where all the software and data lives.
-
-What is RAM exactly then? RAM stands for random access memory. To help us understand how it works we can think of a parking lot with 8 parking spots. 
+What is RAM exactly? RAM stands for Random Access Memory. To help us understand how RAM works let's imagine a parking lot with 8 spaces. 
 
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)
  
-The parking lot has a single 1-lane gate that acts as both entrance and exit for the cars. The gate(demulitplexer - demux / multiplexer - mux) is controlled by a binray clock that's either closed, in the Zero state, or open in the One state. There are eight parking spaces(flip-flops / memory) because our RAM can store up to 8-bits of information. 
+The parking lot has a single gated lane, acting both as entrance and exit for the cars. The gate can either be open (*one* state) or closed (*zero* state) to let cars pass. [clock?] There are eight parking spaces (flip-flops / memory) because our RAM can store up to 8-bits of information. 
 
-The parking lot can accept news cars(data). However cars can't park in spaces which have already been filled To prevent cars from attempting to park in a  space that has been filled, a big display tells incoming cars which spaces are in use.  ```[Not sure of reserving the spot is necessary or , not sure if I understand what it means. deleting that part for now. ]```
+The parking lot can accept news cars(data). However cars can't park in spaces which have already been filled To prevent cars from attempting to park in a  space that has been filled, a big display tells incoming cars which spaces are in use.
 
 Once the cars need to leave they can exit the parking lot, erasing the data that's been stored in their parking space. This is achieved by opening the gate and letting the car dive through, thus setting the state of the parking space and the display to zero. Now that parking space is free again to be filled.
 
