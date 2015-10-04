@@ -1,17 +1,15 @@
 [⇐ DUMPLING SHOP](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
 
 
-What is RAM exactly? RAM stands for Random Access Memory. To help us understand how RAM works let's imagine a parking lot with 8 spaces. 
+What is RAM exactly? RAM stands for Random Access Memory. To help us understand how RAM works let's imagine a parking lot with 8 spaces representing 8-bits of information.
 
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)
  
-Our parking lot has a single gated lane, acting both as entrance and exit for the cars. The gate can either be closed or open to let a car pass. Ensuring only one car travels through at a time, we have a timing system consisting of a clock – same as we used in the finite-state machine – and a queue (called a multiplexer in electronics) on either side of the gate. The eight parking spaces represent 8-bits of information our RAM-car park can hold.
+Our lot has a single gated lane, acting both as entrance and exit for the cars. The gate can either be closed or open to let a car pass. Ensuring only one car travels through at a time, we have a timing system consisting of a clock – same as we used in the finite-state machine – and a queue for cars coming and going.
 
-When accepting a new car, we need to ensure it don't park in a space that's currently occupied. So to prevent cars from attempting to park in a  space that's already filled, a big display tells incoming cars which spaces are in use.
+When accepting a new car we also need to tell them where to park, big display tells incoming cars the next available space.
 
-Once the cars need to leave they can exit the parking lot, erasing the data that's been stored in their parking space. This is achieved by opening the gate and letting the car dive through, thus setting the state of the parking space and the display to zero. Now that parking space is free again to be filled.
-
-On a circuit board, we can construct a complete a 8-bit random access memory by combining the clock, mux, demux and flipflop. There, data can be written and read asynchronously, which means the data can be kept independent of the clock cycle. ```[Yeah, I gave a try on clarifying asynch, but maybe better to get rid of it all together?]```
+On a circuit board, we can construct a complete a 8-bit random access memory by combining the clock, mux, demux and flip-flop. There, data can be written and read asynchronously, which means the data can be kept independent of the clock cycle.
 
 ![](https://farm1.staticflickr.com/655/20889869441_19e63ce7cb_o.jpg)
 
