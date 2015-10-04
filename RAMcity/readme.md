@@ -5,9 +5,9 @@ What is RAM exactly? RAM stands for Random Access Memory. To help us understand 
 
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)
  
-The parking lot has a single gated lane, acting both as entrance and exit for the cars. The gate can either be open (*one* state) or closed (*zero* state) to let cars pass. [clock?] There are eight parking spaces (flip-flops / memory) because our RAM can store up to 8-bits of information. 
+Our parking lot has a single gated lane, acting both as entrance and exit for the cars. The gate can either be closed or open to let a car pass. Ensuring only one car travels through at a time, we have a timing system consisting of a clock – same as we used in the finite-state machine – and a queue (called a multiplexer in electronics) on either side of the gate. The eight parking spaces represent 8-bits of information our RAM-car park can hold.
 
-The parking lot can accept news cars(data). However cars can't park in spaces which have already been filled To prevent cars from attempting to park in a  space that has been filled, a big display tells incoming cars which spaces are in use.
+When accepting a new car, we need to ensure it don't park in a space that's currently occupied. So to prevent cars from attempting to park in a  space that's already filled, a big display tells incoming cars which spaces are in use.
 
 Once the cars need to leave they can exit the parking lot, erasing the data that's been stored in their parking space. This is achieved by opening the gate and letting the car dive through, thus setting the state of the parking space and the display to zero. Now that parking space is free again to be filled.
 
