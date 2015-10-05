@@ -11,7 +11,7 @@ The RAM we can construct on a circuit board is quite similar, here I made 8-bit 
 
 ![](https://farm1.staticflickr.com/655/20889869441_19e63ce7cb_o.jpg)
 
-The parking spaces are made of D-type flip-flops which is a type of digital memory like the SR latch we made earlier. This component, however, has an additional input for the clock signal. This is a latch that only changes the flip-flop when the clock input sees the rising edge. Therefore, if the clock signal is low, or zero, the flip-flop will not accept the new data. This delay feature also enables the flip-flop to hold data as long as the clock signal remains high. So we can store it in memory and call it up as long as the circuit is connected to the power.   ```[yep. gave a try in minimizing the tech]``` 
+The parking spaces are made of D-type flip-flops which is a type of digital memory like the SR latch we made earlier. This component, however, has an additional input for the clock signal. This is a latch that only changes the flip-flop when the clock input sees the rising edge. Therefore, if the clock signal is low, or zero, the flip-flop will not accept the new data. This delay feature also enables the flip-flop to hold data as long as the clock signal remains high. So we can store it in memory and call it up as long as the circuit is connected to the power. 
  
 ![](https://farm1.staticflickr.com/614/20695978869_4907925e5a_o.jpg) 
  
