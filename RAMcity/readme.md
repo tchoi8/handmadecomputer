@@ -5,11 +5,9 @@ What is RAM exactly? RAM stands for Random Access Memory. To help us understand 
 
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)
  
-Our lot has a single gated lane, acting both as entrance and exit for the cars. The gate can either be closed or open to let a car pass. Ensuring only one car travels through at a time, we have a timing system consisting of a clock – same as we used in the finite-state machine – and a queue for cars coming and going.
+Our lot has a single gated lane for cars, acting both as entrance and exit. The gate can either be closed or open to let a car pass. To ensure only one car travels through at a time, we have a timing system consisting of a clock – same as we used in the finite-state machine – and a queue for cars coming and going. When accepting a new car we want to need to tell them where to park, which we do with a big numbered display. If we want to read the saved data we can simply look at the state of the parking spaces. 
 
-When accepting a new car we also need to tell them where to park, big display tells incoming cars the next available space.
-
-On a circuit board, we can construct a complete a 8-bit random access memory by combining the clock, mux, demux and flip-flop. There, data can be written and read asynchronously, which means the data can be kept independent of the clock cycle.
+The RAM we can construct on a circuit board is quite similar, here I made 8-bit random access memory by combining the clock, mux, demux and flip-flop. There, data can be written and read asynchronously, which means the data can be kept independent of the clock cycle.
 
 ![](https://farm1.staticflickr.com/655/20889869441_19e63ce7cb_o.jpg)
 
