@@ -1,4 +1,4 @@
-[↻ RAM CITY](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
+[↻ RAM CITY (final section)](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
 
 ![](https://farm6.staticflickr.com/5836/20581702098_70441b0203_b.jpg =600x)
 
