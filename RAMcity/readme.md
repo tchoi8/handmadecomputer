@@ -86,6 +86,8 @@ Hand making circuits is an act of love, love for the ideas that the computer has
 
 ![](https://farm1.staticflickr.com/777/21016448716_dda5517174_b.jpg =600x)
 
+Overlooking the importance of our relationship to the computers and choosing consumption over construction is the path of least resistance. Recent events highlight the effect of our ambivalence, drone technology which often takes away human agency in warfare, government and private agencies infringing on our privacy in the name of security, corporate information technology monopolies jeopardize political and ethical neutrality. When our lives are so profoundly affected by algorithms and programs, what are acts of resistance or dissent that preserve our morality, our humanity?
+
 Nam June Paik wrote “… Karma is samsara. Relationship is metempsychosis. We are in open circuits" [1] I wonder what he meant by "We are in open circuits"? Did he mean a circuit of information? I think we try to close these circuits by striving to master the technologies of our time. But maybe we can also become part of the circuit. Imprint ourselves into the spaces we occupy and dispurse our memories across the people we touch. We are open circuits, we are open city.
 
 ![](https://farm1.staticflickr.com/744/21033033342_99373b5f53_b.jpg =600x)
