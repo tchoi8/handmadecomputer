@@ -1,25 +1,25 @@
 [⇐ INTERFACE](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
 
-```[need to give little intro to transistor as what allows these logic circuits to function, make the link between the transistor and the gate.]```
-
-![](https://dl.dropboxusercontent.com/u/53638/zeroone.png)
-
-A *1 Bit Computer* has the fundamental abilities of the traditional computer. It can perfom artithmetic, add two single digit numbers and return a two digit output. It has a clock that creates a square wave oscillation that turns an LED on and off at varying speed. It also has memory, a latch that can store 1-bit of information, zero or one. 
-
- 
-![](https://farm6.staticflickr.com/5744/20578210488_c5016e6191_b.jpg =600x)
-
-[Video](https://vimeo.com/136769465)
- 
-```This version of *1 Bit Computer* is made of NAND logic gates.```
-
-![](https://farm6.staticflickr.com/5667/20256616333_9961ff1b9b_b.jpg =600x)
-
-NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above, depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
-
 Before we get into the details of *1 Bit Computer*, let's return to the idea of zero and one, binary numbers, and their boolean logic.
 
- ![](https://dl.dropboxusercontent.com/u/53638/true-false.jpg)
+![](https://c1.staticflickr.com/1/653/20500115939_a262191419_b.jpg =600x)
+
+Now we are going to run down in the levels of abstraction to the realm of logic. 
+ 
+ 
+![](https://c2.staticflickr.com/6/5688/21838594370_47bf6e3a89_b.jpg =600x)
+   
+ 
+
+NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above, depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
+ ![](https://c1.staticflickr.com/1/613/21839648508_2346bd533a_o.jpg =600x)
+
+
+It's exhauting to go through these logic stuff, but believe me, it's like climbing a mountain. You will get a great view in the end!  
+   
+ ![](https://c2.staticflickr.com/6/5750/20038875443_f0a74f3c9d_b.jpg =600x)
+   
+ 
 
 
 By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
@@ -30,18 +30,43 @@ By combining NAND gates in various arrangements we are able to make every other 
 ![](https://farm6.staticflickr.com/5717/20990175911_2ceb98c8c6_b.jpg =400x)
 
 With XOR and AND gates combined, we can make an adder. Adders add numbers. So in the world of binary numbers, where every number is made of zeros and ones, the output of the addition 1 + 1 would be 10, not ten but "one, zero" or two. 
+ 
+```0+0=0 Zero plus Zero is Zero.``` 
 
-0+0=0
-0+1=1
-1+0=1
-1+1=10 (2 in decimal notation)
+```0+1=1 Zero plus One is One.``` 
+
+```1+0=1 One plus Zero is One.``` 
+
+```1+1=10 One plus One is Two.```
+
+However, this is read 'One Zero' in Binary numbers, not Ten as in Decimal numbers. It's value is the same as Two in Decimal numbers. 
 
 ![](https://farm6.staticflickr.com/5826/21055702651_1ff54a87e9_b.jpg =600X)
 
 
-In the last case where we add 1+1, the sum (10) requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*.
+
+Until this point, our *1 Bit Computer* has been purely symbolic, it existed in ideas. We can begin to make it with electronic circuits. 
+
+![](https://farm9.staticflickr.com/8681/16175163746_4353f95d75_b.jpg =600x)
+
+This is a switch, which we use as an Input for our circuit. Switch allows us to change the connection between two points. This switch controls the connection between the middle pin and two pins by it's side. It's always connected to one of them. It's just like how our Input is either always Zero or One. 
+
+![](https://farm9.staticflickr.com/8651/16014920329_84c17e7326_b.jpg =600x)
+
+This is a LED, Light Emitting Diode. It lights up brightly when an electrical signal goes through two metal rods. 
+
+![](https://c1.staticflickr.com/1/671/20574668810_9c957dfff4_o.jpg)
+
+``` Transistor here. probably not Mr.Tr. make it gender neurtral.]```
+
+![](https://c1.staticflickr.com/1/579/21841043889_33c3084915_b.jpg =600x)
+
+```Probably need to start explaining about Integrated Circuits here```
+
+In the last case where we add 1+1, the sum (10) requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*. It's called *half* adder because it can only add the first digits. A *full adder* can add higher digits with numbers carrying on from the previous digits. ```this part is going to be easier to understand through illustration```
 
 ![](https://farm1.staticflickr.com/774/20812984222_590f7b06e4_b.jpg =600x)
+ 
 
 ```You can click on the switches to see the half adder working, it can add two bits together yielding a two digit binary number.```
 
@@ -62,6 +87,19 @@ The last component, the binary clock, simply switches between zero and one, visi
 ```[You can turn the knob to change the frequency.]``` 
 
 ![](https://farm1.staticflickr.com/620/20773146321_b0c6b10767_o.jpg =600x)
+
+
+
+
+A *1 Bit Computer* has the fundamental abilities of the traditional computer. It can perfom artithmetic, add two single digit numbers and return a two digit output. It has a clock that creates a square wave oscillation that turns an LED on and off at varying speed. It also has memory, a latch that can store 1-bit of information, zero or one. 
+
+ 
+![](https://farm6.staticflickr.com/5744/20578210488_c5016e6191_b.jpg =600x)
+
+[Video](https://vimeo.com/136769465)
+ 
+```This version of *1 Bit Computer* is made of NAND logic gates.```
+
 
 This 1 bit computer uses two TTL NAND logic chips, which are integrated circuits designed to perform NAND operations. The same logic could be implemented with transistors, vacuum tubes, or few lines of code in most programming languages.
 
