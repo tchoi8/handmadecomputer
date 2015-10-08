@@ -31,7 +31,7 @@ The Minimalists painters were interested in more than just the formal qualities 
  
  ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
 
-This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the visual patterns of the interior circuitry which, designed for engineering purposes, are also quite geometrically appealing. They remind me of Frank Stella, Sol Lewitt, and the work of other minimalist artists. 
+This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed for electroconductive performance, they can also be quite geometrically appealing. They remind me of Frank Stella, Sol Lewitt, and the work of other minimalist artists. 
 
 
 ![](https://farm1.staticflickr.com/703/20884034731_b40b344d58_o.jpg =400x)
@@ -45,7 +45,7 @@ int
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
 
  
-This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. Halley's work not only reminds me of microchips, but also computer design patterns such as the Von Neumann architecture, which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
+This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. When I look at Halley's work I'm not only reminded of microchip designs but many other computer design patterns. The von Neumann architecture for instance, which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
 
   
   ![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
