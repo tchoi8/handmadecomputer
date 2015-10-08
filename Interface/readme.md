@@ -10,7 +10,7 @@ We touch them, carry them, and sleep next to them.
 
 
 
-Our lives are stored in bits, our messages turned to network packets, our living spaces are pixels.
+Our lives are stored in bits, messages turned to network packets, living spaces arranged in human-size pixels.
 
 ![](https://dl.dropboxusercontent.com/u/53638/laptop.jpg)
 
