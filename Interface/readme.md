@@ -23,7 +23,7 @@ Fortunately, computers perform all the complex tasks we're familiar with through
 
 
 
-The Minimalists painters were interested in more than just the formal qualities of the painting, such as color and shape. They were also interested in the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
+The Minimalists painters were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
 
 
 
@@ -39,7 +39,7 @@ This is a microscopic image of a microchip (resistor-transistor flip-flop logic 
 Josephson Junctions Chip from IBM.
 
 
-
+int
 
 
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
