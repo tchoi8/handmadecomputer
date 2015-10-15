@@ -1,36 +1,28 @@
 [⇐ ZERO & ONE / BINARY](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
 
-![](https://farm1.staticflickr.com/586/20286266173_8bfb8c0128_b.jpg =200x)
-
-"Well, that kind of makes sense, right?" 
-
-
-![](https://farm1.staticflickr.com/696/20719423348_6d895e5e3f_b.jpg =200x)
-
-"Not really..." 
+![](https://c1.staticflickr.com/1/757/21579674474_0f54bf3373_b.jpg =600x)
+ 
 
 Building the *1 Bit Computer* doesn't yet show us how your laptop or smartphone actually work. Instead, it demonstrates how binary numbers and boolean logic can be configured to create more complex components. On their own these components aren't capable of computing in anything particularly useful, but a computer is said to be [*turing complete*](https://en.wikipedia.org/wiki/Turing_completeness) if it includes *all* of them, at which point it has the extraordinary ability to carry out *any* possible computation.
 
 So how do we get from adding 2 bits together to a system you might be more familiar with? Modern computers are very powerful and can compute millions or billions of bits of information in a fraction of a second, far more than our *1 Bit Computer*. You can still build one of these by assembling the proper hardware and installing the operating system. With some help from the [internet](https://pcpartpicker.com/), or an experienced friend, everyone can buy a CPU, graphics card, RAM and build their own computer. However, today it's rare for people to build their own devices because pre-assembled laptops, desktops, and mobile computers are now so readily accessible. 
 
-There are still a few missing links between our 1-bit toys and the parts you can buy off the shelf. We now know how to perform a binary computation and store the result, but as a user our interest is generally the context in which we perform that computation, the computer program. This is where the most important component of the computer comes in, the CPU (or Central Processing Unit).
+There are still a few missing links between our 1-bit circuits and the parts you can buy off the shelf. We now know how to perform a binary computation and store the result, but as a user our interest is generally the context in which we perform that computation, the computer program. This is where the most important component of the computer comes in, the CPU (or Central Processing Unit).
 
 The CPUs found in many of our devices today use what's called a *Von Neumann architecture*, named after the mathematician and polymath [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) credited with its invention[2]. A key scientific figure in the Manhattan Project, Von Neumann joined the US Army Ballistic Research Laboratory's program to develop the first electronic general purpose computation device, ENIAC (Electronic Numerical Integrator And Computer), whose initial program was a numerical simulation of the sustained hydrogen fusion reactions needed for second generation nuclear weapons. The ENIAC machine, however, was only programmable through manual switching, which could take weeks of preperation and debugging. This lead Von Neumann and his team to design a second machine, EDVAC (Electronic Discrete Variable Automatic Computer), the first device capable of using a stored-memory program, or what we now call *software*. Though computer technology has advanced dramatically since then, the conceptual framework of the modern CPU has remained largely unchanged since 1945.
 
-![](https://farm6.staticflickr.com/5827/20311593064_44718b69c4_b.jpg =600x)
+![](https://c1.staticflickr.com/1/694/22177320676_f03d5251ce_b.jpg =600x)
 
 [Image source](https://en.wikipedia.org/wiki/Von_Neumann_architecture#/media/File:Von_Neumann_Architecture.svg)
 
 The Von Neumann architecture has two major components, the *arithmetic logic unit* (ALU) and a *control unit* which conducts information flow within the ALU. Depending on the program, the control unit may also communicate with the computer memory if given an instruction to do so, after which the result of an arithmetic operation can then be communicated through the output channel. Von Neumann's innovation with this architecture was to allow data and memory to be treated interchangeably, using the software to shape the operational conditions of each computation. This storage functionality, recalling information as an instruction, is what distinguishes the computer from electronic calculators and takes us from our 1-bit computer to a generalized, programmable computer. 
 
- 
-"But all this talk is making me hungry. I'm really craving some dumplings!"
 
-![](https://farm1.staticflickr.com/646/20719119500_7c8baf02f1_z.jpg =300x)
+![](https://c1.staticflickr.com/1/608/22017554949_1f952e59a7_b.jpg =600x)
 
 At the [School for Poetic Computation](http://sfpc.io/)[1], we like to have dumplings for lunch. C & C Prosperity Dumpling is right around the corner from our space in the Lower East Side. I walk in to the shop super hungry, ready for some sizzling dumplings.
 
-![](https://farm1.staticflickr.com/726/20286138513_9e77baf055_b.jpg =300x)
+![]( https://c2.staticflickr.com/6/5654/22189741202_4e893c6a29_b.jpg =300x)
 
 After looking at the menu, I decide to get pork and chive. I ask the cashier at the counter for 5 boiled dumplings and give her $2. She writes down my order on a piece of paper, drops a few dumpings into the boiling pot, and puts the receipt on the counter next to all the previous orders.
 
@@ -38,8 +30,12 @@ After looking at the menu, I decide to get pork and chive. I ask the cashier at 
 
 The cashier alternates between taking orders from the people in line behind me and packing up orders as they're finished.
 
-While I wait impatiently for my food, I peer into the back to see the chefs making all the dumplings from scratch. There's a person peeling onions, and someone cutting chives.
  
+ 
+![](https://c1.staticflickr.com/1/704/22015717730_5f6b6f5e1f_b.jpg =600x)
+
+While I wait impatiently for my food, I peer into the back to see the chefs making all the dumplings from scratch. There's a person peeling onions, and someone cutting chives.
+
 ![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
  
 Another person is folding the dumplings with the filling inside.
@@ -62,9 +58,13 @@ Oh yeah! Dumpling time!
 
 While I eat, I think about how the dumpling shop is a useful metaphor for understanding the central processing unit. 
 
+![](https://c1.staticflickr.com/1/618/22191467572_b5cfdc230a_b.jpg =600x)
+
+At the CPU Dumpling Shop, whenever a customer orders food their 1order is considered a single instruction set. The customer communicates this input the cashier (CU), who organizes the instructions and passes orders to the kitchen (ALU) about what dumplings to make as needed.
+
 ![](https://farm6.staticflickr.com/5773/20825301555_0ecf439c0a_b.jpg =600x)
 
-At the CPU Dumpling Shop, whenever a customer orders food their order is considered a single instruction set. The customer communicates this input the cashier (CU), who organizes the instructions and passes orders to the kitchen (ALU) about what dumplings to make as needed.
+ 
 
 While the employees all know how to perform a variety of tasks, the chef knows recipes for several types of dumplings and the cashier knows where to find extra takeout containers, they don't need to continually think about every step of each task. Instead, they concentrate on single procedure, or program, recalling the information required for other tasks only when they receive a new instruction. They remember where ingredients are stored and how to make different recipes by storing them in their long term memory whereas a single customer's order is only held in their working memory for a few minutes and then forgetten.
 
