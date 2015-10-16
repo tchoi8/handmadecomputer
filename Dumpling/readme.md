@@ -70,7 +70,11 @@ While the employees all know how to perform a variety of tasks, the chef knows r
 
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
 
+
+
 ####Finite-state machine
+
+How does the CPU actually operate? We can begin to explore the CPU by making a compute that's good at remembering and executing simple instructions. 
 
 This device is named "Finite-state machine"[2] because the entirety of its possible operation is limited to a finite number of configurations or memory states. I built it to better understand several of the CPU's important components.
 
@@ -78,9 +82,9 @@ This device is named "Finite-state machine"[2] because the entirety of its possi
 
 The four buttons in the front are the inputs which you can use to enter four bits of information. Pressing a button sets that input to 1 or *high* and the corresponding LED lights up immediately. The other four LEDs on the back are outputs, where machine-state information stored in the RAM (Random Access Memory) is displayed.  
 
-The small red switch on the left enables you to select between two modes, reading mode to store a 4-bit input state to memory, and output mode to read the stored memory state. We'll go into the nature of RAM a bit more in the next chapter [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity).
+The small red switch on the left (with a sticker labled Read/Write RAM) enables you to select between two modes, reading mode to store a 4-bit input state to memory, and output mode to read the stored memory state. We'll go into the nature of RAM a bit more in the next chapter [RAM City](https://github.com/tchoi8/handmadecomputer/tree/master/RAMcity).
 
-The counter counts up from from zero to nine: ten sequential memory blocks for recording a 4-bit state. Once recorded in reading mode, the binary information stored in memory can be accessed arbitrarily (randomly) via its address on the RAM chip.
+The counter tots up from from zero to nine: ten sequential memory blocks for recording a 4-bit state. Once recorded in reading mode, the binary information stored in memory can be accessed arbitrarily (randomly) via its address on the RAM chip.
 
 The finite-state machine demonstrates how information is stored in memory but we still need one thing to complete the CPU, the computation. To continue with our dumpling metaphor, we know how to make dumplings but we don't have a kitchen. The logic function is made possible with the ALU or Arithmetic Logic Unit. 
  
