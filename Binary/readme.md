@@ -7,7 +7,7 @@ Before we get into the details of *1 Bit Computer*, let's return to the idea of 
 Now we are going to run down in the levels of abstraction to the realm of logic. 
  
  
-![](https://c2.staticflickr.com/6/5688/21838594370_47bf6e3a89_b.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/abstraction.png)
    
  
 
