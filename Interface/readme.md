@@ -1,64 +1,42 @@
 [⇐ INTRODUCTION](https://github.com/tchoi8/handmadecomputer/blob/master/Entry/readme.md)
 
-Everyday we look at computer screens for a very long time.  
-
+![](https://c2.staticflickr.com/6/5697/22228829805_1ef410a9de_b.jpg)
 ![](https://dl.dropboxusercontent.com/u/53638/tablet.jpg)
-
-
-
-We touch them, carry them, and sleep next to them.
-
-
-
-Our lives are stored in bits, messages turned to network packets, living spaces arranged in human-size pixels.
-
+![](https://c1.staticflickr.com/1/761/22041074988_75fa31b7f0_b.jpg)
+![](https://c1.staticflickr.com/1/567/22042008679_df0a1c965f_b.jpg)
 ![](https://dl.dropboxusercontent.com/u/53638/laptop.jpg)
-
-Most of us have some knowledge about how to use a computer. But we have a limited understanding of the inner workings, what happens behind the colorful user interface. Miniaturization and mass-production have lead to the mystification of the computer, complicating, obscuring its operation and means of production.
-
-Fortunately, computers perform all the complex tasks we're familiar with through a few simple operations, repeated and abstracted. Opening up the computer may be easier than you think.
- 
+![](https://c1.staticflickr.com/1/724/22042007159_e7a733dd75_b.jpg)
+![](https://c2.staticflickr.com/6/5812/21607865113_2a1f05d3cf_b.jpg)
 ![](https://dl.dropboxusercontent.com/u/53638/minimial.jpg)
 
 
-
-
-The Minimalists painters were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
-
-
-
-
  
- ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
-
-This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed for electroconductive performance, they can also be quite geometrically appealing. They remind me of Frank Stella, Sol Lewitt, and the work of other minimalist artists. 
-
-
-![](https://farm1.staticflickr.com/703/20884034731_b40b344d58_o.jpg =400x)
-
-Josephson Junctions Chip from IBM.
+```This transition is not so smooth. Might need to bridge or further explain why I'm bringing in conceptual  abstract parintings ``` 
+ 
+ 
+Fortunately, computers perform all the complex tasks we're familiar with through a combination of few basic operations, repeated and abstracted. 
 
 
-int
+Opening up the computer may be easier than you think. Inside of the computer, there are many small electronics and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed for electroconductive performance, they can also be quite geometrically appealing. 
 
+![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
+ 
+ 
+ 
+```Maybe treat this as two fold of the chapter, and make a clear statement that we are now focusing on abstraction and repetiton in visual art and literature. ``` 
+ 
+  
+The Conceptual artists were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork. 
+ 
 
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
 
  
 This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. When I look at Halley's work I'm not only reminded of microchip designs but many other computer design patterns. The von Neumann architecture for instance, which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
-
-  
-  ![](http://history-computer.com/ModernComputer/thinkers/images/vonNeumannArch.jpg )
-  
-[Von Neumann architecture](http://history-computer.com/ModernComputer/thinkers/Neumann.html) 
-
-
-
-
-
-
-
+ 
  ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
+
+Paintings and books all make use of repetition. Layering shapes or wires or pages, the composition and logic of which allow them to function as a whole.
 
  
 This phrase "Each one comes to be a whole one to me" is from *The Making of Americans* by Gertrude Stein. I opened a random page in the book and picked this line, so it could just have been any other phrase. In this book, a story is told and retold in many ways. The result is a fragmented narrative with multiple perspectives. 
@@ -66,8 +44,6 @@ This phrase "Each one comes to be a whole one to me" is from *The Making of Amer
 ![](https://farm1.staticflickr.com/679/20823369765_30e3a61dd6_b.jpg =600x)
 
 
-
-Paintings, circuits, and books all make use of repetition. Layering shapes or wires or pages, the composition and logic of which allow them to function as a whole.
 
 Making a computer and building electronic circuits feels like building a tiny city. The circuit board is a little urban architecture and its inhabitants a busy traffic of electronic signals. Just like cities, memories are made and remembered in the buildings and roads connecting them.
 
@@ -78,6 +54,7 @@ We are now going to make a window into this city and peer into the world of zero
 ![](https://farm8.staticflickr.com/7541/15566849007_edcf431bec_b.jpg =600x)
   
  
+We will build a 1-bit computer in the future chapter with electronics. 
  
  
 
