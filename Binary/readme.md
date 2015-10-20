@@ -4,21 +4,17 @@
 - Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)  
 - Plan to experiment with structure and organization. 10/20/2015
 
-
-
 #1. What is Computer? 
 
-"Now let's make a computer! Wait, what is a computer? Computer can do math (like adding, subtracting, multiplying), remember information over time. It also has clocks which is very important. Computers, even in itssimpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit".
+"Now let's make a computer! Wait, what is a computer? Computer can do math (like adding, subtracting, multiplying), remember information over time. It also has clocks which is very important. Computers, even in itssimpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit". 
 
-![](https://c1.staticflickr.com/1/693/22351355391_b0efee23d7_b.jpg)
-
+```Edit this part succinctly, and write in hand writing. Just words, no images.``` 
 
 #2. Electronic friends!
 
 
-Before we get into the details of *1 Bit Computer*, let's return to the idea of zero and one, binary numbers, and their boolean logic.
  
-Until this point, our *1 Bit Computer* has been purely symbolic, it existed in ideas. We can begin to make it with electronic circuits. 
+Until this point, the computers we talked about have been purely symbolic, it existed in ideas. We can begin to make it with electronic circuits. 
 
 ![](https://c1.staticflickr.com/1/611/22340720565_92eea56285_b.jpg)
 
@@ -30,15 +26,18 @@ The circuits need batteries to work.
 - 5 Volt circuit 
 
  
+
+![](https://c1.staticflickr.com/1/687/22314996206_cd76e47522_b.jpg)
+
+This is a LED, Light Emitting Diode. It lights up brightly when an electrical signal goes through two metal rods. The metal part is conductive, the electrical current pass through it. If we connect LED into a battery, and if it's connected in the right side, it will light up. The battery is charged with energy which go through the 
+
+
 This is a switch, which we use as an Input for our circuit. Switch allows us to change the connection between two points. 
 ![](https://c1.staticflickr.com/1/778/22327706442_cc76cd5161_b.jpg)
 
 This switch controls the connection between the middle pin and two pins by it's side. It's always connected to one of them. It's just like how our Input is either always Zero or One. 
 
-![](https://c1.staticflickr.com/1/687/22314996206_cd76e47522_b.jpg)
-
-This is a LED, Light Emitting Diode. It lights up brightly when an electrical signal goes through two metal rods. 
-
+ 
 
 ![](https://c1.staticflickr.com/1/671/20574668810_9c957dfff4_o.jpg)
 
@@ -55,14 +54,16 @@ This is a LED, Light Emitting Diode. It lights up brightly when an electrical si
 ``` Break from the technical details, change tones slightly. Brief mention of Claude Shannon's paper on switching circuits and George Boole' logic. Explain Binary with Thumbs up & down and Venn Diagram. Also introduce Integrated Circuit and the idea of abstraction here.``` 
 
 
+Before we get into the details of *1 Bit Computer*, let's return to the idea of zero and one, binary numbers, and their boolean logic.
+
+
+
 NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above, depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
  ![](https://c1.staticflickr.com/1/613/21839648508_2346bd533a_o.jpg =600x)
 
 
 It's exhauting to go through these logic stuff, but believe me, it's like climbing a mountain. You will get a great view in the end!  
-   
- ![](https://c2.staticflickr.com/6/5750/20038875443_f0a74f3c9d_b.jpg =600x)
-   
+ 
  
 By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
 
@@ -92,6 +93,10 @@ However, this is read 'One Zero' in Binary numbers, not Ten as in Decimal number
 
 
 #4. 1-bit computer
+
+
+
+![](https://c1.staticflickr.com/1/693/22351355391_b0efee23d7_b.jpg)
 
   
 In the last case where we add 1+1, the sum (10) requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*. It's called *half* adder because it can only add the first digits. A *full adder* can add higher digits with numbers carrying on from the previous digits. ```this part is going to be easier to understand through illustration```
