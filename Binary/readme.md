@@ -1,20 +1,59 @@
 [⇐ INTERFACE](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
 
-
 - Beginning work on this chapter on a separate branch, some plans on [Issue 7](https://github.com/tchoi8/handmadecomputer/issues/7)
 - Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)  
 - Plan to experiment with structure and organization. 10/20/2015
 
+
+
+#1. What is Computer? 
+
+"Now let's make a computer! Wait, what is a computer? Computer can do math (like adding, subtracting, multiplying), remember information over time. It also has clocks which is very important. Computers, even in itssimpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit".
+
+![](https://c1.staticflickr.com/1/693/22351355391_b0efee23d7_b.jpg)
+
+
+#2. Electronic friends!
+
+
 Before we get into the details of *1 Bit Computer*, let's return to the idea of zero and one, binary numbers, and their boolean logic.
-
-![](https://c1.staticflickr.com/1/653/20500115939_a262191419_b.jpg =600x)
-
-Now we are going to run down in the levels of abstraction to the realm of logic. 
  
+Until this point, our *1 Bit Computer* has been purely symbolic, it existed in ideas. We can begin to make it with electronic circuits. 
+
+![](https://c1.staticflickr.com/1/611/22340720565_92eea56285_b.jpg)
+
+The circuits need batteries to work. 
+
+- Voltage 
+- Current 
+- The potential difference between the voltages. 
+- 5 Volt circuit 
+
  
-![](https://dl.dropboxusercontent.com/u/53638/abstraction.png)
+This is a switch, which we use as an Input for our circuit. Switch allows us to change the connection between two points. 
+![](https://c1.staticflickr.com/1/778/22327706442_cc76cd5161_b.jpg)
+
+This switch controls the connection between the middle pin and two pins by it's side. It's always connected to one of them. It's just like how our Input is either always Zero or One. 
+
+![](https://c1.staticflickr.com/1/687/22314996206_cd76e47522_b.jpg)
+
+This is a LED, Light Emitting Diode. It lights up brightly when an electrical signal goes through two metal rods. 
+
+
+![](https://c1.staticflickr.com/1/671/20574668810_9c957dfff4_o.jpg)
+
+``` Transistor here. probably not Mr.Tr. make it gender neurtral.]```
+   Take some information from this page on [transistor](https://github.com/tchoi8/handmadecomputer/tree/iss7/TTL)
+   
+   ![](https://c1.staticflickr.com/1/765/21717941984_3b2b774410_b.jpg)
    
  
+#3. Binary logic 
+
+
+
+``` Break from the technical details, change tones slightly. Brief mention of Claude Shannon's paper on switching circuits and George Boole' logic. Explain Binary with Thumbs up & down and Venn Diagram. Also introduce Integrated Circuit and the idea of abstraction here.``` 
+
 
 NAND is short for *not* AND logic. Here A and B are inputs, either of which can be zero or one, and Y is the logical output. In the venn diagram above, depicting possible input state configurations, every shape is colored except the intersecting region. This means the result is true in every case *except* when both inputs are true.  
  ![](https://c1.staticflickr.com/1/613/21839648508_2346bd533a_o.jpg =600x)
@@ -25,8 +64,6 @@ It's exhauting to go through these logic stuff, but believe me, it's like climbi
  ![](https://c2.staticflickr.com/6/5750/20038875443_f0a74f3c9d_b.jpg =600x)
    
  
-
-
 By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
 
 ![](https://dl.dropboxusercontent.com/u/53638/nands.jpg)
@@ -49,25 +86,14 @@ However, this is read 'One Zero' in Binary numbers, not Ten as in Decimal number
 ![](https://farm6.staticflickr.com/5826/21055702651_1ff54a87e9_b.jpg =600X)
 
 
-
-Until this point, our *1 Bit Computer* has been purely symbolic, it existed in ideas. We can begin to make it with electronic circuits. 
-
-![](https://farm9.staticflickr.com/8681/16175163746_4353f95d75_b.jpg =600x)
-
-This is a switch, which we use as an Input for our circuit. Switch allows us to change the connection between two points. This switch controls the connection between the middle pin and two pins by it's side. It's always connected to one of them. It's just like how our Input is either always Zero or One. 
-
-![](https://farm9.staticflickr.com/8651/16014920329_84c17e7326_b.jpg =600x)
-
-This is a LED, Light Emitting Diode. It lights up brightly when an electrical signal goes through two metal rods. 
-
-![](https://c1.staticflickr.com/1/671/20574668810_9c957dfff4_o.jpg)
-
-``` Transistor here. probably not Mr.Tr. make it gender neurtral.]```
-
 ![](https://c1.staticflickr.com/1/579/21841043889_33c3084915_b.jpg =600x)
 
 ```Probably need to start explaining about Integrated Circuits here```
 
+
+#4. 1-bit computer
+
+  
 In the last case where we add 1+1, the sum (10) requires we carry the 1 over to the next place, the next digit is fed to the AND gate, and the first digit acts like an XOR gate. By combining both logic gates, we can make an adding machine, called a *half adder*. It's called *half* adder because it can only add the first digits. A *full adder* can add higher digits with numbers carrying on from the previous digits. ```this part is going to be easier to understand through illustration```
 
 ![](https://farm1.staticflickr.com/774/20812984222_590f7b06e4_b.jpg =600x)
@@ -109,7 +135,20 @@ A *1 Bit Computer* has the fundamental abilities of the traditional computer. It
 This 1 bit computer uses two TTL NAND logic chips, which are integrated circuits designed to perform NAND operations. The same logic could be implemented with transistors, vacuum tubes, or few lines of code in most programming languages.
 
 Also [how to make Adder, Memory](https://farm8.staticflickr.com/7251/14007688534_adb24c48f8_k.jpg) with the logic gates. 
+
+
+
+#5. Summary
+
+This is how computers work on the conceptual level. However, 1-bit computer can not do alot of useful computation, and it can't even be programmed per se. Thus we need to look at how modern computers use abstraction and repeptition of Logic to make something that is arguably close to Computer".
  
+
+
+Now we are going to run up and down in the levels of abstraction to the realm of logic. 
+ 
+ 
+![](https://dl.dropboxusercontent.com/u/53638/abstraction.png)
+
 
 ### Extras
 
@@ -124,3 +163,7 @@ And out of NAND logic gates, you can make a 1 bit computer!
 [Here](https://github.com/tchoi8/handmadecomputer/tree/master/Binary/NAND)
 
 [CPU DUMPLING SHOP ⇒](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
+
+
+![](https://c2.staticflickr.com/6/5760/22350581051_2b5ec9f2a1_b.jpg)
+![](https://c2.staticflickr.com/6/5621/22153093839_b292654f96_b.jpg)
