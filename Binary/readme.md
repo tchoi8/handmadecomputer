@@ -1,5 +1,10 @@
 [⇐ INTERFACE](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
 
+
+- Beginning work on this chapter on a separate branch, some plans on [Issue 7](https://github.com/tchoi8/handmadecomputer/issues/7)
+- Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)  
+- Plan to experiment with structure and organization. 10/20/2015
+
 Before we get into the details of *1 Bit Computer*, let's return to the idea of zero and one, binary numbers, and their boolean logic.
 
 ![](https://c1.staticflickr.com/1/653/20500115939_a262191419_b.jpg =600x)
