@@ -9,7 +9,12 @@
 "Now let's make a computer! Wait, what is a computer? Computer can do math (like adding, subtracting, multiplying), remember information over time. It also has clocks which is very important. Computers, even in itssimpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit". 
 
 ```Edit this part succinctly, and write in hand writing. Just words, no images.``` 
+
 ```abstraction and repetition to make a computer```
+
+```real world > zero and one, encoding & symbolic logic -- shannon and bool -- dawn and dusk -- digital computer is new```
+
+```city and human computation, analog computing is the default form of computation > we want to represent the analog world with zero and one because efficiency of info - send message over distance, imagine sending messages from one city to another```
 
 #2. Electronic friends!
 
