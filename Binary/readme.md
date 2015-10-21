@@ -9,6 +9,7 @@
 "Now let's make a computer! Wait, what is a computer? Computer can do math (like adding, subtracting, multiplying), remember information over time. It also has clocks which is very important. Computers, even in itssimpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit". 
 
 ```Edit this part succinctly, and write in hand writing. Just words, no images.``` 
+```abstraction and repetition to make a computer```
 
 #2. Electronic friends!
 
