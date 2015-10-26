@@ -138,7 +138,9 @@ ue. When A and B are both False, the output will be True. Only when A and B are 
 
 #8. Chip
 
- ![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/NANDChip.jpg?raw=true)
+ ![]( https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/NANDChip.JPG?raw=true)
+ 
+ 
  
 Hi! I'm a CD 4093 Chip (CMOS NAND Logic Gate) : D 
  
