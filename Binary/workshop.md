@@ -22,6 +22,8 @@ So the terminal ABCDE on the row 0 is separate from and the row 1.
 
 **Bus (Power rails)**: On the right and left end of the breadboard, there are two lines of Red and Blue. These buses are connected vertically from top of the breadboard to the bottom. They are conventionally used to supply Power ( + / Red) and Ground ( - / Blue)
 
+More information on Breadboard [Here!](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/anatomy-of-a-breadboard)
+
 #2. Battery
 
 Hello My name is a battery! 
