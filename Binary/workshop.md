@@ -11,7 +11,11 @@ Concepts:
 
 Hello My name is a Breadboard!
 
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/breadboard.png?raw=true)
+
 We will use the breadboard to quickly prototype electronic circuits without soldering. Let's see how it works :) 
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/woodboard.png?raw=true)
 
 By the way, Breadboard is called Breadboard because the hackers of the olden days used to make circuits on wooden breadboards (using nails as connection points). It's an ideal nonconductive surface that can hold electrical parts in the right place. The modern breadboards are usually made with plastic, which is nonconductive and metal terminals which are conductive. The electrical current travels only in the conductive surfaces. 
 
@@ -28,6 +32,8 @@ More information on Breadboard [Here!](https://learn.sparkfun.com/tutorials/how-
 
 Hello My name is a battery! 
  
+![](![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/battery.jpg?raw=true))  
+
 The Battery is our power source. The battery holder contains 3 AA batteries connected serially, which adds them up to make a 4.5 Volt. There are two wires coming out of the battery holder, one is Red (+ / Power) and Black or Blue (- / Ground).
 
 Voltage is the electric potential difference between two points. 
@@ -39,14 +45,23 @@ It's very important to **not** connect two of them directly, which is called 'sh
 
 #3.Wires 
 
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/solidcorewire.jpg?raw=true)
+
 We can use the wires to connect one part of the breadboard to another part. Since wires are very conductive and we can use it to join one electronic component to another component, like connecting the dots with a line. The wires are covered in plastic sheathing, which makes them only conductive in the part that is stripped. There are few different kinds of wires, solid core wires are rigid inside and easy to shape (cut and bend) to connect parts on the breadboard. Standard wires are soft and they are good for connecting Input parts like a switch and Output parts like a motor. There are also Jumper wires which have pins on the either end, which is great for quickly connecting parts to test it works.  
+
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/wires.png?raw=true)
 
 #4.LED
 
 Hello! I am an LED : )
 
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/LED.png?raw=true)
+
 LED is short for Light Emitting Diode! 
 An LED is a diode that makes light when the current travels through it. The concept of diode is simply an electrical component that allows current to travel in one direction, but not the other. So, like a diode, LED has a polarity, which means it only works when the current travels from Anode to Cathode. We will explain these terms with an illustration. 
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/LEDinside.png?raw=true)
 
 
 LED anatomy 
@@ -84,6 +99,8 @@ Now, we are going to control the LED with a switch. This switch will allow you t
 
 Hello! I am a switch! 
 
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/switch.jpg?raw=true)
+
 A switch connects the output pin (in the middle) to either one of the inputs (the outer pins in both ends). 
 Inside of the plastic shell, there is a metal plate that physically slides one of the input to the output.   
 
@@ -101,9 +118,18 @@ Now, we created a Digital switch! We have an Input (switch) and an Ouput (LED) w
 #7. Binary Logic 
 
 Do you remember a math class in grade school or middle school when the teacher introduced series of Venn Diagram? 
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/NANDbird.jpg?raw=true)
+
 It's basically circles that over lap with each other in different ways. 
 
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/logicworld.png?raw=true)
+
 - One of the first Venn Diagram to look for is a for when A and B are in common. It's when A and B are both True, the output is True. This is logically same as AND gate. Only the intersection of two circles are colored because it's only true when both are true. (this is repeat)  
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/NANDlogic.jpg?raw=true)
+
 - The next one is when either A or B is True, the output is True. This is logically same as OR gate. Both A and B circles are colored because if any of those are True, the output will be True. 
 - The next one is an opposite of the first one, so when A and B are both False, the output is True. This creates a diagram where only the intersection is False, and everything else is True. This means when A is True and B is False, the output will remain Tr
 ue. When A and B are both False, the output will be True. Only when A and B are both True, the output will be False. This is logically same as the NAND gate.  
@@ -112,16 +138,23 @@ ue. When A and B are both False, the output will be True. Only when A and B are 
 
 #8. Chip
 
+ ![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/NANDChip.jpg?raw=true)
+ 
 Hi! I'm a CD 4093 Chip (CMOS NAND Logic Gate) : D 
  
+ ![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/InsideNandChip.png?raw=true)
  
-Inside of the chip, there are four Logic gates that operate NAND logic.
+Inside of the chip, there are four Logic gates that operate NAND logic. 
 
 #9. Hello world with 1 Bit Computer!
 Two exercises: ( sketch out schematic? with happy emotive LEDs etc?) 
 
 - 1)  LED + 1 Switch 
 - 2) LED + 2 switches 
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/NANDcircuitBread.jpg?raw=true)
+
+This is what we will build! First step is to get familiar with using NAND Chip! 
 
 
 ###BATTERY: 
@@ -252,5 +285,7 @@ Here are the next challenges for you.
 - MAKE an OR Gate from using 3 NAND gates 
 - Make an NOR Gate using 4 NAND Gates
 - Make an XOR Gate using 4 NAND Gates
+
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/Logics.png?raw=true)
 
 You can do all of this with just 1 NAND Chip. That's pretty awesome to manipulate a logic gate to make other kinds of logics. It's proving that NAND is a Universal Gate. And this is precisely the reason that computers can be built from electronics quiet efficiently. 
