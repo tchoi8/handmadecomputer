@@ -54,6 +54,8 @@ Our battery holds close to 5V of difference in energy.
 
 When the circuit is completed with components, current travels between the circuit with a flow of electric charge. This is the energy that does the job for us, such as lighting up the LED or moving a motor. 
 
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/shorting.jpg?raw=true)
+
 It's very important to **not** connect two of them directly, which is called 'shorting'. When the circuit is shorted, the battery will get hot very quickly and potentially destroy the circuit. Always have two wires on the correct spot (either Red or Blue bus). It can be also helpful to connect Battery using opposite columns on the Breadboard -- ex below (chose the heart option)
 
 
@@ -75,7 +77,7 @@ Let's get the current flowing :  )  Zzzzt -- Electric!
 We can use the wires to connect one part of the breadboard to another part. Since wires are very conductive and we can use it to join one electronic component to another component, like connecting the dots with a line. The wires are covered in plastic sheathing, which makes them only conductive in the part that is stripped. There are few different kinds of wires, solid core wires are rigid inside and easy to shape (cut and bend) to connect parts on the breadboard. Standard wires are soft and they are good for connecting Input parts like a switch and Output parts like a motor. There are also Jumper wires which have pins on the either end, which is great for quickly connecting parts to test it works.  
 
 
-![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/wires.png?raw=true)
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/wires.jpg?raw=true)
 
 #4.LED
 
@@ -129,7 +131,6 @@ We will use 100 Ohm or 200 ohm resistor for this circuit.
 
 Resistor is like a bumpy road, it makes it more difficult for the current to travel.
 
-
 Now, we are going to control the LED with a switch. This switch will allow you to turn your LED switch off and on.  
 
 #6. Switch 
@@ -182,21 +183,6 @@ Numbered from 123 for example
 
 Let's Repeat for **Switch B**. Repeat steps from Switch A with a new switch - but on opposite (left) terminal strip. This is now our Switch B. Although it doesn't matter which number terminal you place the switch on the terminal strip, to make our happy face pictured above - let's mirror Switch A's position with our placement of Switch B
 
-
-
-
-
-Now it's time to connect Switches A & B to our Chip
-
-- Take a piece of wire (cut and strip new piece if needed)
-- Connect Switch A
-- Place one wire end in same row as *Switch A's 2nd/middle pin*.  Reminder, Switch A is the Switch on right terminal.  
-- Crossing over the trough/valley, place other wire end into the same row as your Chip's Top-left Pin. 
-- Success! Now onward to connect Switch B 
-- Take a piece of wire (cut and strip new piece if needed)
-- Take one wire end - place in a socket the same terminal row as "Switch B's" 2nd-middle pin 
-- Place other wire end in same row as Chip's left side, 2nd pin from the top
-Huzzah!
 
 
 #7. Binary Logic 
@@ -254,6 +240,20 @@ In most chips, there is a half circle indented on one of side. This is usually c
 
    
 NAND Logic on the Breadboard!
+
+
+Now it's time to connect Switches A & B to our Chip
+
+- Take a piece of wire (cut and strip new piece if needed)
+- Connect Switch A
+- Place one wire end in same row as *Switch A's 2nd/middle pin*.  Reminder, Switch A is the Switch on right terminal.  
+- Crossing over the trough/valley, place other wire end into the same row as your Chip's Top-left Pin. 
+- Success! Now onward to connect Switch B 
+- Take a piece of wire (cut and strip new piece if needed)
+- Take one wire end - place in a socket the same terminal row as "Switch B's" 2nd-middle pin 
+- Place other wire end in same row as Chip's left side, 2nd pin from the top
+Huzzah!
+
 
 - Now we connect the 3rd Pin to a LED
 - Cut a piece of wire and connect the 3rd Pin with Anode of LED. 
