@@ -1,11 +1,9 @@
-Goal: "Hello World" in the Binary World with Electronics : D 
+Welcome to Handmade Computer Workshop at SPAN: NY at Google.
 
-Concepts: 
+Our goal is to "Hello World" in the Binary World with Electronics : D 
 
-- Basic electronics 
-- Binary numbers and adder 
-- Boolean logic and Universal gate 
-- NAND gate Integrated Circuits chip 
+My name is [Taeyoon](http://taeyoonchoi.com), and Rebecca who is currently a student at the [School for poetic computation](http://sfpc.io) will be helping us. 
+ 
 
 #1. Breadboard 
 
@@ -32,7 +30,7 @@ More information on Breadboard [Here!](https://learn.sparkfun.com/tutorials/how-
 
 Hello My name is a battery! 
  
-![](![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/battery.jpg?raw=true))  
+![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/battery.jpg?raw=true)  
 
 The Battery is our power source. The battery holder contains 3 AA batteries connected serially, which adds them up to make a 4.5 Volt. There are two wires coming out of the battery holder, one is Red (+ / Power) and Black or Blue (- / Ground).
 
@@ -42,6 +40,18 @@ Our battery holds close to 5V of difference in energy.
 When the circuit is completed with components, current travels between the circuit with a flow of electric charge. This is the energy that does the job for us, such as lighting up the LED or moving a motor. 
 
 It's very important to **not** connect two of them directly, which is called 'shorting'. When the circuit is shorted, the battery will get hot very quickly and potentially destroy the circuit. Always have two wires on the correct spot (either Red or Blue bus). It can be also helpful to connect Battery using opposite columns on the Breadboard -- ex below (chose the heart option)
+
+
+###BATTERY: 
+
+Let's get the current flowing :  )  Zzzzt -- Electric! 
+
+- Connect *Battery's Red Power wire (+) * to ----> top socket of *Breadboard's Left Power Bus Strip (red/+)*
+- Connect *Battery's Blue Ground wire (-) *  to ----> top socket of *Breadboard's Right Ground Bus Strip (blue/-)*
+- Now - let's connect both "Bus Strips" to one another in order to distribute current 
+- With a piece of wire, connect the *Left Bus Strip's Ground (-)* to *Right Bus Strip's Ground(-)* (crossing over A-E, trough/valley, and F-J)
+- With another piece of wire - connect *Left Bus Strip''s Power(+)* to  *Right-Terminal's Power(+) *  
+
 
 #3.Wires 
 
@@ -138,13 +148,10 @@ ue. When A and B are both False, the output will be True. Only when A and B are 
 
 #8. Chip
 
- ![]( https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/NANDChip.JPG?raw=true)
+ ![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/7400.jpg?raw=true?raw=true)
  
- 
- 
-Hi! I'm a 7400 Chip (TTL NAND Logic Gate) : D 
- 
- ![](https://github.com/tchoi8/handmadecomputer/blob/iss7/Binary/workshop/InsideNandChip.png?raw=true)
+ Hi! I'm a 7400 Chip (TTL NAND Logic Gate) : D 
+
  
 Inside of the chip, there are four Logic gates that operate NAND logic. 
 
@@ -159,15 +166,6 @@ Two exercises: ( sketch out schematic? with happy emotive LEDs etc?)
 This is what we will build! First step is to get familiar with using NAND Chip! 
 
 
-###BATTERY: 
-
-Let's get the current flowing :  )  Zzzzt -- Electric! 
-
-- Connect *Battery's Red Power wire (+) * to ----> top socket of *Breadboard's Left Power Bus Strip (red/+)*
-- Connect *Battery's Blue Ground wire (-) *  to ----> top socket of *Breadboard's Right Ground Bus Strip (blue/-)*
-- Now - let's connect both "Bus Strips" to one another in order to distribute current 
-- With a piece of wire, connect the *Left Bus Strip's Ground (-)* to *Right Bus Strip's Ground(-)* (crossing over A-E, trough/valley, and F-J)
-- With another piece of wire - connect *Left Bus Strip''s Power(+)* to  *Right-Terminal's Power(+) *  
 
 
 ###SWITCHES:
