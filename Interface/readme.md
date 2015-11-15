@@ -28,11 +28,11 @@ Micrograph photos reveal the unique visual patterns of the computer's interior c
 
 But when I look at images like these I see artworks.
 
-Conceptual artists were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork. 
- 
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
 
-This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. When I look at Halley's work I'm not only reminded of microchip designs but many other computer design patterns. The von Neumann architecture for instance, which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
+Artworks like this painting by [Peter Halley](http://www.peterhalley.com/) titled *Instant City*[2]. Halley's works not only remind me of microchip designs but many other computer design patterns. In fact the term "design pattern" was introduced to computer scientists by an architect and design theorist, Christopher Alexander. We'll touch on one design pattern, the von Neumann architecture, in more detail when we get to the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
+
+Conceptual artists were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
  
  ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
 
