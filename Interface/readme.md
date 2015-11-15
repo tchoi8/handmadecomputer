@@ -10,28 +10,24 @@
 
 ```black box image here?```
 
-But setting aside the computing industry's privatization of technical knowledge for a moment, the complexity of modern computers can be broadly understood as the product of only a few basic operations repeated and abstracted.
+But setting aside the computing industry's privatization of technical knowledge for a moment, the complexities of the modern computer can be broadly understood as the product of only a few basic operations repeated and abstracted.
 
-And *opening up* the computer may be easier than you think.
+![](https://dl.dropboxusercontent.com/u/53638/abstraction.jpg)
+
+Stepping inside the computer may be easier than you think.
 
 ```open computer image here?```
 
-Inside there are many small electronics and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed to maximize electronic performance at infinitesimal scale, they can also be quite geometrically appealing.
+Opening the computer we find lots of small electronic components and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963.
 
 ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
- 
- 
- 
-```Maybe treat this as two fold of the chapter, and make a clear statement that we are now focusing on abstraction and repetiton in visual art and literature. ``` 
- 
- ![](https://dl.dropboxusercontent.com/u/53638/minimial.jpg)
-  
+
+Images like these reveal the unique visual patterns of their interior circuitry. Designed to maximize electronic performance at infinitesimal scale, they can also be quite geometrically appealing.
+
 The Conceptual artists were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork. 
  
-
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
 
- 
 This image is a painting by [Peter Halley](http://www.peterhalley.com/) titled Instant City[2]. When I look at Halley's work I'm not only reminded of microchip designs but many other computer design patterns. The von Neumann architecture for instance, which we will touch on in the [CPU Dumpling Shop](https://github.com/tchoi8/handmadecomputer/tree/master/Dumpling) chapter coming up.
  
  ![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
