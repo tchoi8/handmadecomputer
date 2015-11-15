@@ -7,17 +7,12 @@
 ![](https://dl.dropboxusercontent.com/u/53638/laptop.jpg)
 ![](https://c1.staticflickr.com/1/724/22042007159_e7a733dd75_b.jpg)
 ![](https://c2.staticflickr.com/6/5812/21607865113_2a1f05d3cf_b.jpg)
-![](https://dl.dropboxusercontent.com/u/53638/minimial.jpg)
 
+```black box image?```
 
- 
-```This transition is not so smooth. Might need to bridge or further explain why I'm bringing in conceptual  abstract parintings ``` 
- 
- 
-Fortunately, computers perform all the complex tasks we're familiar with through a combination of few basic operations, repeated and abstracted. 
+But setting aside the computing industry's privatization of technical knowledge for a moment, the complexity of modern computers can be broadly understood as the product of only a few basic operations repeated and abstracted.
 
-
-Opening up the computer may be easier than you think. Inside of the computer, there are many small electronics and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed for electroconductive performance, they can also be quite geometrically appealing. 
+And opening up the computer may be easier than you think. Inside of the computer, there are many small electronics and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed for electroconductive performance, they can also be quite geometrically appealing. 
 
 ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
  
@@ -25,6 +20,7 @@ Opening up the computer may be easier than you think. Inside of the computer, th
  
 ```Maybe treat this as two fold of the chapter, and make a clear statement that we are now focusing on abstraction and repetiton in visual art and literature. ``` 
  
+ ![](https://dl.dropboxusercontent.com/u/53638/minimial.jpg)
   
 The Conceptual artists were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork. 
  
