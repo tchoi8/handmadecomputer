@@ -8,11 +8,15 @@
 ![](https://c1.staticflickr.com/1/724/22042007159_e7a733dd75_b.jpg)
 ![](https://c2.staticflickr.com/6/5812/21607865113_2a1f05d3cf_b.jpg)
 
-```black box image?```
+```black box image here?```
 
 But setting aside the computing industry's privatization of technical knowledge for a moment, the complexity of modern computers can be broadly understood as the product of only a few basic operations repeated and abstracted.
 
-And opening up the computer may be easier than you think. Inside of the computer, there are many small electronics and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed for electroconductive performance, they can also be quite geometrically appealing. 
+And *opening up* the computer may be easier than you think.
+
+```open computer image here?```
+
+Inside there are many small electronics and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963. Images like these reveal the unique visual patterns of their interior circuitry. Designed to maximize electronic performance at infinitesimal scale, they can also be quite geometrically appealing.
 
 ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
  
