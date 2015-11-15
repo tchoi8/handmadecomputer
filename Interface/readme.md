@@ -18,13 +18,17 @@ Similarly, stepping inside the computer may be easier than you think.
 
 ```open computer image here?```
 
-Opening the computer we find lots of small electronic components and a circuit board that connects them together. This is a microscopic image of a microchip (resistor-transistor flip-flop logic [1]) from 1963.
+Opening the computer we find lots of small electronic components and a circuit board that connects them together. This is an image of a microchip from 1963 at 100x magnification.
 
 ![](https://farm6.staticflickr.com/5652/20858537691_ebe368b805_o.jpg =400x)
 
-Images like these reveal the unique visual patterns of their interior circuitry. Designed to maximize electronic performance at infinitesimal scale, they can also be quite geometrically appealing.
+```resistor-transistor flip-flop logic [1]```
 
-The Conceptual artists were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork. 
+Micrograph photos reveal the unique visual patterns of the computer's interior circuitry. Designed to maximize electronic performance at infinitesimal scale, they can also be quite geometrically appealing.
+
+But when I look at images like these I see artworks.
+
+Conceptual artists were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork. 
  
 ![](https://farm4.staticflickr.com/3845/18745549829_6d22d7e788_z.jpg =400x)
 
