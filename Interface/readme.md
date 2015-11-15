@@ -14,7 +14,7 @@ But setting aside the computing industry's privatization of technical knowledge 
 
 ![](https://dl.dropboxusercontent.com/u/53638/abstraction.jpg)
 
-Stepping inside the computer may be easier than you think.
+Similarly, stepping inside the computer may be easier than you think.
 
 ```open computer image here?```
 
