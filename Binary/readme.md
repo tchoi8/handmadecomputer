@@ -4,7 +4,7 @@
 - Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)  
 - Plan to experiment with structure and organization. 10/20/2015
 
-#1. What is Computer? 
+#1. What is a Computer? 
 
 "Now let's make a computer! Wait, what is a computer?
 
