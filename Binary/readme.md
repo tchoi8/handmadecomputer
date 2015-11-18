@@ -6,7 +6,17 @@
 
 #1. What is Computer? 
 
-"Now let's make a computer! Wait, what is a computer? Computer can do math (like adding, subtracting, multiplying), remember information over time. It also has clocks which is very important. Computers, even in itssimpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit". 
+"Now let's make a computer! Wait, what is a computer?
+
+This isn't so easy to answer, there are several types of computers and it depends who you ask.
+
+Computers can do arithmetic operations (adding, multiplying, etc.),
+
+they can remember information, like the inputs and outputs of those arithmetic operations, or a specific sequence of arithmatic.
+
+Lastly, computers can keep time, so they can carry out the operations above in the sequence they've remembered.
+
+Computers, even in its simpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit". 
 
 ```Edit this part succinctly, and write in hand writing. Just words, no images.``` 
 
