@@ -8,7 +8,9 @@
 
 "Now let's make a computer! Wait, what is a computer?
 
-This isn't so easy to answer, there are several types of computers and it depends who you ask.
+There are a few ways to answer this question. One would be specifying a machine with the fewest parts needed to "compute" something. Ok... but what does it mean for something to be "computable"? Well, a computable task, oddly enough, is one which can reliably be carried out by a machine using a specific sequence of instructions.
+
+If that seems pretty circular, that's because it is. [computability theory, turing machine & turing completeness, shannon & information theory?]
 
 Computers can do arithmetic operations (adding, multiplying, etc.),
 
