@@ -8,9 +8,12 @@
 
 "Now let's make a computer! Wait, what is a computer?
 
-There are a few ways to answer this question. One would be specifying a machine with the fewest parts needed to "compute" something. Ok... but what does it mean for something to be "computable"? Well, a computable task, oddly enough, is one which can reliably be carried out by a machine according to a specific sequence of instructions.
+There are a few ways to answer that question. One straightforward approach is to specify the simplest device which can "compute" something. Ok... but what does it mean to be "computed"? Oddly enough, a computable task is one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.
 
-If that seems pretty circular, that's because it is. [computability theory, turing machine & turing completeness, shannon & information theory?]
+Seems pretty circular, however, it's precicely the tautology implicit in any definition of computation which reveals its connection to foundational philosophical questions. Questions like how we should distinguish between one object and another, or a system and its surroundings. Or how we can tell if an algorithm is meaningfully different from another. These are all difficult problems, but ones that information and computational theory try to answer.
+
+
+[turing machine & turing completeness, shannon & information theory?]
 
 Computers can do arithmetic operations (adding, multiplying, etc.),
 
