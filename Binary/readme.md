@@ -8,7 +8,7 @@
 
 "Now let's make a computer! Wait, what is a computer?
 
-There are a few ways to answer that question. One straightforward approach is to specify the simplest device which can "compute" something. Ok... but what does it mean to be "computed"? Oddly enough, a computable task is one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.
+There are a few ways to answer that question. One straightforward approach is to specify the simplest device which can "compute" something. Ok... but what does it mean to be "computed"? Oddly enough, we define a computable task as one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.
 
 Seems pretty circular, however, it's precicely the tautology implicit in any definition of computation which reveals its connection to foundational philosophical questions. Questions like how we should distinguish between one object and another, or a system and its surroundings. Or how we can tell if an algorithm is meaningfully different from another. These are all difficult problems, but ones that information and computational theory try to answer.
 
