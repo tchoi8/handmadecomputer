@@ -12,8 +12,9 @@ There are a few ways to answer that question. One straightforward approach is to
 
 Seems pretty circular, however, it's precicely the tautology implicit in any definition of computation which reveals its connection to foundational philosophical questions. Questions like how we should distinguish between one object and another, or a system and its surroundings. Or how we can tell if an algorithm is meaningfully different from another. These are all difficult problems, but ones that information and computational theory try to answer.
 
-
 [turing machine & turing completeness, shannon & information theory?]
+
+Here we'll be building a simple computer with three capabilities.
 
 Computers can do arithmetic operations (adding, multiplying, etc.),
 
