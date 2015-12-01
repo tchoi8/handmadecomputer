@@ -8,9 +8,15 @@
 
 "Now let's make a computer! Wait, what is a computer?
 
-There are a few ways to answer that question. One straightforward approach is to specify the simplest device which can "compute" something. Ok... but what does it mean to be "computed"? Oddly enough, we define a computable task as one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.
+There are a few ways to answer that question. One approach is to specify the simplest device which can "compute" something.
 
-Seems pretty circular, however, it's precicely the tautology implicit in any definition of computation which reveals its connection to foundational philosophical questions. Questions like how we should distinguish between one object and another, or a system and its surroundings. Or how we can tell if an algorithm is meaningfully different from another. These are all difficult problems, but ones that information and computational theory try to answer.
+Ok... but what does it mean to be "computed"?
+
+Oddly enough, we define a computable task as one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.(computable function)[https://en.wikipedia.org/wiki/Computable_function]
+
+Seems pretty circular, but attempts to resolve this apparent circularity can also reveal fundemental connections between computation and phiosophy. Determining if a problem is (computable)[https://en.wikipedia.org/wiki/Halting_problem] without first computing it has proven one of the most difficult problems in computational theory.
+
+Alan turing (suggested)[https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis] ... and debate continues as to whether all physical processes are computable.
 
 [turing machine & turing completeness, shannon & information theory?]
 
