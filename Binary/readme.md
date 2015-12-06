@@ -12,11 +12,11 @@ There are a few ways to answer that question. One approach is to specify the sim
 
 Ok... but what does it mean to be "computed"?
 
-Oddly enough, a (computable task)[https://en.wikipedia.org/wiki/Computable_function] is one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.
+Oddly enough, a [computable task](https://en.wikipedia.org/wiki/Computable_function) is one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.
 
-This may seem circular, however attempts to resolve the apparent circularity, while productive historically, oftimes reveal further questions about the ontology of computation and it's relationship to the world. Determining which tasks are (computable)[https://en.wikipedia.org/wiki/Halting_problem], for instance, without first attempting to do so has proven one of the most difficult problems in computational theory.
+This may seem circular, however attempts to resolve the apparent circularity, while productive historically, oftimes reveal further questions about the ontology of computation and it's relationship to the world. Determining which [tasks are computable](https://en.wikipedia.org/wiki/Halting_problem), for instance, without first attempting to do so has proven one of the most difficult problems in computational theory.
 
-Alan turing (suggested)[https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis] a framework for thinking about computation using what we now call the "Turing Machine." This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
+Alan turing [suggested](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) a framework for thinking about computation using what we now call the "Turing Machine." This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
 
 and debate continues as to whether all physical processes are computable.
 
