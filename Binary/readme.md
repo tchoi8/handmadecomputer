@@ -125,7 +125,7 @@ However, this is read 'One Zero' in Binary numbers, not Ten as in Decimal number
 ```Probably need to start explaining about Integrated Circuits here```
 
 
-#4. 1-bit computer
+#1-bit computer
 
 
 
@@ -176,7 +176,7 @@ Also [how to make Adder, Memory](https://farm8.staticflickr.com/7251/14007688534
 
 
 
-#5. Summary
+#Summary
 
 This is how computers work on the conceptual level. However, 1-bit computer can not do alot of useful computation, and it can't even be programmed per se. Thus we need to look at how modern computers use abstraction and repeptition of Logic to make something that is arguably close to Computer".
  
