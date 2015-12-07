@@ -1,6 +1,17 @@
 [⇐ DUMPLING SHOP](https://github.com/tchoi8/handmadecomputer/blob/master/Dumpling/readme.md)
 
 
+- Transition to City metaphors by an introductory drawing
+- Zooming out from the dumpling shop, the whole city, the whole computer 
+- driving in from the desert, the city comes closer and closer ( maybe reference the Poetry here, or choose Calvino's episode?)
+- try to park
+- there's a small logical blindspot with the parking lot metaphor 
+- simplify mux/ demux
+- focus on the question "What is similar about cities and computers"
+- Here, we return to what kind of computer do we want to build? what kind of city do we want to live in?
+- Occupy, open space and etc 
+- Last drawing - square wave, and wave forms 
+
 What is RAM exactly? RAM stands for Random Access Memory. To help us understand how RAM works let's imagine a parking lot with 8 spaces representing 8-bits of information.
 
 ![](https://farm4.staticflickr.com/3872/14630594145_edc4ca6e67_o.jpg =600x)

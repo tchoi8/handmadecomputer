@@ -34,6 +34,8 @@ The cashier alternates between taking orders from the people in line behind me a
  
 ![](https://c1.staticflickr.com/1/704/22015717730_5f6b6f5e1f_b.jpg =600x)
 
+- the drawing will need to clarify that the cashier is also cooking. or just delivering orders 
+
 While I wait impatiently for my food, I peer into the back to see the chefs making all the dumplings from scratch. There's a person peeling onions, and someone cutting chives.
 
 ![](https://farm6.staticflickr.com/5747/20899984062_b7d9bd86c1_b.jpg =300x)
@@ -64,6 +66,8 @@ At the CPU Dumpling Shop, whenever a customer orders food their 1order is consid
 
 ![](https://farm6.staticflickr.com/5773/20825301555_0ecf439c0a_b.jpg =600x)
 
+ - this drawing will need edit, CU and ALU will swap. CU gives orders to the kitchen and translates 
+ - ALU is the kitchen tool that actually do the cooking, arithmetics and logical operations. 
  
 
 While the employees all know how to perform a variety of tasks, the chef knows recipes for several types of dumplings and the cashier knows where to find extra takeout containers, they don't need to continually think about every step of each task. Instead, they concentrate on single procedure, or program, recalling the information required for other tasks only when they receive a new instruction. They remember where ingredients are stored and how to make different recipes by storing them in their long term memory whereas a single customer's order is only held in their working memory for a few minutes and then forgetten.
@@ -71,8 +75,11 @@ While the employees all know how to perform a variety of tasks, the chef knows r
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
 
 
+YOYO
 
-####Finite-state machine
+- Honest recount here. of "There are the correct ways of building CPU from electronics. I looked at them and I got interested in some elements of it. focusing on RAM and Counter and ALU. This is as far as I got."
+- not call this machine FSM, but use parts of it to explain how CPU's work in electronical level. 
+- 
 
 How does the CPU actually operate? We can begin to explore the CPU by making a compute that's good at remembering and executing simple instructions. 
 
@@ -100,6 +107,8 @@ Complex logic circuits look a lot like busy city streets.
 
 ![](https://farm6.staticflickr.com/5626/20313162303_a0112be8ff_b.jpg =600x)
 
+- draw this by hand
+- 
 [Image source](https://commons.wikimedia.org/wiki/File:74181aluschematic.png)
 
 The modern computer includes many other interconnected machines: instruction registers, memory address registers, cache systems and processes scheduler units, but the CPU described above captures the general the system logic. The datapaths between these machines are like highways connecting one city to another.
