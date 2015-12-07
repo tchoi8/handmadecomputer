@@ -13,7 +13,7 @@ Well, that's a little difficult to explain, even for experts, but let's start by
 
 Ok... but what does it mean to be "computed"?
 
-Oddly enough, the widely accepted meaning of a [computable talk](https://en.wikipedia.org/wiki/Computable_function) is the intuitive one: any operation which is capable of being reliably carried out by a machine according to a specific sequence of instructions or algorithm. If that seems circular, it's because the fundemental limits of computation are still largely unknown (and potentially unknowable), therefore any axiomatic description of universal computation remains hypothetical.
+Oddly enough, the widely accepted meaning of a [computable talk](https://en.wikipedia.org/wiki/Computable_function) is the intuitive one: an operation which is capable of being reliably carried out by a machine according to a specific sequence of instructions or algorithm. If that seems circular, it's because the fundemental limits of computation are still largely unknown (and potentially unknowable), therefore any axiomatic description of universal computation remains hypothetical.
 
 But we see algorithms all around us, repeated patterns of action and process. Surely we can describe some of these mechanisms?
 
