@@ -4,7 +4,7 @@
 - Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)  
 - Plan to experiment with structure and organization. 10/20/2015
 
-#1. What is a Computer?
+What is a Computer?
 
 "Now let's make a computer! Wait, what is a computer?
 
@@ -14,9 +14,13 @@ Ok... but what does it mean to be "computed"?
 
 Oddly enough, the widely accepted meaning of a [computable talk](https://en.wikipedia.org/wiki/Computable_function) is the intuitive one: any operation which is capable of being reliably carried out by a machine according to a specific sequence of instructions or algorithm. If that seems circular, it's because the fundemental limits of computation are still largely unknown (and potentially unknowable), therefore any axiomatic description of universal computation remains hypothetical.
 
-But we see algorithms all around us, repeated patterns of action and process. Can we generalize these processes?
+But we see algorithms all around us, repeated patterns of action and process. Surely we can describe some of these mechanisms?
 
-Alan Turing ---- insight during the   [suggested](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) a framework for thinking about computation using what we now call the "Turing Machine." This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
+Alan Turing's work prior to WWII was focused on just this question. Turing developed a framework which he called automatic machines, known today as *turing machines*, to encode mechanistic processes as general symbolic expressions.
+
+Turing along with Alonzo Church, the creator of λ-calculus, concurrently [postulated](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) that the set of all automatic machines had equivalent functional capabilities. In affect, that the operation of any computing machine could be replicated by a turing machine, thus formalizing the notion of *turing completeness* and offering the possibility of building a general, stored-program computer.
+
+This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
 
 and debate continues as to whether all physical processes are computable.
 
