@@ -1,4 +1,4 @@
-# Introduction
+# 1. Introduction
 
 ![](https://c2.staticflickr.com/6/5764/22013480432_3f3cf9ea77_b.jpg=600x)
 ![](https://c1.staticflickr.com/1/589/21402894434_3125c39431_b.jpg=600x)
@@ -31,7 +31,7 @@ Before computers became personal, they were used as tools for scientific researc
 
 Manuel DeLanda in *War in the Age of Intelligent Machines* chronicles the development of computational technology and theory from the perspective of military operations.
 
-# Interface
+# 2. Interface
 
 ![](https://c2.staticflickr.com/6/5697/22228829805_1ef410a9de_b.jpg)
 ![](https://dl.dropboxusercontent.com/u/53638/tablet.jpg)
@@ -90,7 +90,7 @@ We will build a 1-bit computer in the future chapter with electronics.
 - [2] Peter Halley, Instant City, 1996, Acrylic, Day-Glo acrylic, Metallic acrylic &
 Roll-a-Tex on canvas 58 x 93 inches
 
-#Zero and One
+#3. Zero and One
 
 ##What is a Computer?
 
@@ -162,9 +162,7 @@ This switch controls the connection between the middle pin and two pins by it's 
    ![](https://c1.staticflickr.com/1/765/21717941984_3b2b774410_b.jpg)
    
  
-##Binary logic 
-
-
+##4. Binary logic 
 
 ``` Break from the technical details, change tones slightly. Brief mention of Claude Shannon's paper on switching circuits and George Boole' logic. Explain Binary with Thumbs up & down and Venn Diagram. Also introduce Integrated Circuit and the idea of abstraction here.``` 
 
@@ -201,7 +199,6 @@ However, this is read 'One Zero' in Binary numbers, not Ten as in Decimal number
 ![](https://c1.staticflickr.com/1/579/21841043889_33c3084915_b.jpg =600x)
 
 ```Probably need to start explaining about Integrated Circuits here```
-
 
 ##1-bit computer
 
@@ -266,7 +263,7 @@ And out of NAND logic gates, you can make a 1 bit computer!
 ![](https://c2.staticflickr.com/6/5760/22350581051_2b5ec9f2a1_b.jpg)
 ![](https://c2.staticflickr.com/6/5621/22153093839_b292654f96_b.jpg)
 
-#Dumpling Shop
+#4. Dumpling Shop
 
 [⇐ ZERO & ONE / BINARY](https://github.com/tchoi8/handmadecomputer/blob/master/Binary/readme.md)
 
@@ -300,8 +297,6 @@ After looking at the menu, I decide to get pork and chive. I ask the cashier at 
 
 The cashier alternates between taking orders from the people in line behind me and packing up orders as they're finished.
 
- 
- 
 ![](https://c1.staticflickr.com/1/704/22015717730_5f6b6f5e1f_b.jpg =600x)
 
 - the drawing will need to clarify that the cashier is also cooking. or just delivering orders 
@@ -343,7 +338,6 @@ At the CPU Dumpling Shop, whenever a customer orders food their 1order is consid
 While the employees all know how to perform a variety of tasks, the chef knows recipes for several types of dumplings and the cashier knows where to find extra takeout containers, they don't need to continually think about every step of each task. Instead, they concentrate on single procedure, or program, recalling the information required for other tasks only when they receive a new instruction. They remember where ingredients are stored and how to make different recipes by storing them in their long term memory whereas a single customer's order is only held in their working memory for a few minutes and then forgetten.
 
 ![](https://farm1.staticflickr.com/743/20774209011_a520def1b5_o.jpg =300x)
-
 
 YOYO
 
@@ -391,7 +385,7 @@ The modern computer includes many other interconnected machines: instruction reg
 - [2] [Finite State Machine](https://github.com/tchoi8/handmadecomputer/tree/master/FSM) is actually a conceptual term for computational architecture.    
 - Also [Turing](https://github.com/tchoi8/handmadecomputer/tree/master/Turing)'s Universal Machine is an important concept. 
 
-#RAM City
+#5. RAM City
 
 - Transition to City metaphors by an introductory drawing
 - Zooming out from the dumpling shop, the whole city, the whole computer 
