@@ -1,8 +1,9 @@
 [⇐ INTERFACE](https://github.com/tchoi8/handmadecomputer/blob/master/Interface/readme.md)
 
+```
 - Beginning work on this chapter on a separate branch, some plans on [Issue 7](https://github.com/tchoi8/handmadecomputer/issues/7)
-- Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)  
-- Plan to experiment with structure and organization. 10/20/2015
+- Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)
+```
 
 What is a Computer?
 
