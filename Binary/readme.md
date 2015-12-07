@@ -95,8 +95,9 @@ NAND is short for *not* AND logic. Here A and B are inputs, either of which can 
  ![](https://c1.staticflickr.com/1/613/21839648508_2346bd533a_o.jpg =600x)
 
 
-It's exhauting to go through these logic stuff, but believe me, it's like climbing a mountain. You will get a great view in the end!  
- 
+It's exhauting to go through these logic stuff, but believe me, it's like climbing a mountain. You will get a great view in the end!
+
+![](https://dl.dropboxusercontent.com/u/53638/mountain.jpghttps://dl.dropboxusercontent.com/u/53638/mountain.jpg)
  
 By combining NAND gates in various arrangements we are able to make every other logic pattern. This is called the *universal gate*, because along with the NOR gate, NAND can be combined to map any input instruction to any output. 
 
