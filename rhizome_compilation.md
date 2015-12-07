@@ -19,7 +19,7 @@
 ![](https://dl.dropboxusercontent.com/u/53638/intricate.jpg)
 
  
-## Reference
+###Reference
 
 [1] There are many ways of defining a computer other than the desktop, laptop, or smartphone. The "computer," on a fundamental level is a tool that can do mathematical operations like add and multiply, remember information and follow instructions. 
 
@@ -85,7 +85,7 @@ We are now going to make a window into this city and peer into the world of zero
 
 We will build a 1-bit computer in the future chapter with electronics. 
 
-##References 
+###Reference
 - [1] Stan Augarten, State of the Art, http://smithsonianchips.si.edu/augarten/index.htm 
 - [2] Peter Halley, Instant City, 1996, Acrylic, Day-Glo acrylic, Metallic acrylic &
 Roll-a-Tex on canvas 58 x 93 inches
@@ -462,7 +462,7 @@ From Model City [7] by Donna Stonecipher [4]
 
 Much like how the cities in Stonecipher's poem builds itself and then vanishes, the computers remembers data into its memory and then deletes it constantly. That's the nature of RAM city where the buildings are occupied and then deserted over night, all governed by the clock and data that signals everyone's movement.  
 
-##Reference 
+###Reference 
 
 - [1] D-Type Flip-Flops can be also made from NAND logic gates.   
 - [2] For detailed explanation of the Mux, refer to this [wiki article](https://en.wikipedia.org/wiki/Multiplexer).
@@ -483,6 +483,6 @@ Nam June Paik wrote “… Karma is samsara. Relationship is metempsychosis. We 
 
 ![](https://farm1.staticflickr.com/744/21033033342_99373b5f53_b.jpg =600x)
 
-**Reference**
+###Reference
 
 - [1] Manifestos, Great Bear Pamphlets, Something Else Press, 1966).
