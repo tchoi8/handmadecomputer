@@ -5,7 +5,7 @@
 - Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)
 ```
 
-What is a Computer?
+#What is a Computer?
 
 "Now let's make a computer! Wait, what is a computer?
 
@@ -43,7 +43,7 @@ Computers, even in its simpliest form will have all of these functionalities. We
 
 ```city and human computation, analog computing is the default form of computation > we want to represent the analog world with zero and one because efficiency of info - send message over distance, imagine sending messages from one city to another```
 
-#2. Electronic friends!
+#Electronic friends!
 
 
  
@@ -80,7 +80,7 @@ This switch controls the connection between the middle pin and two pins by it's 
    ![](https://c1.staticflickr.com/1/765/21717941984_3b2b774410_b.jpg)
    
  
-#3. Binary logic 
+#Binary logic 
 
 
 
