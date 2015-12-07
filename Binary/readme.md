@@ -19,7 +19,7 @@ But we see algorithms all around us, repeated patterns of action and process. Su
 
 Alan Turing's work prior to WWII was focused on just this question. Turing developed a framework which he called automatic machines, known today as *turing machines*, to encode mechanistic processes as general symbolic expressions.
 
-Turing along with Alonzo Church, the creator of λ-calculus, concurrently [postulated](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) that the set of all automatic machines had equivalent functional capabilities. In affect, that the operation of any computing mechanism could be replicated by a turing machine, thus formalizing the notion of *turing completeness* and offering the possibility of constructing von Neumann's stored-program computer.
+Turing along with Alonzo Church, the creator of λ-calculus, concurrently [postulated](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) that the set of all automatic machines had equivalent functional capabilities. In affect, that the operation of any computing mechanism could be replicated by a turing machine, thus formalizing the notion of *turing completeness* and offering von Neumann an opening to build his stored-program computer.
 
 This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
 
