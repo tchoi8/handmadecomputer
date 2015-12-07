@@ -8,13 +8,15 @@
 
 "Now let's make a computer! Wait, what is a computer?
 
-Well, that's hard to explain, even for experts, but let's start by giving an ostensible definition, specifying a system which can "compute" something.
+Well, that's a little difficult to explain, even for experts, but let's start by giving an ostensible definition, specifying a system which can "compute" something.
 
 Ok... but what does it mean to be "computed"?
 
-Oddly enough, the widely accepted meaning of a [computable talk](https://en.wikipedia.org/wiki/Computable_function) is the intuitive one: any operation which is capable of being reliably carried out by a system according to a specific sequence of instructions or algorithm. If that seems circular, it's because the fundemental limits of computation are still largely unknown (and potentially unknowable), therefore any axiomatic description of universal computation remains hypothetical.
+Oddly enough, the widely accepted meaning of a [computable talk](https://en.wikipedia.org/wiki/Computable_function) is the intuitive one: any operation which is capable of being reliably carried out by a machine according to a specific sequence of instructions or algorithm. If that seems circular, it's because the fundemental limits of computation are still largely unknown (and potentially unknowable), therefore any axiomatic description of universal computation remains hypothetical.
 
-But we see algorithms all around us, repeated patterns of action and process. Alan Turing ---- insight during the   [suggested](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) a framework for thinking about computation using what we now call the "Turing Machine." This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
+But we see algorithms all around us, repeated patterns of action and process. Can we generalize these processes?
+
+Alan Turing ---- insight during the   [suggested](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) a framework for thinking about computation using what we now call the "Turing Machine." This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
 
 and debate continues as to whether all physical processes are computable.
 
