@@ -4,19 +4,17 @@
 - Actively responding to [Issue 8](https://github.com/tchoi8/handmadecomputer/issues/8)  
 - Plan to experiment with structure and organization. 10/20/2015
 
-#1. What is a Computer? 
+#1. What is a Computer?
 
 "Now let's make a computer! Wait, what is a computer?
 
-There are a few ways to answer that question. One approach is to specify the simplest device which can "compute" something.
+Well, that's hard to explain, even for experts, but let's start by giving an ostensible definition, specifying a system which can "compute" something.
 
 Ok... but what does it mean to be "computed"?
 
-Oddly enough, a [computable task](https://en.wikipedia.org/wiki/Computable_function) is one capable of being reliably carried out by a machine according to a specific sequence of instructions, or algorithm.
+Oddly enough, the widely accepted meaning of a [computable talk](https://en.wikipedia.org/wiki/Computable_function) is the intuitive one: any operation which is capable of being reliably carried out by a system according to a specific sequence of instructions or algorithm. If that seems circular, it's because the fundemental limits of computation are still largely unknown (and potentially unknowable), therefore any axiomatic description of universal computation remains hypothetical.
 
-This may seem circular, however attempts to resolve the apparent circularity, while productive historically, oftimes reveal further questions about the ontology of computation and it's relationship to the world. Determining which [tasks are computable](https://en.wikipedia.org/wiki/Halting_problem), for instance, without first attempting to do so has proven one of the most difficult problems in computational theory.
-
-Alan turing [suggested](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) a framework for thinking about computation using what we now call the "Turing Machine." This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
+But we see algorithms all around us, repeated patterns of action and process. Alan Turing ---- insight during the   [suggested](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) a framework for thinking about computation using what we now call the "Turing Machine." This device fed an arbitrary length of ticker tape with a series of discrete symbols through a reading window...
 
 and debate continues as to whether all physical processes are computable.
 
@@ -30,9 +28,7 @@ they can remember information, like the inputs and outputs of those arithmetic o
 
 Lastly, computers can keep time, so they can carry out the operations above in the sequence they've remembered.
 
-Computers, even in its simpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit". 
-
-```Edit this part succinctly, and write in hand writing. Just words, no images.``` 
+Computers, even in its simpliest form will have all of these functionalities. We are going to use electronics to make it into a circuit".
 
 ```abstraction and repetition to make a computer```
 
