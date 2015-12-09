@@ -1,6 +1,6 @@
 [↻ RAM CITY (final section)](https://github.com/tchoi8/handmadecomputer/blob/master/RAMcity/readme.md)
 
-![](https://c2.staticflickr.com/6/5764/22013480432_3f3cf9ea77_b.jpg=600x)
+![](https://dl.dropboxusercontent.com/u/53638/hi.jpg)
 ![](https://dl.dropboxusercontent.com/u/53638/this_is_a_story.jpg)
 
 ![](https://dl.dropboxusercontent.com/u/53638/phone.jpg)
