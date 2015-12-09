@@ -101,7 +101,7 @@ Overlooking the importance of our relationship to the computers and choosing con
 
 Nam June Paik wrote “… Karma is samsara. Relationship is metempsychosis. We are in open circuits" [1] I wonder what he meant by "We are in open circuits"? Did he mean a circuit of information? I think we try to close these circuits by striving to master the technologies of our time. But maybe we can also become part of the circuit. Imprint ourselves into the spaces we occupy and dispurse our memories across the people we touch. We are open circuits, we are open city.
 
-![](https://farm1.staticflickr.com/744/21033033342_99373b5f53_b.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/open_city.jpg)
 
 **Reference**
 
