@@ -12,7 +12,7 @@
 [2]
 
 
-![](https://c1.staticflickr.com/1/613/22013727102_f7278f02c1_b.jpg)
+![](https://dl.dropboxusercontent.com/u/53638/small_large.jpg)
 
  ![](https://c2.staticflickr.com/6/5621/21838167168_029bf6e244_b.jpg =600x)
 ![](https://farm6.staticflickr.com/5714/20769983945_476766792e_b.jpg =600x)
