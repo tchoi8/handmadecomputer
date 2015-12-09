@@ -6,7 +6,7 @@
 ![](https://c1.staticflickr.com/1/567/22042008679_df0a1c965f_b.jpg)
 ![](https://dl.dropboxusercontent.com/u/53638/laptop.jpg)
 ![](https://dl.dropboxusercontent.com/u/53638/most_of_us.jpg)
-![](https://c2.staticflickr.com/6/5812/21607865113_2a1f05d3cf_b.jpg)
+![](https://dl.dropboxusercontent.com/u/53638/miniaturization_has_led.jpg)
 
 ```black box image here?```
 
