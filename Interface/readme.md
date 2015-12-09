@@ -12,7 +12,7 @@
 
 But setting aside the computing industry's privatization of technical knowledge for a moment, the complexities of the modern computer can be broadly understood as the product of only a few basic operations repeated and abstracted.
 
-![](https://dl.dropboxusercontent.com/u/53638/abstraction.jpg)
+![](https://dl.dropboxusercontent.com/u/53638/minimial.jpg)
 
 Both art and computation are often made opaque because access is equated with power. But just like the painting, stepping inside the computer may be easier than you think.
 
