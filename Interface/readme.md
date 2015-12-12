@@ -34,7 +34,7 @@ Artworks like this painting by [Peter Halley](http://www.peterhalley.com/) title
 
 I often find surprising connections between art and computation. Conceptual artists, for instance, were interested in more than just the formal qualities of the painting, such as color and shape. They were also attentive to the systems in which their work was created. Their working process emphasized making *programs*, sets of instructions that, when executed, resulted in both a performative action and production of the artwork.
  
-![](https://farm6.staticflickr.com/5823/20813920292_f172897655_b.jpg =600x)
+![](https://dl.dropboxusercontent.com/u/53638/each_one.jpg)
 
 Paintings and books all make use of repetition. Layering shapes or wires or pages, the composition and logic of which allow them to function as a whole.
  
