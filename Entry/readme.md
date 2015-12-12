@@ -14,7 +14,7 @@
 
 ![](https://dl.dropboxusercontent.com/u/53638/small_large.jpg)
 
- ![](https://c2.staticflickr.com/6/5621/21838167168_029bf6e244_b.jpg =600x)
+ ![](https://dl.dropboxusercontent.com/u/53638/sun_no_sun.png)
 ![](https://farm6.staticflickr.com/5714/20769983945_476766792e_b.jpg =600x)
 ![](https://dl.dropboxusercontent.com/u/53638/intricate.jpg)
 
