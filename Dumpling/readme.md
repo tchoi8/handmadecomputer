@@ -113,7 +113,7 @@ Complex logic circuits look a lot like busy city streets.
 
 The modern computer includes many other interconnected machines: instruction registers, memory address registers, cache systems and processes scheduler units, but the CPU described above captures the general the system logic. The datapaths between these machines are like highways connecting one city to another.
 
-![](https://dl.dropboxusercontent.com/u/53638/infoflow.jpg)
+![](https://dl.dropboxusercontent.com/u/53638/cpu.jpg)
 
 ###Extra 
 
